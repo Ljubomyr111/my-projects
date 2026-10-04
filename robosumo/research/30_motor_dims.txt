@@ -1,0 +1,940 @@
+
+########## https://www.pololu.com/product/4745/dimensions ##########
+[content-type text/html; charset=utf-8, 59914 bytes -> html]
+Pololu Metal DC Gearmotors » 37D Metal Gearmotors » 12V 37D Metal Gearmotors »
+100:1 Metal Gearmotor 37Dx57L mm 12V (Helical Pinion)
+New!
+Pololu item #:
+4745
+Brand:
+Pololu
+supply outlook
+Get stock notification
+Notify me when stock is at least
+Cancel
+Optional: desired quantity
+Remove
+Save
+Status:
+Active and Preferred
+Free shipping in USA over $100
+Price break
+Unit price (US$)
+1
+38.95
+5
+35.83
+25
+32.97
+100
+30.33
+Quantity:
+backorders allowed
+Add to cart
+Add to list
+Get price notification
+Notify me
+Cancel
+on any price change
+on any price drop
+at or below $
+at qty
+Save
+This gearmotor is a powerful brushed DC motor with 102.08:1 metal gearbox intended for operation at 12 V . The gearbox is composed mainly of spur gears, but it features helical gears for the first stage for reduced noise and improved efficiency. These units have a 16 mm-long, 6 mm-diameter D-shaped output shaft. This gearmotor is also available with an integrated encoder .
+Key specifications:
+voltage
+no-load performance
+stall extrapolation
+12 V
+100 RPM, 200 mA
+34 kg⋅cm (470 oz⋅in), 5.5 A
+Alternatives available with variations in these parameter(s):
+gear ratio motor type encoders?
+Select variant…
+Compare all products in 12V 37D Metal Gearmotors .
+Description Specs (20) Pictures (11) Resources (4) FAQs (3) On the blog (0) Distributors (80)
+Related products
+12V Motor with 64 CPR Encoder for 37D mm Metal Gearmotors (No Gearbox, Helical Pinion)
+24V Motor with 64 CPR Encoder for 37D mm Metal Gearmotors (No Gearbox, Helical Pinion)
+Pololu Machined Aluminum Bracket for 37D mm Metal Gearmotors
+Pololu Stamped Aluminum L-Bracket Pair for 37D mm Metal Gearmotors
+Pololu Universal Aluminum Mounting Hub for 6mm Shaft, #4-40 Holes (2-Pack)
+Pololu Universal Aluminum Mounting Hub for 6mm Shaft, M3 Holes (2-Pack)
+Pololu Aluminum Scooter Wheel Adapter for 6mm Shaft
+12mm Hex Wheel Adapter for 6mm Shaft (2-Pack)
+12mm Hex Wheel Adapter for 6mm Shaft, Extended (2-Pack)
+Pololu Wheel 80×10mm Pair - Black
+Pololu Wheel 90×10mm Pair - Blue
+TB9051FTG Single Brushed DC Motor Driver Carrier
+VNH5019 Motor Driver Carrier
+Pololu G2 High-Power Motor Driver 24v13
+Dual TB9051FTG Motor Driver Shield for Arduino
+Pololu Dual VNH5019 Motor Driver Shield for Arduino
+Pololu Dual G2 High-Power Motor Driver 24v14 Shield for Arduino
+Jrk G2 24v13 USB Motor Controller with Feedback
+Jrk G2 21v3 USB Motor Controller with Feedback
+Related categories
+12V 37D Metal Gearmotors
+37D Metal Gearmotors
+Pololu Wheels and Tracks
+Brushed DC Motor Controllers
+Motoron M2S Dual High-Power Motor Controllers for Arduino
+Motoron M2H Dual High-Power Motor Controllers for Raspberry Pi
+RoboClaw Motor Controllers
+Brushed DC Motor Drivers
+Robot Controllers
+Current Sensors
+25D Metal Gearmotors
+20D Metal Gearmotors
+Micro Metal Gearmotors
+Print
+Email a friend
+Feeds
+Home
+|
+Forum
+|
+Blog
+|
+Support
+|
+Ordering Information
+|
+Lists
+|
+Distributors
+|
+BIG Order Form
+|
+About
+|
+Contact
+© 2001 – 2026 Pololu Corporation
+Related Products
+12V Motor with 64 CPR Encoder for 37D mm Metal Gearmotors (No Gearbox, Helical Pinion)
+24V Motor with 64 CPR Encoder for 37D mm Metal Gearmotors (No Gearbox, Helical Pinion)
+Pololu Machined Aluminum Bracket for 37D mm Metal Gearmotors
+Pololu Stamped Aluminum L-Bracket Pair for 37D mm Metal Gearmotors
+Pololu Universal Aluminum Mounting Hub for 6mm Shaft, #4-40 Holes (2-Pack)
+Pololu Universal Aluminum Mounting Hub for 6mm Shaft, M3 Holes (2-Pack)
+Pololu Aluminum Scooter Wheel Adapter for 6mm Shaft
+12mm Hex Wheel Adapter for 6mm Shaft (2-Pack)
+12mm Hex Wheel Adapter for 6mm Shaft, Extended (2-Pack)
+Pololu Wheel 80×10mm Pair - Black
+Pololu Wheel 90×10mm Pair - Blue
+TB9051FTG Single Brushed DC Motor Driver Carrier
+VNH5019 Motor Driver Carrier
+Pololu G2 High-Power Motor Driver 24v13
+Dual TB9051FTG Motor Driver Shield for Arduino
+Pololu Dual VNH5019 Motor Driver Shield for Arduino
+Pololu Dual G2 High-Power Motor Driver 24v14 Shield for Arduino
+Jrk G2 24v13 USB Motor Controller with Feedback
+Jrk G2 21v3 USB Motor Controller with Feedback
+Related Categories
+12V 37D Metal Gearmotors
+37D Metal Gearmotors
+Pololu Wheels and Tracks
+Brushed DC Motor Controllers
+Motoron M2S Dual High-Power Motor Controllers for Arduino
+Motoron M2H Dual High-Power Motor Controllers for Raspberry Pi
+RoboClaw Motor Controllers
+Brushed DC Motor Drivers
+Robot Controllers
+Current Sensors
+25D Metal Gearmotors
+20D Metal Gearmotors
+Micro Metal Gearmotors
+Log In
+(702) 262-6648
+Same-day shipping, worldwide
+Shop
+Blog
+Forum
+Support
+My account
+Comments or questions?
+About Pololu
+Contact
+Ordering information
+Distributors
+Log In
+|
+My Account
+|
+Log Out
+|
+Shopping Cart
+US toll free: 1-877-7-POLOLU ~
+(702) 262-6648
+Same-day shipping, worldwide
+Catalog
+Forum
+Blog
+Support
+Ordering
+Distributors
+About
+Contact
+Feedback
+Comments or questions?
+Services
+Custom Laser Cutting
+SMT Stencils
+Products
+New Products
+Specials!
+Robots
+3pi
+Balboa
+Cobot
+Romi
+Zumo
+Kits, Soldering
+Kits, No Soldering
+Electronics
+Arduino
+Cables and Wires
+Computer Interface
+Connectors
+Development Boards
+Isolation
+LEDs
+Motor Control
+Power
+Prototyping
+Raspberry Pi
+Relays
+Sensors
+Servo Control
+Voltage Regulators
+Mechanical
+Ball Casters
+Brackets
+Chassis
+Hardware
+Linear Actuators
+Motors
+Motor Shaft Adapters
+Servos
+Stepper Motors
+Tamiya Products
+Tools
+Tracks
+Wheels
+Shirts
+Balboa T-Shirts
+Zumo T-Shirts
+Logo T-Shirts
+Community
+Mailing list
+Pololu Blog
+Engage Your Brain
+Community Projects
+Feeds
+Email a friend
+########## https://www.pololu.com/product/4745/resources ##########
+[content-type text/html; charset=utf-8, 61383 bytes -> html]
+Pololu Metal DC Gearmotors » 37D Metal Gearmotors » 12V 37D Metal Gearmotors »
+100:1 Metal Gearmotor 37Dx57L mm 12V (Helical Pinion)
+New!
+Pololu item #:
+4745
+Brand:
+Pololu
+supply outlook
+Get stock notification
+Notify me when stock is at least
+Cancel
+Optional: desired quantity
+Remove
+Save
+Status:
+Active and Preferred
+Free shipping in USA over $100
+Price break
+Unit price (US$)
+1
+38.95
+5
+35.83
+25
+32.97
+100
+30.33
+Quantity:
+backorders allowed
+Add to cart
+Add to list
+Get price notification
+Notify me
+Cancel
+on any price change
+on any price drop
+at or below $
+at qty
+Save
+This gearmotor is a powerful brushed DC motor with 102.08:1 metal gearbox intended for operation at 12 V . The gearbox is composed mainly of spur gears, but it features helical gears for the first stage for reduced noise and improved efficiency. These units have a 16 mm-long, 6 mm-diameter D-shaped output shaft. This gearmotor is also available with an integrated encoder .
+Key specifications:
+voltage
+no-load performance
+stall extrapolation
+12 V
+100 RPM, 200 mA
+34 kg⋅cm (470 oz⋅in), 5.5 A
+Alternatives available with variations in these parameter(s):
+gear ratio motor type encoders?
+Select variant…
+Compare all products in 12V 37D Metal Gearmotors .
+Description Specs (20) Pictures (11) Resources (4) FAQs (3) On the blog (0) Distributors (80)
+File downloads
+Datasheet for Pololu 37D Metal Gearmotors (2MB pdf)
+Dimension diagrams of the Pololu 37D mm Metal Gearmotors (459k pdf)
+3D models of 37D mm gearmotors (7MB zip)
+This file contains 3D models (in the step file format) of the 37D mm gearmotors with and without encoders.
+Recommended links
+MATLAB script to plot motor performance curves for Pololu brushed DC gearmotors
+This MATLAB script, written by Ali Asgher Mansoor Habiby, plots speed, power, current draw, and efficiency as they vary with torque when you input the gearmotor specifications. It also prints the resistance of the motor, and the current draw and torque at which maximum efficiency and maximum power occur.
+Related products
+12V Motor with 64 CPR Encoder for 37D mm Metal Gearmotors (No Gearbox, Helical Pinion)
+24V Motor with 64 CPR Encoder for 37D mm Metal Gearmotors (No Gearbox, Helical Pinion)
+Pololu Machined Aluminum Bracket for 37D mm Metal Gearmotors
+Pololu Stamped Aluminum L-Bracket Pair for 37D mm Metal Gearmotors
+Pololu Universal Aluminum Mounting Hub for 6mm Shaft, #4-40 Holes (2-Pack)
+Pololu Universal Aluminum Mounting Hub for 6mm Shaft, M3 Holes (2-Pack)
+Pololu Aluminum Scooter Wheel Adapter for 6mm Shaft
+12mm Hex Wheel Adapter for 6mm Shaft (2-Pack)
+12mm Hex Wheel Adapter for 6mm Shaft, Extended (2-Pack)
+Pololu Wheel 80×10mm Pair - Black
+Pololu Wheel 90×10mm Pair - Blue
+TB9051FTG Single Brushed DC Motor Driver Carrier
+VNH5019 Motor Driver Carrier
+Pololu G2 High-Power Motor Driver 24v13
+Dual TB9051FTG Motor Driver Shield for Arduino
+Pololu Dual VNH5019 Motor Driver Shield for Arduino
+Pololu Dual G2 High-Power Motor Driver 24v14 Shield for Arduino
+Jrk G2 24v13 USB Motor Controller with Feedback
+Jrk G2 21v3 USB Motor Controller with Feedback
+Related categories
+12V 37D Metal Gearmotors
+37D Metal Gearmotors
+Pololu Wheels and Tracks
+Brushed DC Motor Controllers
+Motoron M2S Dual High-Power Motor Controllers for Arduino
+Motoron M2H Dual High-Power Motor Controllers for Raspberry Pi
+RoboClaw Motor Controllers
+Brushed DC Motor Drivers
+Robot Controllers
+Current Sensors
+25D Metal Gearmotors
+20D Metal Gearmotors
+Micro Metal Gearmotors
+Print
+Email a friend
+Feeds
+Home
+|
+Forum
+|
+Blog
+|
+Support
+|
+Ordering Information
+|
+Lists
+|
+Distributors
+|
+BIG Order Form
+|
+About
+|
+Contact
+© 2001 – 2026 Pololu Corporation
+Related Products
+12V Motor with 64 CPR Encoder for 37D mm Metal Gearmotors (No Gearbox, Helical Pinion)
+24V Motor with 64 CPR Encoder for 37D mm Metal Gearmotors (No Gearbox, Helical Pinion)
+Pololu Machined Aluminum Bracket for 37D mm Metal Gearmotors
+Pololu Stamped Aluminum L-Bracket Pair for 37D mm Metal Gearmotors
+Pololu Universal Aluminum Mounting Hub for 6mm Shaft, #4-40 Holes (2-Pack)
+Pololu Universal Aluminum Mounting Hub for 6mm Shaft, M3 Holes (2-Pack)
+Pololu Aluminum Scooter Wheel Adapter for 6mm Shaft
+12mm Hex Wheel Adapter for 6mm Shaft (2-Pack)
+12mm Hex Wheel Adapter for 6mm Shaft, Extended (2-Pack)
+Pololu Wheel 80×10mm Pair - Black
+Pololu Wheel 90×10mm Pair - Blue
+TB9051FTG Single Brushed DC Motor Driver Carrier
+VNH5019 Motor Driver Carrier
+Pololu G2 High-Power Motor Driver 24v13
+Dual TB9051FTG Motor Driver Shield for Arduino
+Pololu Dual VNH5019 Motor Driver Shield for Arduino
+Pololu Dual G2 High-Power Motor Driver 24v14 Shield for Arduino
+Jrk G2 24v13 USB Motor Controller with Feedback
+Jrk G2 21v3 USB Motor Controller with Feedback
+Related Categories
+12V 37D Metal Gearmotors
+37D Metal Gearmotors
+Pololu Wheels and Tracks
+Brushed DC Motor Controllers
+Motoron M2S Dual High-Power Motor Controllers for Arduino
+Motoron M2H Dual High-Power Motor Controllers for Raspberry Pi
+RoboClaw Motor Controllers
+Brushed DC Motor Drivers
+Robot Controllers
+Current Sensors
+25D Metal Gearmotors
+20D Metal Gearmotors
+Micro Metal Gearmotors
+Log In
+(702) 262-6648
+Same-day shipping, worldwide
+Shop
+Blog
+Forum
+Support
+My account
+Comments or questions?
+About Pololu
+Contact
+Ordering information
+Distributors
+Log In
+|
+My Account
+|
+Log Out
+|
+Shopping Cart
+US toll free: 1-877-7-POLOLU ~
+(702) 262-6648
+Same-day shipping, worldwide
+Catalog
+Forum
+Blog
+Support
+Ordering
+Distributors
+About
+Contact
+Feedback
+Comments or questions?
+Services
+Custom Laser Cutting
+SMT Stencils
+Products
+New Products
+Specials!
+Robots
+3pi
+Balboa
+Cobot
+Romi
+Zumo
+Kits, Soldering
+Kits, No Soldering
+Electronics
+Arduino
+Cables and Wires
+Computer Interface
+Connectors
+Development Boards
+Isolation
+LEDs
+Motor Control
+Power
+Prototyping
+Raspberry Pi
+Relays
+Sensors
+Servo Control
+Voltage Regulators
+Mechanical
+Ball Casters
+Brackets
+Chassis
+Hardware
+Linear Actuators
+Motors
+Motor Shaft Adapters
+Servos
+Stepper Motors
+Tamiya Products
+Tools
+Tracks
+Wheels
+Shirts
+Balboa T-Shirts
+Zumo T-Shirts
+Logo T-Shirts
+Community
+Mailing list
+Pololu Blog
+Engage Your Brain
+Community Projects
+Feeds
+Email a friend
+########## https://www.pololu.com/product/4755 ##########
+[content-type text/html; charset=utf-8, 111173 bytes -> html]
+Pololu Metal DC Gearmotors » 37D Metal Gearmotors » 12V 37D Metal Gearmotors »
+100:1 Metal Gearmotor 37Dx73L mm 12V with 64 CPR Encoder (Helical Pinion)
+New!
+Pololu item #:
+4755
+Brand:
+Pololu
+supply outlook
+Get stock notification
+Notify me when stock is at least
+Cancel
+Optional: desired quantity
+Remove
+Save
+Status:
+Active and Preferred
+Free shipping in USA over $100
+Price break
+Unit price (US$)
+1
+60.95
+5
+56.07
+25
+51.59
+100
+47.46
+Quantity:
+backorders allowed
+Add to cart
+Add to list
+Get price notification
+Notify me
+Cancel
+on any price change
+on any price drop
+at or below $
+at qty
+Save
+This gearmotor is a powerful 12V brushed DC motor with a 102.08:1 metal gearbox and an integrated quadrature encoder with a resolution of 64 counts per revolution (CPR) of the motor shaft and 6533 CPR of the gearbox’s output shaft. The gearbox is composed mainly of spur gears, but it features helical gears for the first stage for reduced noise and improved efficiency. These units have a 16 mm-long, 6 mm-diameter D-shaped output shaft. This gearmotor is also available without an encoder .
+Key specifications:
+voltage
+no-load performance
+stall extrapolation
+12 V
+100 RPM, 200 mA
+34 kg⋅cm (470 oz⋅in), 5.5 A
+Alternatives available with variations in these parameter(s):
+gear ratio motor type encoders?
+Select variant…
+Compare all products in 12V 37D Metal Gearmotors .
+Description Specs (22) Pictures (16) Resources (4) FAQs (3) On the blog (0) Distributors (73)
+Overview
+Measuring 37 mm (1.46″) in diameter, these brushed DC gearmotors are the largest and most powerful we carry. They are available in a range of gear ratios from 6.3:1 to 150:1 and with 12 V or 24 V motors, and all versions are available with integrated 64 CPR quadrature encoders on the motor shafts. The 12 V and 24 V motors offer approximately the same performance at their respective nominal voltages, with the 24 V motor drawing half the current of the 12 V motor. See the 37D metal gearmotor datasheet (2MB pdf) for more information, including detailed performance graphs for each gearmotor version. You can also use our dynamically sortable 37D gearmotor comparison table to search for the version that offers the best combination of speed, torque, and current draw for your particular application. A more basic comparison table is available below.
+Rated
+Voltage
+Stall
+Current
+No-Load
+Current
+Gear Ratio
+No-Load Speed
+(RPM)
+Extrapolated
+Stall Torque
+Max Power
+(W)
+Without Encoder
+With Encoder
+(kg ⋅ cm)
+(oz ⋅ in)
+12 V
+5.5 A
+0.2 A
+1:1 (no gearbox)
+10,000
+0.5
+7
+–
+–
+item #4750
+6.3:1
+1600
+3.0
+42
+12
+item #4747
+item #4757
+10:1
+1000
+4.9
+68
+12
+item #4748
+item #4758
+19:1
+530
+8.5
+120
+12
+item #4741
+item #4751
+30:1
+330
+14
+190
+12
+item #4742
+item #4752
+50:1
+200
+21
+290
+10
+item #4743
+item #4753
+70:1
+150
+27
+380
+10 *
+item #4744
+item #4754
+100:1
+100
+34
+470
+8 *
+item #4745
+item #4755
+131:1
+76
+45
+630
+6 *
+item #4746
+item #4756
+150:1
+67
+49
+680
+6 *
+item #2829
+item #2828
+24 V
+3 A
+0.1 A
+1:1 (no gearbox)
+10,000
+0.55
+8
+–
+–
+item #4690
+6.3:1
+1600
+3.5
+49
+14
+item #4688
+item #4698
+10:1
+1000
+5.5
+76
+14
+item #4689
+item #4699
+19:1
+530
+9.5
+130
+13
+item #4681
+item #4691
+30:1
+330
+15
+210
+13
+item #4682
+item #4692
+50:1
+200
+23
+320
+12
+item #4683
+item #4693
+70:1
+140
+31
+430
+10 *
+item #4684
+item #4694
+100:1
+100
+39
+540
+8 *
+item #4685
+item #4695
+131:1
+79
+47
+650
+6 *
+item #4686
+item #4696
+150:1
+68
+56
+780
+6 *
+item #4687
+item #4697
+* Output power for these units is constrained by gearbox load limits; spec provided is output power at max recommended load of 10 kg⋅cm.
+Note: The listed stall torques and currents are theoretical extrapolations; units will typically stall well before these points as the motors heat up. Stalling or overloading gearmotors can greatly decrease their lifetimes and even result in immediate damage. The recommended upper limit for continuously applied loads is 10 kg-cm (150 oz-in), and the recommended upper limit for instantaneous torque is 25 kg-cm (350 oz-in). Stalls can also result in rapid (potentially on the order of seconds) thermal damage to the motor windings and brushes; a general recommendation for brushed DC motor operation is 25% or less of the stall current.
+In general, these kinds of motors can run at voltages above and below the nominal voltages; lower voltages might not be practical, and higher voltages could start negatively affecting the life of the motor.
+The gearboxes are composed mainly of spur gears, but they feature helical gears for the first stage for reduced noise and improved efficiency:
+37D Gearmotor (Helical Pinion) with the gearbox removed showing the helical pinion gear and first mating gear.
+On units with encoders, the encoder portion is protected by a black plastic end cap:
+The end cap is easily removable if you need to access the encoder or want to slightly reduce the overall gearmotor size, but there is a little bit of base plastic that will remain, as shown in the pictures below:
+Details for item #4755
+This gearmotor is a powerful 12V brushed DC motor with a 102.08:1 metal gearbox and an integrated quadrature encoder that provides a resolution of 64 counts per revolution of the motor shaft, which corresponds to 6533 counts per revolution of the gearbox’s output shaft. These units have a 16 mm-long, 6 mm-diameter D-shaped output shaft. This gearmotor is also available without an encoder .
+Key specifications:
+voltage
+no-load performance
+stall extrapolation
+12 V
+100 RPM, 200 mA
+34 kg⋅cm (470 oz⋅in), 5.5 A
+Exact gear ratio: ``(25×30×28×28×30) / (10×10×12×12×12) ~~ bb(102.083:1)``
+Dimensions
+Dimensions of the 37D metal gearmotors with 64 CPR encoders. Units are mm over [inches].
+This diagram is also available as a downloadable PDF (459k pdf).
+Warning : Do not screw too far into the mounting holes as the screws can hit the gears. We recommend screwing no more than 3mm (0.12″) into the screw hole.
+37D mm metal gearmotor with 64 CPR encoder (with end cap removed).
+Using the Encoder
+A two-channel Hall effect encoder is used to sense the rotation of a magnetic disk on a rear protrusion of the motor shaft. The quadrature encoder provides a resolution of 64 counts per revolution of the motor shaft when counting both edges of both channels. To compute the counts per revolution of the gearbox output, multiply the gear ratio by 64. The motor/encoder has six color-coded, 8″ (20 cm) leads terminated by a 1×6 female header with a 0.1″ pitch, as shown in the main product picture. This header works with standard 0.1″ male headers and our male jumper and precrimped wires . If this header is not convenient for your application, you can pull the crimped wires out of the header or cut the header off. The following table describes the wire functions:
+Color
+Function
+Red
+motor power (connects to one motor terminal)
+Black
+motor power (connects to the other motor terminal)
+Green
+encoder GND
+Blue
+encoder Vcc (3.5 – 20 V)
+Yellow
+encoder A output
+White
+encoder B output
+The Hall sensor requires an input voltage, Vcc, between 3.5 and 20 V and draws a maximum of 10 mA. The A and B outputs are square waves from 0 V to Vcc approximately 90° out of phase. The frequency of the transitions tells you the speed of the motor, and the order of the transitions tells you the direction. The following oscilloscope capture shows the A and B (yellow and white) encoder outputs using a 12 V motor at 12 V and a Hall sensor Vcc of 5 V:
+Encoder A and B outputs for 37D mm metal gearmotor with 64 CPR encoder (12V motor running at 12 V).
+By counting both the rising and falling edges of both the A and B outputs, it is possible to get 64 counts per revolution of the motor shaft. Using just a single edge of one channel results in 16 counts per revolution of the motor shaft, so the frequency of the A output in the above oscilloscope capture is 16 times the motor rotation frequency.
+Gearmotor accessories
+Mounting brackets: The face plate has six mounting holes evenly spaced around the outer edge threaded for M3 screws. These mounting holes form a regular hexagon and the centers of neighboring holes are 15.5 mm apart. We carry two brackets for these gearmotors: a stamped aluminum L-bracket (sold in pairs) and a sturdier, tombstone-style machined aluminum bracket (sold individually):
+37D mm gearmotor (without encoder) with L-bracket and 6mm universal mounting hub.
+Pololu machined aluminum bracket for 37D mm metal gearmotors mounting a motor to a clear piece of acrylic.
+Wheels and hubs: The 6 mm diameter gearbox output shaft works with the Pololu universal aluminum mounting hub for 6mm shafts , which can be used to mount our larger Pololu wheels (80mm- and 90mm-diameter) or custom wheels and mechanisms to the gearmotor’s output shaft as shown in the left picture below. Alternatively, you could use our 6mm scooter wheel adapter to mount many common scooter, skateboard, and inline skate wheels to the gearmotor’s output shaft as shown in the right picture below:
+Black Pololu Wheel 90×10mm on a Pololu 37D mm Metal Gearmotor.
+A 37D mm gearmotor connected to a scooter wheel by the 6 mm scooter wheel adapter.
+For a general-purpose hex adapter, consider our 12mm hex wheel adapter (also available in an extended version ), which lets you use these motors with many common hobby RC wheels.
+12mm Hex Wheel Adapter for 6mm Shaft connecting a Wild Thumper Wheel to a 37D mm Metal Gearmotor.
+Motor controllers and drivers: We have a number of motor drivers and motor controllers that work with these 37D mm metal gearmotors. We generally recommend our High-Power Motor Drivers , which are available in various power levels and versions, including some dual-channel shields for Arduino and dual-channel expansion boards for Raspberry Pi . Additionally, our VNH5019-based motor drivers, which are also available as single and dual carriers , are a good match for these gearmotors.
+Pololu Dual G2 High-Power Motor Driver 24v14 Shield for Arduino.
+Pololu Dual G2 High-Power Motor Driver 24v14 for Raspberry Pi (assembled version) with included hardware.
+Pololu dual VNH5019 motor driver shield for Arduino.
+If you are looking for higher-level control interfaces, such as USB, RC, analog voltages, I²C, or TTL serial, consider our Motoron motor controllers , Jrk motor controllers , or RoboClaw motor controllers ; these controllers are available in various power levels several of which can handle the 37D mm metal gearmotors (we generally recommend a motor controller that can handle continuous currents above the stall current of your motor).
+Motoron M2S18v18 Dual High-Power Motor Controller Shield for Arduino (Connectors Soldered).
+Jrk G2 21v3 USB Motor Controller with Feedback.
+RoboClaw 2×7A Motor Controller (V5B) in its included case.
+Current sensors: We have an assortment of current sensors to choose from for those who need to monitor motor current:
+ACS711EX current sensor carrier -15.5A to +15.5A.
+ACS724LLCTR-05AB Current Sensor Carrier -5A to +5A.
+Selecting the Right Gearmotor
+We offer a wide selection of metal gearmotors that offer different combinations of speed and torque. Our metal gearmotor comparison table can help you find the motor that best meets your project’s requirements.
+Related products
+12V Motor with 64 CPR Encoder for 37D mm Metal Gearmotors (No Gearbox, Helical Pinion)
+24V Motor with 64 CPR Encoder for 37D mm Metal Gearmotors (No Gearbox, Helical Pinion)
+Pololu Machined Aluminum Bracket for 37D mm Metal Gearmotors
+Pololu Stamped Aluminum L-Bracket Pair for 37D mm Metal Gearmotors
+Pololu Universal Aluminum Mounting Hub for 6mm Shaft, #4-40 Holes (2-Pack)
+Pololu Universal Aluminum Mounting Hub for 6mm Shaft, M3 Holes (2-Pack)
+Pololu Aluminum Scooter Wheel Adapter for 6mm Shaft
+12mm Hex Wheel Adapter for 6mm Shaft (2-Pack)
+12mm Hex Wheel Adapter for 6mm Shaft, Extended (2-Pack)
+Pololu Wheel 80×10mm Pair - Black
+Pololu Wheel 90×10mm Pair - Blue
+TB9051FTG Single Brushed DC Motor Driver Carrier
+VNH5019 Motor Driver Carrier
+Pololu G2 High-Power Motor Driver 24v13
+Dual TB9051FTG Motor Driver Shield for Arduino
+Pololu Dual VNH5019 Motor Driver Shield for Arduino
+Pololu Dual G2 High-Power Motor Driver 24v14 Shield for Arduino
+Jrk G2 24v13 USB Motor Controller with Feedback
+Jrk G2 21v3 USB Motor Controller with Feedback
+Related categories
+12V 37D Metal Gearmotors
+37D Metal Gearmotors
+Pololu Wheels and Tracks
+Brushed DC Motor Controllers
+Motoron M2S Dual High-Power Motor Controllers for Arduino
+Motoron M2H Dual High-Power Motor Controllers for Raspberry Pi
+RoboClaw Motor Controllers
+Brushed DC Motor Drivers
+Robot Controllers
+Current Sensors
+25D Metal Gearmotors
+20D Metal Gearmotors
+Micro Metal Gearmotors
+Crimp Connector Housings
+0.1″ (2.54 mm) Male Headers
+Print
+Email a friend
+Feeds
+Home
+|
+Forum
+|
+Blog
+|
+Support
+|
+Ordering Information
+|
+Lists
+|
+Distributors
+|
+BIG Order Form
+|
+About
+|
+Contact
+© 2001 – 2026 Pololu Corporation
+Related Products
+12V Motor with 64 CPR Encoder for 37D mm Metal Gearmotors (No Gearbox, Helical Pinion)
+24V Motor with 64 CPR Encoder for 37D mm Metal Gearmotors (No Gearbox, Helical Pinion)
+Pololu Machined Aluminum Bracket for 37D mm Metal Gearmotors
+Pololu Stamped Aluminum L-Bracket Pair for 37D mm Metal Gearmotors
+Pololu Universal Aluminum Mounting Hub for 6mm Shaft, #4-40 Holes (2-Pack)
+Pololu Universal Aluminum Mounting Hub for 6mm Shaft, M3 Holes (2-Pack)
+Pololu Aluminum Scooter Wheel Adapter for 6mm Shaft
+12mm Hex Wheel Adapter for 6mm Shaft (2-Pack)
+12mm Hex Wheel Adapter for 6mm Shaft, Extended (2-Pack)
+Pololu Wheel 80×10mm Pair - Black
+Pololu Wheel 90×10mm Pair - Blue
+TB9051FTG Single Brushed DC Motor Driver Carrier
+VNH5019 Motor Driver Carrier
+Pololu G2 High-Power Motor Driver 24v13
+Dual TB9051FTG Motor Driver Shield for Arduino
+Pololu Dual VNH5019 Motor Driver Shield for Arduino
+Pololu Dual G2 High-Power Motor Driver 24v14 Shield for Arduino
+Jrk G2 24v13 USB Motor Controller with Feedback
+Jrk G2 21v3 USB Motor Controller with Feedback
+Related Categories
+12V 37D Metal Gearmotors
+37D Metal Gearmotors
+Pololu Wheels and Tracks
+Brushed DC Motor Controllers
+Motoron M2S Dual High-Power Motor Controllers for Arduino
+Motoron M2H Dual High-Power Motor Controllers for Raspberry Pi
+RoboClaw Motor Controllers
+Brushed DC Motor Drivers
+Robot Controllers
+Current Sensors
+25D Metal Gearmotors
+20D Metal Gearmotors
+Micro Metal Gearmotors
+Crimp Connector Housings
+0.1″ (2.54 mm) Male Headers
+Log In
+(702) 262-6648
+Same-day shipping, worldwide
+Shop
+Blog
+Forum
+Support
+My account
+Comments or questions?
+About Pololu
+Contact
+Ordering information
+Distributors
+Log In
+|
+My Account
+|
+Log Out
+|
+Shopping Cart
+US toll free: 1-877-7-POLOLU ~
+(702) 262-6648
+Same-day shipping, worldwide
+Catalog
+Forum
+Blog
+Support
+Ordering
+Distributors
+About
+Contact
+Feedback
+Comments or questions?
+Services
+Custom Laser Cutting
+SMT Stencils
+Products
+New Products
+Specials!
+Robots
+3pi
+Balboa
+Cobot
+Romi
+Zumo
+Kits, Soldering
+Kits, No Soldering
+Electronics
+Arduino
+Cables and Wires
+Computer Interface
+Connectors
+Development Boards
+Isolation
+LEDs
+Motor Control
+Power
+Prototyping
+Raspberry Pi
+Relays
+Sensors
+Servo Control
+Voltage Regulators
+Mechanical
+Ball Casters
+Brackets
+Chassis
+Hardware
+Linear Actuators
+Motors
+Motor Shaft Adapters
+Servos
+Stepper Motors
+Tamiya Products
+Tools
+Tracks
+Wheels
+Shirts
+Balboa T-Shirts
+Zumo T-Shirts
+Logo T-Shirts
+Community
+Mailing list
+Pololu Blog
+Engage Your Brain
+Community Projects
+Feeds
+Email a friend
