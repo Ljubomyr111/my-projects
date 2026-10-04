@@ -1,0 +1,2 @@
+72485db Add feature_var_1 to main.c
+9afa057 Add main.c with basic content

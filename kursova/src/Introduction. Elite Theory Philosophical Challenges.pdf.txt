@@ -1,0 +1,504 @@
+Vol.:(0123456789)1 3
+Topoi (2022) 41:1–5 
+https://doi.org/10.1007/s11245-022-09794-1
+Introduction. Elite Theory: Philosophical Challenges
+Giovanni Damele1 · Andre Santos Campos1
+Published online: 10 February 2022 
+© The Author(s), under exclusive licence to Springer Nature B.V. 2022
+Great attention has been paid in the last few years to the con-
+traposition between people and elite, perceived as a funda-
+mental character of the populist discourse. Within this frame 
+of reference, both the people and the elite express a concep-
+tion of the univocal will and of the homogeneous interest 
+of two collective bodies—a conception that often hinges on 
+fiction. Criticisms levelled against populism typically focus 
+on the way populist-friendly discourse distorts the values 
+and ends of democratic procedures, and especially on how 
+it misconstrues the people through polarisations based on 
+social, political or nationalistic characteristics. Less atten-
+tion has been paid to the other element of the contraposi-
+tion—the elite.
+Such inattentiveness is surprising due to the existence 
+of a philosophical tradition dating back to the nineteenth 
+century’s final decade that sought to identify the internal 
+dynamics of the ‘elites’ or ‘ruling classes’. Confronted with 
+profound changes in the political landscape due to the pro-
+gressive enlargement of the franchise in Western democra-
+cies, authors such as Vilfredo Pareto, Gaetano Mosca, and 
+Robert Michels insisted on the inevitable oligarchic nature 
+of any kind of collective organisation, including modern 
+mass parties. While insisting that politics is always a power 
+struggle within the ruling elite, these authors centred their 
+analysis on the unintended political consequences of irra-
+tional (or non-completely rational) behaviour, especially 
+by establishing a distinction between the ‘rhetoric of legiti-
+mation’ and ‘true’ motives, which in turn mirrored a more 
+significant and fundamental social distinction between the 
+ruling class and the ruled (per Mosca) or between the elite 
+and the non-elite (per Pareto).
+The elitist tradition strongly affected the analysis of politi-
+cal phenomena during the twentieth century by developing 
+a ‘democratic elitism’ that interpreted liberal-democratic 
+regimes according to a model of institutionalised compe-
+tition between ruling elites. Democratic elitism played a 
+prominent role in explaining the ‘third wave’ of democratisa-
+tion that took place after the Second World War by providing 
+a conceptual and explanatory framework for the emergence 
+of regimes exceedingly dependent on well organised, cen-
+tralised mass parties. However, this framework (and its prac-
+tical effects) has been challenged recently not only by popu-
+list political movements but also by theories of deliberative 
+and participatory democracy, which emphasise the direct 
+involvement of citizens in informed processes of collective 
+decision-making, thereby accusing democratic elitism of 
+being either a perversion of democracy or no democracy 
+at all.
+Still, the fact remains that current liberal democracies 
+tend to preserve the party-dependent model that prompted 
+the rise of democratic elitism in the first place and that the 
+revival of populist discourse produced the consequence of 
+directing the spotlight of contestation towards extant (and 
+undismissed) political elites. An inquiry into the connection 
+between classical elite theory and some of the foremost con-
+temporary challenges to liberal democracy remains wanting 
+in the literature. The purpose of this issue is to carry over 
+the ambition of re-introducing ‘elite theory’ onto the cen-
+tre stage of philosophical and political-theoretical debates, 
+especially against the backdrop of democratic theory and 
+experiences.
+1  Classical Elitism
+It may seem surprising at first to evoke authors such as the 
+Italian Vilfredo Pareto and Gaetano Mosca and the Ger -
+man Robert Michels, the founding fathers of classical elit-
+ism, regarding debates that are frequently interpreted as 
+concerning the need for more and better democracy. Mosca 
+was a conservative whose theories aimed at falsifying the 
+ * Giovanni Damele 
+ giovanni.damele@fcsh.unl.pt
+ Andre Santos Campos 
+ andrecampos@fcsh.unl.pt
+1 Instituto de Filosofia da Nova (IFILNOVA), Faculdade 
+de Ciências Sociais e Humanas – NOVA FCSH, Lisbon, 
+Portugal
+
+2 G. Damele, A. S. Campos 
+1 3
+belief in universal suffrage as a ‘government of the major -
+ity’; Michels was a deluded socialist who became a vocal 
+supporter of the fascist regime in the 1930s as a result of a 
+lifelong reaction against the ‘false democracy’ of the social-
+democratic movement; and Pareto’s reputation as liberal-
+conservative was reinforced by the infamous political act of 
+publicly supporting Mussolini’s march on Rome. Altogether, 
+they seem three perfect examples of a ‘rhetoric of reaction’ 
+(Hirschman 1991).
+However, their influence looms large. Not only did they 
+shape the contemporary approach to the study of the ‘ruling 
+classes decisively’, but they also provided the groundwork 
+for elitist theories of democracy. The impact of their work 
+on the current theoretical diagnoses of democracy suggests 
+that their analyses are worthy of more attention than usually 
+acknowledged.
+Strongly influenced by political realism and, in a broad 
+sense, positivism, both Mosca and Pareto sought to establish 
+political science and sociology as objective sciences that 
+made use of empirical methods. The search for ‘constants’ 
+and ‘general laws’ of political action seemed a natural con-
+sequence of such methods. What Mosca called ‘the struggle 
+for pre-eminence’ (Mosca 1939, p. 29) is nothing more than 
+the striving for social and political power seen as a ‘con-
+stant’ and a ‘fundamental law’ of every political phenom-
+enon. In order to bring this ‘constant’ into light, it is crucial 
+to identify the means through which the ruling class sought 
+to justify (and, at the same time, to conceal) its predomi-
+nance. According to both Mosca and Pareto, there is a clear 
+distinction between the ‘façade legitimation’, represented 
+by political programs, ideologies, public declarations, and 
+even laws and constitutions, and the real motives for politi-
+cal action. Legitimation may not necessarily be strategical 
+or even conscious since human beings have a spontaneous 
+inclination to cover their action’s irrational (and frequently 
+egotistic) motives with the ‘varnish’ of ex post and appar -
+ently rational justification.
+However, this distinction between the ‘rhetoric of legiti-
+mation’ and ‘true motives’ needs to be related to a more 
+significant and fundamental social division: the one between 
+the ruling class and the ruled (in Mosca’s terminology) or 
+between the elite and the non-elite (in Pareto’s terminology). 
+In the words of Pareto, political science needs to be based 
+on ‘the study of the elite, its composition, its structure and 
+the mode of its relation to the non-elite’ ( apud Burnham 
+1943, p. 165).
+In a nutshell, classical elite theory involves the following 
+items (Burnham 1943: 165 ff.):
+1. The primary object of every elite or ruling class is to 
+preserve power and privilege.
+2. The rule of the elite is based upon (not-necessarily 
+explicit) force and fraud.
+3. The social structure is sustained by a political formula 
+that typically correlates with a generally accepted reli-
+gion, ideology or myth.
+4. Every elite has two opposing tendencies: (a) an aris-
+tocratic tendency, by which the elite seeks to preserve 
+the ruling position of its members and to prevent others 
+from entering its ranks; (b) a democratic tendency by 
+which (i ) new elements force their way into the elite 
+from below or (ii) the ruling class opens ranks and 
+absorbs new elements from below.
+5. In the long run, the democratic tendency always prevails. 
+Consequently, no social structure is permanent, and no 
+stable utopia is possible.
+6. When the aristocratic tendency prevails, rapid shifts 
+occur in the composition and structure of elites (e.g., 
+social revolutions).
+The gist of this frame of reference is that the idea of democ-
+racy conveyed by contemporary suffragist and socialist move-
+ments, as synonymous with ‘self-government’ or ‘govern-
+ment by the people’, is false for both Mosca and Pareto. This 
+definition cannot be taken seriously because of its practical 
+impossibility and of the inner characteristics of social organi-
+sations: no social groups are governed by a majority; all social 
+groups, including societies qualified as democratic, are ruled 
+by a minority. Both Mosca and Pareto tried to translate the 
+‘simple, almost obvious, observation that all organised socie-
+ties consist of a vast majority without any political power and a 
+small minority of powerholders’—this was the object of a ‘true 
+science of politics’, that is, to ‘understand how the “political 
+class” recruits itself, maintains itself in power, and legitimates 
+itself through ideologies’ (Hirschman 1991, p. 52).
+From the classical elitist viewpoint, political representation 
+is only indirectly connected to elections by voters. Primarily, 
+it relates to the ability of an organised minority to force ‘its 
+will upon the disorganised majority’—a characteristic that can 
+be found in any political regime. Robert Michels would later 
+delineate this principle in the so-called ‘iron law of oligarchy’: 
+political parties, trade unions, and other mass organisations are 
+invariably ruled by largely self-serving and self-perpetuating 
+oligarchies, which defy attempts at democratic control or par-
+ticipation (Michels 1962; Hirschman 1991, p. 57). In the end, 
+the ruling minority always seeks to justify and legitimise its 
+rule through ‘ideological’ formulae, without which the social 
+structure would disintegrate. This is precisely what the theory 
+of democracy as self-government boils down to: a myth.
+2  Democratic Elitism
+With their interpretation of the universal suffrage as an 
+‘exercise in hypocrisy’, the elitists have been considered 
+by Albert Hirschman a perfect example of the ‘rhetoric of 
+
+3Introduction. Elite Theory: Philosophical Challenges  
+1 3
+futility’, one of the three main arguments typical of what he 
+called the ‘rhetoric of reaction’ (the other two being the per-
+versity and the jeopardy theses) (Hirschman 1991). Accord-
+ing to Hirschman, the assertion that any society, regardless 
+of its political structure, is always divided between the elite 
+and the non-elite was ‘tailor-made [by classical elitists] to 
+prove the futility of any move toward true “political citizen-
+ship” via the franchise’ (Hirschman 1991, p. 51). The main 
+goal of the elitists was to demonstrate that universal suf-
+frage would have changed very little, if anything. In order to 
+strengthen this argument, it was crucial to translate it into a 
+‘scientific law’ that would have shown the impossibility of 
+genuine political change. Pareto and Michels’ theories were 
+instrumental to that end. ‘Pareto’s Law’ and Michel’s ‘iron 
+law of oligarchy’ conspire (indirectly and directly) against 
+any attempt at establishing a ‘government of the majority’.
+The contemptuous attitude towards purported change and 
+progress induces Hirschman to include the futility thesis in 
+the conservative camp. From the rhetorical point of view, 
+the description of elitism as reactionary is clear in the light 
+of the heavy use that the elitists made of metaphors such as 
+the mask, the veil, and the disguise.
+However, a peculiar version of democratic elitism arose in 
+the late 1930s and 1940s at the crossroad between classical 
+elitism and the debates about the possible conciliation of 
+liberalism and democracy. In his book The Machiavellians: 
+Defenders of Freedom, published in 1943, James Burnham 
+made the then-astonishing claim that classical elitists were 
+not necessarily anti-democratic. Burnham’s first argumenta-
+tive step was to reformulate democracy in accordance with 
+Mosca’s definitions: ‘a political system in which there exists 
+“liberty”’. By liberty, Mosca has in mind ‘juridical defence’, 
+that is, ‘a measure of security for the individual which pro-
+tects him from the arbitrary and irresponsible of personally 
+held power’. The most fundamental feature of democracy is, 
+according to Burnham’s reading of Mosca, the right of oppo-
+sition, defined as ‘the right of opponents of the currently 
+governing élite to express publicly their oppositions views 
+and to organise to implement those views’ (apud Burnham 
+1943, p. 180).
+Thus, classical elitists (qualified by Burnham as modern 
+Machiavellians) are said to be defenders of liberty because 
+they ‘do not waste time arguing the merits or demerits of 
+the myth of democracy defined as self-government’, but 
+are ‘very profoundly concerned with the reality of democ-
+racy defined as liberty’ (Burnham 1943, p. 181). Liberty, 
+judicial defence, and the right of opposition are, thus, the 
+keystones of Burnham’s reinterpretation of democracy. 
+This does not falsify the central premise of the elitist argu-
+ment, namely that rulers’ primary objective is to act at the 
+service of their own interest and to maintain power and 
+privilege. The ‘will-to-power thesis’ remains key in politi-
+cal processes. From this premise follows that ‘only power 
+restrains power’ and that such a ‘restriction of power’ can 
+only become visible in the existence and activity of oppo-
+sitions (Burnham 1943, p. 182). This observation, which 
+combines a realistic viewpoint with the liberal commit-
+ment to the limitation of power, sets a new research path 
+for elite theory.
+Democratic elitism accepts the main premise of elite the-
+ory: ‘no societies are governed by the people, by a majority; 
+all societies, including societies called democratic, are ruled 
+by a minority’ (Burnham 1943, p. 184). It also recognises 
+that the democratic principle is nothing but a formula that 
+allows the ruling class to legitimise its power. However, cer-
+tain political practices are associated with the democratic 
+formula. Universal suffrage is a typical example. From this 
+viewpoint, the ‘suffrage machinery’ tends to favour ‘those 
+individuals who are more apt to use the machinery’ (Burn-
+ham 1943, p. 185). Even if democracy is just one possible 
+political model which legitimises the ruling class and its 
+power, as classical elitists maintained, the adoption of one or 
+another model is not without consequences for the members 
+of non-elites. As Burnham pointed out, there are ‘real and 
+significant differences in social structures from the point of 
+view of the masses’; ‘these differences … cannot be prop-
+erly evaluated in terms of formal meanings, verbalism and 
+ideologies’ (Burnham 1943, p. 166).
+This frame of reference allowed Gaetano Salvemini to 
+adopt a competitive theory of democracy (very close to the 
+one developed later by Joseph Schumpeter in the seminal 
+work Capitalism, Socialism, and Democracy, which first 
+appeared in 1942) in his article ‘Democracy and Dictator -
+ship’, which came out in 1934 when he was professor of 
+‘Italian Civilisation’ at Harvard University. According to 
+Salvemini, the main difference between autocracies and 
+democracies is the fact that the latter comprise many elites 
+in competition with each other. Like Schumpeter, Salvemini 
+insisted on the dynamic dimension of elite theory; at a first 
+level, a vertical dynamic between elites and non-elites allows 
+the former to be tendentially open to external members; at a 
+second level, however, a horizontal dynamic creates the con-
+ditions for competition between different elites. The vertical 
+and the horizontal dynamics together generate a political 
+system in which mass bureaucratic parties play a pivotal 
+role. They make the selection of the elite possible, and they 
+organise the majority while making the ruling minorities 
+accountable. Salvemini’s theory has an apparent democratic 
+penchant for accountability, in sharp contrast with Schum-
+peter’s later and famous view that the role of the people boils 
+down to the election of a government and nothing more. 
+Even though both Salvemini and Schumpeter underline the 
+importance of the bureaucratic organisation of mass parties, 
+Salvemini insists that ‘competitive democracy’ has to do 
+mainly with the possibility of controlling the ruling class 
+through the electoral machinery.
+
+4 G. Damele, A. S. Campos 
+1 3
+In this setting, Salvemini adds a novel dimension to the 
+‘futility thesis’. According to Hirschman, the classical use 
+of the futility argument is based on the idea that any pro-
+gressive action aimed at changing structural characteris-
+tics is doomed to failure; the typical progressive-friendly 
+counterargument is based on the opposing statement that 
+the same action ‘is backed up by powerful historical forces 
+that are already “on the march”’ and that opposing these 
+forces would be ‘utterly futile’ (Hirschman 1991, p. 167). 
+Both the reactionary and the progressive theses are framed 
+as (descriptive) ‘fact judgement’, albeit subsuming a (non-
+descriptive) value judgement implicitly. Salvemini over -
+comes this setting by making the implicit value judgment 
+explicit. With this move, he can develop the explanatory 
+capacities of elite theory and explicitly defend the demo-
+cratic principle as a political formula with positive conse-
+quences from the viewpoint of the masses.
+3  Elitism in the Age of Populism: An Outline 
+of the Issue
+As Cas Mudde pointed out, one of the main features of pop-
+ulism is the anti-elitist / anti-establishment rhetoric. Populist 
+leaders present themselves as strong opponents of the elites. 
+Passing from practice to theory, democratic elitism can help 
+to unveil this rhetoric.
+It is possible to interpret elite theory as a periodical reac-
+tion to social revolution. The strong trend in elite theory dur-
+ing the second half of the nineteenth century can be seen as 
+a reaction against socialism. Before that, the elitist rhetoric 
+present in the réactionnaire literature of the late eighteenth 
+century and the early nineteenth can be seen as inspired by a 
+strong reaction against liberal revolutions. During the 1940s, 
+democratic elitism was used as a theoretical weapon against 
+neo-Bonapartism and fascist dictatorships. Could it be used 
+now to counter, from a liberal-democratic point of view, the 
+populist drift? Perhaps there is room here for applying an 
+analysis similar to the one developed by Hirschman in his 
+Rhetoric of Reaction. Conversely, elite theory can function 
+as a test to different kinds of hypotheses, namely:
+(1) that the appeal to a will of the people or even to 
+direct democracy or deliberative democracy is nothing 
+but a political formula in Mosca’s sense of the term;
+(2) that modern populism is not an exception to 
+Michel’s ‘iron law of oligarchy’;
+(3) that the new populist drift towards Bonapartism 
+(and against a model of competitive democracy such 
+as the one introduced by Salvemini) does not represent 
+an alternative to the inevitability of government by 
+elites but somewhat weakens the control of the major-
+ity over the elite through disintermediation and de-
+politicisation.
+Taking elite theory seriously implies the recognition that 
+it may yet preserve its original analytical force and that it 
+might be helpful to demystify certain kinds of political for -
+mulae while bringing to light the crucial dynamic of the 
+competition between different political actors typically in 
+charge of the operation of government. The essays contained 
+in this dossier develop this working hypothesis by ambi-
+tioning to explore the full potential of elite theory, both by 
+applying the historically-situated conceptual framework to 
+contemporary phenomena and by conducting further inquir-
+ies into the actual contents of elite theory developed by some 
+of its prominent authors.
+The first four articles delve into the relevance of certain 
+aspects of elite theory for analysing problems faced by con-
+temporary liberal democracies. Albert Weale questions the 
+association of populism with the will of the people in light of 
+an elitist framework. In his view, this association is senseless 
+and dangerous to democracy. Citizen engagement should be 
+viewed in accordance with a model of civil society organi-
+sations undertaking practical public deliberation—elitist 
+theory may have something to add to this view, despite its 
+possible inconsistencies.
+Antonio Campati offers next a reflection on what he 
+calls a weakening of the liberal-democratic link between 
+the minority principle and the democratic principle in rela-
+tion to the theory of elites. His main contention is that ‘the 
+logic of distance’ inherent in liberal democracies should be 
+strengthened as a mechanism for improving democracy via 
+elites, in contrast with the views that promote democracy 
+only by eliminating the ontological gap between those who 
+rule and those who are ruled.
+Roberta Astolfi builds on the same connection devel-
+oped by Campati, but her itinerary leads her to diametri-
+cally opposed conclusions. Drawing mainly on a conceptual 
+framework developed by Gramsci, she introduces the idea of 
+a hegemonic majority that, by accounting for greater individ-
+ual and collective engagement and responsibility, breaks the 
+exclusivity of elitism. Her intention is to reinforce the demo-
+cratic decision-making process without developing a concept 
+of authority based on an exclusive elite. Her argumentative 
+path leads her to an interpretation of the role that intellec-
+tuals might undertake of connecting civil society and the 
+government, of fortifying or even restoring the trust between 
+the individuals and their representatives, thereby strengthen-
+ing the levels of legitimacy in contemporary democracies.
+In the fourth essay, Alfred Archer and Amanda Cawston 
+tackle an interesting phenomenon in the dynamics of certain 
+representative democracies that resonates with elite theory: 
+the involvement of celebrities in politics. This phenome-
+non acquired a new dimension with the election of Donald 
+
+5Introduction. Elite Theory: Philosophical Challenges  
+1 3
+Trump, who was considered first and foremost a celebrity 
+rather than a politician. Their starting point is the view that 
+celebrities possess a significant degree of epistemic power 
+(the power to influence what people believe) that is uncon-
+nected to appropriate expertise, a phenomenon that pre-
+sents a problem for deliberative and epistemic theories of 
+democratic legitimacy. They then argue that recognition of 
+celebrity epistemic power can be a valuable resource for 
+supporting the legitimacy and practice of democratic elit-
+ism, though these benefits carry certain risks to which elite 
+theories are particularly vulnerable.
+The following three articles redirect their attention to 
+the fundamental elements of elite theory, following the 
+assumption that the history of classical and democratic elit-
+ism requires a constant re-reading in order to have some 
+utility for analyses about the present. Robert P. Jackson and 
+Marco Di Giulio, who write the fifth and the sixth articles, 
+respectively, focus on the work of Mosca and Pareto. Build-
+ing on recent re-assessments of Pareto and Mosca, Jackson 
+discusses whether their socio-political orientations con-
+tribute to the ‘disfiguration’ of democracy (in Nadia Urbi-
+nati’s terminology) or provide a resource for the renewal 
+of democratic institutions. Highlighting the significance of 
+internal tensions within each thinker’s work, between the 
+causal primacy of psychic states and the ‘mutual depend-
+ence’ of social factors (Pareto), and between the elite princi-
+ple and ‘balanced pluralism’ (Mosca), Jackson develops the 
+hypothesis that the ‘sceptical liberal’ Pareto or the ‘demo-
+cratic elitist’ Mosca elude Urbinati’s unpolitical, populist, 
+and plebiscitary ‘disfigurations’ of democracy. Di Giulio, 
+in turn, carries out the view that Pareto and Mosca, despite 
+their deference to a positivist epistemology, significantly 
+anticipated a sort of epistemological realism unsympathetic 
+to linear notions of causality embedded in contemporary 
+social sciences. With their emphasis on history, contexts and 
+agents, they ushered into the debate of their time some argu-
+ments that realist epistemology fully developed, emphasis-
+ing the role of context-specific and not directly observable 
+explanatory features.
+In the seventh essay, Pedro T. Magalhães calls the read-
+ers’ attention to a towering political and sociological theory 
+figure that is seldom associated with elite theory, but which 
+should be so: Max Weber. For Magalhães, Max Weber’s elite 
+theory has recently been rediscovered by political scientists 
+and theorists who have sought to explore both the heuristic 
+and the normative potential of plebiscitary leader democ -
+racy. Magalhães, however, argues that attention should be 
+shifted from Weber’s context-specific defence of plebiscitary 
+leadership in post-WWI Germany to his broader conception 
+of charisma as an attempt to grasp the meaning of significant 
+social and political change. The upshot is that contemporary 
+democratic theory can draw on Weber to sink into the ambi-
+guities of transformative democratic politics.
+The final essay combines the contemporary-focused 
+approach of the first four essays and the historically-charged 
+approach of the following three essays by focusing on a spe-
+cific national experience: elite recruitment in Italy from 1919 
+to 1994. Adinolfi aims to answer one major question: What 
+are the effects of a critical juncture on the formation process 
+of what he calls ‘the political field’? His starting point is that 
+transition processes during critical junctures are negotiated 
+inside the ministerial elite. Several patterns observable in Ital-
+ian recruitment processes are preserved from one regime to 
+another, such as party membership, career length, and cohort 
+effect among the core group of ministers. Adinolfi concludes 
+that ‘the political field’ is formed through waves of new forces 
+(e.g., via elections) that are tightened by impermeable bounds. 
+This research, however, leaves room for the observance of a 
+contrary trend in the last few years that differs from such pat-
+terns and according to which the ministerial elite is losing its 
+capacity to reproduce itself and allowing outsiders to occupy 
+the public sphere.
+In summary, the papers presented in this issue allow new 
+analyses of the contemporary political landscape through the 
+lens of the study of the elites. This approach can ultimately 
+shed light on the other element of the opposition between the 
+people and the elite, especially by offering the interpretative 
+tools by which to understand how this opposition might some-
+times conceal a competition between the ruling minorities or 
+the epiphenomenon of the ‘circulation of the elites’ (in Pareto’s 
+words). We are confident that this issue’s contributions will 
+help revive interest in elite theory and highlight its potentially 
+fruitful explanatory strength vis-à-vis key problems and chal-
+lenges faced by contemporary democracies.1
+References
+Burnham J (1943) The Machiavellians. defenders of freedom. Putnam 
+& Co, London
+Hirschman AO (1991) The rhetoric of reaction: perversity, futility, jeop-
+ardy. The Belknap Press of Harvard University Press, Cambridge
+Michels R (1962) Political parties: a sociological study of the oligarchical 
+tendencies of modern democracy. The Free Press, New York
+Mosca G (1939) The ruling class. McGraw-Hill, New York
+Pareto V (1935) The mind and society. Harcourt, Brace & Co, New York
+Salvemini G (1934) Democracy and dictatorship. Harvard Graduates’ 
+Magazine, June: 280–305
+Publisher's Note Springer Nature remains neutral with regard to 
+jurisdictional claims in published maps and institutional affiliations.
+1 The contributions included in this collection came out of the Topoi 
+conference “Elite Theory: Philosophical Challenges”, organised by 
+Giovanni Damele and Andre Santos Campos in Lisbon and gener -
+ously sponsored by Springer. The event was originally scheduled to 
+take place on 12–13 June 2020, but it had to be rescheduled to 2022 
+due to the Covid-19 pandemic.
