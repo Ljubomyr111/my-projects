@@ -1,0 +1,4 @@
+d8984c6 Add feature_var_2 to main.c
+662c463 Add feature_var_1 to main.c
+e8fcd94 changes in mainline
+9afa057 Add main.c with basic content
