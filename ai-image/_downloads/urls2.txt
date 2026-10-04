@@ -1,0 +1,6 @@
+https://github.com/comfyanonymous/ComfyUI/releases/download/v0.38.0/ComfyUI_windows_portable_nvidia.7z
+  out=ComfyUI_portable_nvidia.7z
+https://github.com/xinntao/Real-ESRGAN/releases/download/v0.1.0/RealESRGAN_x4plus.pth
+  out=RealESRGAN_x4plus.pth
+https://github.com/Sanster/models/releases/download/add_big_lama/big-lama.pt
+  out=big-lama.pt
