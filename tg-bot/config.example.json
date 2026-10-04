@@ -1,0 +1,16 @@
+{
+  "token": "ВАШ_TELEGRAM_BOT_TOKEN",
+  "deepseekKey": "ВАШ_DEEPSEEK_API_KEY",
+  "deepseekBaseUrl": "https://api.deepseek.com",
+  "model": "deepseek-chat",
+  "systemPrompt": "Ти — потужний дослідницький асистент, який працює через Telegram.",
+  "adminChatIds": [
+    "ВАШ_TELEGRAM_CHAT_ID"
+  ],
+  "maxSteps": 20,
+  "maxOutputChars": 3800,
+  "maxHistory": 80,
+  "filesDir": "files",
+  "python": "шлях/до/python.exe",
+  "edge": "шлях/до/msedge.exe"
+}
