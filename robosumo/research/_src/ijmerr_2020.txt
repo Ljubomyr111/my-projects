@@ -1,0 +1,494 @@
+### TOTAL PAGES: 6
+
+===== PAGE 1 =====
+Research of Various Magnetic Systems Used in 
+Autonomous MegaSumo Robots 
+ 
+Paulina Łapińska, Marcin Dziubek, Łukasz Kotarski, and Rafał Grądzki 
+Faculty of Mechanical Engineering, Bialystok University of Technology, Bialystok, Poland 
+Email: lapinskapaulina96@gmail.com, m_dziubek97@wp.pl, kotarskil@interia.pl, r.gradzki@pb.edu.pl 
+ 
+ 
+ 
+Abstract—The paper is continuation of work on research of 
+magnetic systems used in MegaSumo robots. The article 
+describes comparative research of two configurations of 
+neodymium magnets arrangement. The tests were carried 
+out for the common attraction of magnet sets. Two versions 
+of magnet arrangement were compared - the first version 
+was arranged in an alternating polarization configuration of 
+magnets, while the second was arranged to create a Halbach 
+array. The tests included simulations in the COMSOL 
+program and tests on the MTS 858 TABLE TOP SYSTEM 
+machine.  
+ 
+Index Terms —autonomous robot, sumo robot, magnetism, 
+magnet, halbach array 
+ 
+I. WHAT IS A MEGASUMO ROBOT? 
+Sumo is Japanese national sport where wrestlers are 
+attempting to force opponents out of the dohyo. Same 
+concept is moved to the sumo robots battles. Centuries-
+old tradition of Japanese martial art is coupled with 
+modern technologies to create challenging competition 
+for engineers around the world. The rules for sumo robots 
+battles are straightforward – one autonomous robot ( Fig. 
+1) shall force the other robot out of the circle ring. Sumo 
+robots competition is divided in several categories 
+depending on the dimension and weight of the vehicle. 
+The most popular and therefore most competitive 
+category is MegaSumo class, where floor of the robot 
+cannot exceed the dimensions of 200 by 200 mm and 
+weight of 3000 g.  
+ 
+Figure 1.  Autonomous MegaSumo robot. 
+                                                           
+ 
+Figure 2.  View of the current magnetic system of the MegaSumo robot 
+(1 -magnets; 2 – wheels; 3 - plough). 
+Compact construction of the robot has all the necessary 
+elements for autonomous work including skeleton, drive 
+systems, sensors, electronic system batteries and 
+magnetic system. The magnetic system of the MegaSumo 
+robot is shown in Fig. 2. [1]-[3] 
+The magnetic system will provide the robot's adhesion 
+to the metal dohyo on which he moves. The perfect 
+attraction to the mat will make sure that no opponent will 
+be able to drive under the robot. Therefore, the most 
+vulnerable areas are around the wheels and the plough 
+(front main blade), so it is crucial that most of the 
+magnets are placed in those sections. [4], [5] 
+II. RESEARCH OBJECTS 
+5x5x5mm neodymium magnets made of material 
+designated N52 (NdFeB) were tested. Their nominal 
+attraction force specified by the manufacturer is approx. 
+1.6 kg / item. The exact parameters of the magnet are 
+shown in Table I. Single magnet is shown in Fig. 3. [6] 
+TABLE I. M AGNET PARAMETERS 
+Dimensions [mm] 5 x 5 x 5 
+Material Neodymium (NdFeB) 
+Magnetising N52 
+Weight [g] 0.94 
+Magnetization [kA/m] 875 
+Remanence [T] 1.47 
+Holding force [kg] Ab. 1.6 
+ 
+Permanent magnet strength can be described as a 
+ability to move other objects. This is determined as the 
+force of attraction or repulsion, depending on the 
+direction. To describe magnets strength’s Maxwell 
+equation (1) can be used: 
+1 
+3 
+2 
+739
+International Journal of Mechanical Engineering and Robotics Research Vol. 9, No. 5, May 2020
+© 2020 Int. J. Mech. Eng. Rob. Res
+doi: 10.18178/ijmerr.9.5.739-744
+Manuscript received April 5, 2019; revised May 9, 2020. 
+
+===== PAGE 2 =====
+2
+02
+BAF
+
+
+ 
+where:  
+- F – strength (N), 
+- A – cross-section of the magnetic pole field (m2), 
+- B - magnetic induction produced by a magnet (T), 
+- µ0 = 4π*10-7 – permeability (H * m-1). 
+ 
+ 
+Figure 3.  1 - Single neodymium magnet. 
+It is not a straightforward task to determine the force 
+between a permanent magnet and a ferromagnetic 
+material at any given distance. It is possible to estimate 
+the value by the use of complicated simulations but most 
+magnet manufacturers conducts experimental tests to 
+figure out the actual value of attraction force. [8]  
+Two configurations of magnet arrangement were 
+prepared. First of them was based on Halbach array, 
+which is a special arrangement of permanent magnets. 
+This magnets distribution allows to enhance the magnetic 
+field on one side of the array. The arrangement diagram 
+and magnetic field distribution is presented in the Fig. 4. 
+ 
+ 
+Figure 4.  Halbach array scheme [9]. 
+Second configuration of permanent magnets is using 
+alternating polarity concept. The diagram of this 
+arrangement is shown on Fig. 5. This type of 
+configuration enhances the magnetic field in the near 
+neighborhood of magnets while distributing the field 
+evenly. 
+ 
+ 
+Figure 5.  Alternating polarity scheme [9]. 
+III. COMPUTER SIMULATION 
+To simulate forces that occurring in both magnet 
+arrangements COMSOL Multiphysics program was used. 
+The simulations were carried out with „Magnetic Fields, 
+No Currents” mode and static simulation type. „Extra fine” 
+mode was used to perform those simulations. The 
+magnetic field produced by the magnets can be described 
+with the following equation (2): 
+ 
+B=μ0 (H+M) 
+where: 
+-   M – value of magnetisation (kA/m), 
+-   µ0 – magnetic permeability, 
+-   H – magnetizing field (kA/m). 
+According to parameters Table I of used neodymium 
+magnets value of magnetisation equals to 875 kA/m. 
+Simulations were carried out with magnetic permeability 
+set to 1 (vacuum conditions). There are no currents, 
+therefore H = 0. 
+The two magnet arrangement schemes presented 
+earlier were built for two different quantities. The first of 
+them contained 200 neodymium magnets, the second one 
+contained 100 of them. Both systems were created in 
+COMSOL Multiphysics program and their model is 
+visible in Fig. 6 and Fig. 7. 
+ 
+Figure 6.  Created system for 100 magnets for the robot floor (1 – 
+magnets). 
+ 
+Figure 7.  Created system for 200 magnets for the robot floor (1 – 
+magnets). 
+When creating the magnetic system of a sumo robot, it 
+is assumed that it should have about 2000 N of attraction 
+(1) 
+(2) 
+1 
+1 
+740
+International Journal of Mechanical Engineering and Robotics Research Vol. 9, No. 5, May 2020
+© 2020 Int. J. Mech. Eng. Rob. Res
+
+===== PAGE 3 =====
+force on the ring, and one neodymium magnet has about 
+10 N capacity. So, theoretically, 200 pieces of magnets 
+are needed to get the desired force. This was the reason 
+for choosing the system with 200 magnets. A system with 
+100 magnets was created to confirm the test results. In the 
+case of the Halbach array and alternating polarity, the 
+models created in the program looked the same. 
+ 
+Figure 8.  Simulation results for 200 magnets. 
+ 
+Figure 9.  Simulation results for 100 magnets. 
+TABLE II. S IMULATION RESULTS FOR 200 MAGNETS 
+Distance Halbach array Alternating polarity 
+mm F [N] F [N] 
+0.1 2624.658 1588.905 
+0.2 2320.612 1308.324 
+0.3 2072.31 1093.866 
+0.4 1863.806 924.885 
+0.5 1684.514 787.9425 
+0.6 1527.466 674.2686 
+0.7 1389.044 579.3249 
+0.8 1266.126 499.4286 
+0.9 1156.353 431.6223 
+1 1057.622 373.4322 
+TABLE III. S IMULATION RESULTS FOR 100 MAGNETS 
+Distance Halbach array Alternating polarity 
+mm F [N] F [N] 
+0.1 1283.787 1588.905 
+0.2 1133.0102 1308.324 
+0.3 1010.226 1093.866 
+0.4 907.3274 924.885 
+0.5 819.075 787.9425 
+0.6 741.9446 674.2686 
+0.7 674.0602 579.3249 
+0.8 613.9076 499.4286 
+0.9 560.0664 431.6223 
+1 512.0408 373.4322 
+After conducting the first simulations for 200 magnets, 
+the intended effect was achieved ( Fig. 8). With the same 
+number of magnets, a greater attraction force was 
+obtained for the Halbach array than for alternating 
+polarity. In the case of a Halbach array, it is more similar 
+to a linear function. Magnets arranged in an alternating 
+polarity gave results that follow the model of a 
+logarithmic function (it has more dynamic value change 
+than in the case of the Halbach array). 
+100 magnets were tested to confirm the results (Fig . 9). 
+In the case of Halbach array and alternating polarity 
+arrangement, the points are arranged in the same way 
+with the difference that the achieved force values are 
+lower. However, the strength in the case of the Halbach 
+array is much higher than for alternating polarit y 
+arrangement.  
+The simulation results are presented in Table II and in 
+Table III. 
+IV. EXPERIMENTAL TESTS 
+To verify the credibility of given simulation real 
+research was carried out. Both magnet arrangements were 
+tested using MTS 858 TABLE TOP SYSTEM testing 
+machine ( Fig. 10). All necessary parameters have been 
+measured and saved in data files for further analysis. 
+This research was conducted by lifting magnet 
+configurations from a 10mm steel plate ( Fig. 11). Tearing 
+distance was set from 0 to 1.4 mm  in case of alternating 
+polarity, while Halbach array was tested in 0 to 1 mm 
+range. Frequency of data reading was 25 Hz. The 
+increment during tearing was equal to approximately 
+0.001 mm. To reduce the impact of other factors that 
+could affect the reality of the results the surface of the 
+steel plate has been cleaned of impurities and leveled. 
+ 
+Figure 10.  MTS 858 table top system. 
+ 
+Figure 11.  Top view of a steel plate. 
+741
+International Journal of Mechanical Engineering and Robotics Research Vol. 9, No. 5, May 2020
+© 2020 Int. J. Mech. Eng. Rob. Res
+
+===== PAGE 4 =====
+The systems created earlier in the COMSOL 
+Multiphysics program for 200 and 100 magnets have 
+been reconstructed ( Fig. 12 and Fig. 13). The magnets 
+have been glued with resin to a rigid structure that will 
+allow the system to be detached from the metal plate. 
+ 
+Figure 12.  Created system for 200 magnets (1 - magnets). 
+ 
+Figure 13.  Created system for 100 magnets (1 - magnets). 
+Systems with 200 magnets were subjected to the 
+experiment. The graphs in Fig. 14 show that more force 
+had to be used to detach the magnets arranged in a 
+Halbach array. The maximum force used to detach the 
+system in the Halbach array was 2617.4N. For alternating 
+polarity, the same force was 1592.8N. This is over 1000N 
+difference. As the distance increased, the Halbach mesh 
+force was much higher than the alternating polarization 
+force. 
+ 
+Figure 14.  Created system for 100 magnets. 
+ 
+Figure 15.  Created system for 100 magnets. 
+Then, 100 magnet systems were subjected to the 
+experiment. As in the previous case, the force needed to 
+detach the Halbach array is much bigger. Its maximum 
+value is 1274.8N, and when placing magnets in 
+alternating polarity the same force is 822.7N. The 
+experiment graphs are shown in Fig. 15. 
+Comparing the results of the experiments, it can be 
+seen that using 100 magnets in the Halbach array 
+achieved results are very comparable as for 200 magnets 
+in the alternating polarity arrangement. The difference is 
+only 318N. 
+V. COMPARISON OF RESULTS  
+On the Fig. 16 - 19, it can be seen that the maximum 
+force obtained during the simulation is comparable to that 
+obtained during the experiment.  
+The results of the simulation in the case of Halbach's 
+array do not differ much from the results of the 
+experiment. They even coincide with them (Fig. 16). This 
+does not happen in systems with alternating polarity, but 
+the calculated maximum force is comparable. 
+In the case of the Halbach array, it will hold the robot 
+closer to the mat than placing them in alternating polarity. 
+Strength when using Halbach array even over a distance 
+of 1mm is over 1000N. 
+ 
+ 
+Figure 16.  Comparison of the results for Halbach array with 200 
+magnets. 
+1 
+1 
+742
+International Journal of Mechanical Engineering and Robotics Research Vol. 9, No. 5, May 2020
+© 2020 Int. J. Mech. Eng. Rob. Res
+
+===== PAGE 5 =====
+ 
+Figure 17.  Comparison of the results for alternating polarity with 200 
+magnets. 
+ 
+Figure 18.  Comparison of the results for Halbach array with 100 
+magnets. 
+ 
+Figure 19.  Comparisonda of the results for alternating polarity with 100 
+magnets. 
+VI. CONCLUSIONS 
+The use of Halbach's array brings many benefits over 
+the alternating polarity arrangement. Halbach has more 
+similar characteristics between the simulation and the 
+experiment, therefore it is less complicated to conduct 
+simulation tests of various patterns of the arrangement of 
+magnets, their number and position. One of the 
+disadvantage of Halbach's array is very difficult 
+arrangement of magnets. 
+The study shows the differences between the tested 
+configurations. There is a significant difference between 
+the Halbach array and the alternating polarization 
+arrangement in achieved holding force with equal number 
+of magnets. When we compare the results of Halbach 
+array and alternating polarity for a different number of 
+magnets (in the case of Halbach array - 200 magnets, for 
+alternating polarity - 100 magnets) we get only 300N 
+difference. This allows reducing the number of magnets, 
+while maintaining a similar attraction force to the steel 
+ground. However, it should be noted that an equal 
+number of magnets were used. By manipulating their 
+quantity, it is possible to optimize the structure in such a 
+way to achieve desirable force while retaining the weight 
+as low as possible. This increases the possibility of using 
+a stronger drive system or more durable construction 
+materials in the MegaSumo category robot. 
+Also noticeable is the difference in the distance of the 
+magnets from the ground at which the maximum value of 
+attraction force is achieved, and how the change of 
+distance affects the value of force. In the case of Halbach 
+array, the distance at which the attraction force reaches its 
+maximum is much smaller than in the alternating polarity 
+arrangement. 
+Based on the advantages and disadvantages of both 
+configurations, the magnet arrangement can be 
+individually selected for the construction solutions used 
+in the robot, thanks to which the selection of the 
+configuration and the number of magnets becomes a 
+lesser limitation taken into account during the robot 
+construction stage. 
+In the future, this work will help optimize the weight 
+of the new design. New magnet arrangements will be 
+tested using a carbon fiber floor. Testing the various 
+arrangements and the number of magnets will allow to 
+observe the behavior of the robot and many other 
+important factors. 
+CONFLICT OF INTEREST 
+The authors declare no conflict of interest. 
+AUTHOR CONTRIBUTIONS 
+Łukasz Kotarski was respons ible for conducting 
+simulations in COMSOL Multiphysics software. Marcin 
+Dziubek carried out experimental research of magnets 
+arrangement. Paulina Łapińska made charts from the 
+obtained research results and wrote the content of the 
+article. Rafał Grądzki co ordinated the team's work and 
+assisted in creating the article. The final version of the 
+article has been accepted by all authors. 
+ACKNOWLEDGMENT 
+The project is funded by the Ministry of Science and 
+Higher Education of Poland under the "Najlepsi z 
+najlepszych! 4.0" program. 
+REFERENCES 
+[1] Ł. Kotarski, M. Wysocki, R. Grądzki, P. Łapińska, "Research of 
+magnetic system applied in autonomous MegaSumo robots," in 
+Proc. 2019 20th International Carpathian Control Conference 
+(ICCC), Krakow-Wieliczka, Poland 2019, pp. 1-5. 
+https://doi.org/10.1109/CarpathianCC.2019.8765950. 
+743
+International Journal of Mechanical Engineering and Robotics Research Vol. 9, No. 5, May 2020
+© 2020 Int. J. Mech. Eng. Rob. Res
+
+===== PAGE 6 =====
+[2] P. Wasilewski , K. Chojnowski, R. Grądzki, “Autocalibration of 
+gyroscope based two- step regulator for autonomous vehicles,” in 
+Proc. MATEC Web of Conferences , vol. 182, Article Number : 
+01030 (2018), https://doi.org/10.1051/matecconf/201818201030 
+[3] K. Chojnowski, P. Wasilewski, R. Grądzki, “Movement modeling 
+of mobile robot in MegaSumo category,” in Proc. AIP Conference 
+Proceedings 2029 , 020010 (2018); 
+https://doi.org/10.1063/1.5066472 
+[4] M. Dziubek , M. Klimowicz, R. Grądzki, "Evaluation of 
+temperature changes of a loaded DC motor in autonomous mobile 
+robots," in Proc. 2019 20th International Carpathian Control 
+Conference (ICCC) , Krakow-Wieliczka, Poland 2019, pp. 1-5. 
+https://doi.org/10.1109/CarpathianCC.2019.8766058. 
+[5] K. Falkowski, Passive magnetic suspensions , Military University 
+of Technology, 2016. 
+[6] H. Kronmü ller, S. Parkin, Handbook of Magnetism and Advanced 
+Magnetic Materials, 5 Volume Set, John Wiley & Sons, 2007. 
+[7] K. Halbach, Design of Permanent Multipole Magnets with 
+Oriented Rare Earth Cobalt Material,  Nuclear Instruments and 
+Methods, 1980. 
+[8] J. L. Coulomb, “A methodology for the determination of global 
+electromechanical quantities from a finite element analysis and its 
+application to the evaluation of magnetic forces, torques and 
+stiffness,” IEEE Transactions on Magnetics , vol. 19, no. 6, pp. 
+2514–2519, 1983. 
+[9] https://www.kjmagnetics.com/blog.asp?p=halbach-arrays 
+ 
+Copyright © 2020 by the authors. This is an open access article 
+distributed under the Creative Commons Attribution License ( CC BY-
+NC-ND 4.0 ), which permits use, distribution and reproduction in any 
+medium, provided that the article is properly cited, the use is non-
+commercial and no modifications or adaptations are made. 
+ 
+Paulina Łapińska , Bialystok (Poland),  
+November 4, 1996, Control System and Robotics 
+student at the Bialystok University of 
+Technology. Bachelor's degree in Control 
+Systems and Robotic at the the Bialystok 
+University of Technology, Poland, Bialystok, 
+2019.  
+Copywriter. She works for the iAutoma tyka.pl 
+company in Bialystok. In 2018, an internship at 
+ANLAP. Co-author of the article “Research of magnetic system applied 
+in autonomous MegaSumo robots” presented on  20th International 
+Carpathian Control Conference (ICCC), 26 -29 May 2019, Krakow -
+Wieliczka, Poland. 
+ 
+Marcin Dziubek , Augustow ( Poland), 
+September 26, 1997 Control System and 
+Robotics student at the Bialystok University of 
+Technology. Mechatronics technician at 
+Augustowskie Centrum Edukacyjne, Poland, 
+Augustow, 2017. 
+ 
+ 
+ 
+ 
+Łukasz Kotarski , Augustow (Poland), June 
+8,1997,Control System and Robotics student at 
+the Bialystok University of Technology. 
+Mechatronics technician at Augustowskie 
+Centrum Edukacyjne, Poland, Augustow, 2017.
+ 
+He worked as electrical equipment fitter at 
+AGRIM-TEC company. Co-author of the article 
+“Research of magnetic system applied in 
+autonomous MegaSumo robots” presented on  
+20th International Carpathian Control Conference (ICCC), 26 -29 May 
+2019, Krakow-Wieliczka, Poland.
+ 
+He worked as serviceman of measuring and control
+ 
+machines in British 
+American Tobacco in Augustow. Co -author of the
+ 
+article: „Evaluation 
+of temperature changes of a loaded DC motor in autonomous mobile 
+robots” presented on  20th International Carpathian Control Conference 
+(ICCC), 26-29 May 2019, Krakow-Wieliczka, Poland.
+ 
+ 
+Rafał Grądzki , Mońki (Poland) December 22, 
+1984. In 2012 in Bialystok Un iversity of 
+Technology finished
+ 
+PhD thesis in technical 
+sciences in the field of machine construction and 
+operation.
+ 
+He works as assistant Professor of the Faculty of 
+Mechanical Engineering at the Bialystok 
+University of Technology since 2012. Research 
+subjects: technical diagnostics of bus engines,
+ 
+shafts,
+ 
+examination of potential reliability and safety level demonstrated 
+by technical objects and autonomous robots. The most important 
+publication 27. R. Gradzki, P. Z. Kulesza, B. Bartoszewicz, “Method of 
+shaft crack detection based on squared gain of vibration amplitude”, 
+Nonlinear Dynamics, 2019, Volume 98, Issue 1, pp 671 –690. 
+https://doi.org/10.1007/s11071-019-05221-0.
+ 
+ 
+744
+International Journal of Mechanical Engineering and Robotics Research Vol. 9, No. 5, May 2020
+© 2020 Int. J. Mech. Eng. Rob. Res

@@ -1,0 +1,103 @@
+### TOTAL PAGES: 8
+
+===== PAGE 1 =====
+Class  robot  construction  report
+MiniSumo  "NEMO  03"
+Jan  Sobiecki  4TM-2019
+Machine Translated by Google
+
+===== PAGE 2 =====
+NEMO  03  in  the  projection,  visible  "plow"  with  rectangular  openings  for  motion  sensors,  which  were  placed  
+inside  the  robot.
+1.  Introduction  and  assumptions  of  the  "NEMO"  project:
+2.  "From  design  to  implementation":
+The  project  of  building  a  minisumo  robot  "NEMO  03"  is  a  continuation  of  the  series  project
+a)  Angled  steel  plow:  it  is  the  front  plate  of  the  robot,  which  is  tilted  by  45  degrees
+the  "NEMO"  minisumo  robot  family.  Built  by  Artur  Willchowski  and  Jan  Sobiecki  from  
+the  Technical  School  Complex  in  Grudziÿdz.  The  "NEMO"  family  of  robots,  starting  with  
+"NEMO  01",  is  a  proprietary  series  of  robots  constructed  by  the  above-mentioned  designers  
+during  school  and  outside  school  activities.  The  greatest  achievement  of  the  project  was  
+winning  the  1st  place  at  the  international  minisumo  robot  competition  in  Prague  as  part  of  the  
+"Robotic  Day  2018".  To  date,  the  series  of  robots  is  constantly  modified  and  improved  with  
+new  versions,  using  the  experience  gained.
+Before  starting  the  work,  the  robot's  designers  decided  to  give  the  robot  features  that  
+would  be  its  strengths  and  make  these  goals  a  reality.  They  decided  to  focus  primarily  on  
+proven  methods  used  in  previous  versions  of  the  robot.  Those  are:
+degrees  does  not  work  as  a  push  plow,  but  as  a  ramp,  which  aims  to  undermine  the  
+opponent's  vehicle  pushing  against  the  robot  from  the  front  and  throwing  it  off  balance  or  
+completely  pushing  it  out  of  the  ring.  This  time  the  plow  has  been  thickened  by  almost  2  mm  
+compared  to  the  previous  generation  of  the  robot.
+Machine Translated by Google
+
+===== PAGE 3 =====
+b)  Pololu  50:  1  motors:  these  are  the  standard  motors  used  in  MiniSumo  robots  along  with
+-  The  steel  plate  has  a  large  loading  mass  with  little  use  of  the  usable  area,  
+which  can  be  used  to  locate  additional  sensors  instead  of  additional  
+loads  in  the  form  of  glued  weights.
+50:  1  gear  that  gives  the  robot  high  speed  while  maintaining  high  torque.
+d)  Housing  printed  in  the  technology  of  3D  printing  (FDM  method)  with  the  use  of
+steel  sheet  with  a  thickness  of  4  mm  (in  the  previous  version  of  the  robot,  the  base  plate  was  
+less  than  2  mm)  is  a  great  advantage,  it  allows  you  to  achieve  two  very  important  advantages  of  the  robot,  they  are:
+c)  Steel  base:  the  authors  of  the  project  decided  to  use  it  as  a  kind  of  "floor"
+black  PLA  filament,  designed  by  Jan  Sobiecki  using  the  Autodesk  program  -  Fusion  360.  For  
+a  better  visualization  of  the  finished  model,  the  author  of  the  project  made  the  so-called  
+"Renders",  i.e.  a  visualization  of  the  finished  model,  along  with  the  application  of  colors  and  
+physical  values  on  the  given  materials  to  determine  the  estimated  mass  model  before  it  is  built.
+-  Low  center  of  gravity,  thanks  to  which  the  robot  is  very  resistant  to  any  
+attempts  to  disturb  the  balance  and  possible  overturning  caused  by  the  
+opponent's  robot  hitting  the  side.
+Machine Translated by Google
+
+===== PAGE 4 =====
+user  on  the  basis  of  data  collected  from  sensors.  The  program  written  in  a  simple  
+SummoBlocky  program  by  Artur  Jestchowski  was  improved  so  that  the  robot  could  
+cope  with  any  situation  in  the  ring  and  additionally  extended  it  by  several  maneuvers  
+for  the  "NEMO  03"  robot  when  specific  conditions  occurred  in  the  ring  (e.g.  when  the  
+sensors  did  not  detect  any  movement,  the  robot  with  spins  at  a  moderate  speed  in  the  
+place  "looking"  for  an  opponent,  at  any  moment  being  ready  to  give  a  quick  frontal  blow)
+f)  Silicone  tires:  Just  like  on  the  road,  tires  are  very  important  in  robot  fights.  The  
+most  important  thing  is  that  the  robot  should  have  perfect  grip  with  the  ring,  so  that  its  
+wheels  do  not  slip  and,  in  the  event  of  a  collision,  they  effectively  move  the  opponent  to  
+the  edge  of  the  ring.  The  constructors  decided  to  use  modeling  silicone,  which  is  also  easy  
+to  mix  and  gives  great  grip  to  the  wheels  on  the  surface  of  the  ring.  The  key  to  victory  is  
+also  washing  the  tires  each  time  before  the  fight  to  clean  them  of  any  dirt.  Technical  acetone  
+is  the  best  in  this  regard.
+e)  Sharp  GP2Y0A41SK0F  (Analog)  sensors:  used  many  times,  they  never  failed.
+Regardless  of  the  color,  structure  of  the  object  and  even  its  temperature,  these  sensors  are  
+able  to  detect  this  object.  However,  when  examining  the  sensors,  it  was  noticed  that  dark  
+colors  (Black)  are  detected  later  than  lighter  objects  (White,  Yellow,  Red).  After  taking  
+measurements,  they  showed  that  black  objects  were  imperceptible  to  the  sensor  about  30-40  
+mm  further  than  white  or  yellow  objects.  The  difference,  however,  is  so  small  that  most  likely  
+it  does  not  affect  the  direct  combat  of  robots.
+g)  SIMS  board:  It  is  the  brain  of  the  whole  robot,  it  is  responsible  for  executing  the  program
+Their  greatest  advantage  is  the  inability  to  cheat  them.  These  sensors  work  by  
+detecting  the  infrared  emission  of  a  given  object  within  their  view  range.
+Machine Translated by Google
+
+===== PAGE 5 =====
+i)  Ground  sensors,  standard  reflection  sensors  to  alert  the  robot  to  its  entrance
+With  the  optimized  dimensions  of  the  casing,  it  made  it  possible  to  introduce  the  robot's  secret  
+weapon,  which  was  to  be  a  kind  of  folding  "Cloth  for  a  bull",  but  in  this  case  the  "bull"  would  be  
+the  enemy's  robot.  How  would  that  work?  The  SG  90  modeling  servo  placed  inside  the  robot,  at  
+the  moment  of  the  beginning  of  the  fight,  receives  an  impulse  from  the  plate  to  lower  the  wire  with  
+the  "flag"  at  its  end,  the  operation  would  be  aimed  at  deceiving  the  opponent's  robot,  which  would  
+mistake  the  flag  for  its  target,  driving  with  full  force  into  the  thin  wire  a  piece  of  paper  or  other  light  
+material,  the  robot  would  at  best  fall  out  of  the  ring  immediately.
+minisumo,  it  is  essential  for  the  robot  to  function.
+Due  to  the  steel  plate  used  as  the  base  of  the  "NEMO  03"  robot  and  the  choice
+in  the  dangerous  area  of  the  ring  edge,  the  written  user  program  in  this  case  ordered  the  
+robot  to  perform  a  maneuver  to  escape  from  the  dangerous  place.
+h)  7.4  V  LI-PO  battery:  This  is  the  power  bank  for  the  motors,  sensors  and  robot  boards
+3.  Innovations:
+Machine Translated by Google
+
+===== PAGE 6 =====
+In  the  picture  above  you  can  see  the  mentioned  "flag"  in  the  "Fight"  mode
+Machine Translated by Google
+
+===== PAGE 7 =====
+In  the  picture  above  you  can  see  the  mentioned  "flag"  in  the  "Waiting"  mode
+Machine Translated by Google
+
+===== PAGE 8 =====
+Machine Translated by Google
