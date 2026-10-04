@@ -1,0 +1,277 @@
+### TOTAL PAGES: 4
+
+===== PAGE 1 =====
+ACTA TEHNICA  CORVINIENSIS – Bulletin of Engineering  
+Tome VI II [201 5]        Fascicule 3 [July  – September ]         
+ISSN: 2067 – 3809   
+© copyright Faculty of Engineering - Hunedoara, University POLITEHNICA Timisoara 
+ 
+ 
+1. Gelu -Ovidiu TIRIAN, 2. Anne -Marie NITESCU, 3. Cristian CHIONCEL  
+ 
+THE DESIGN AND CONSTRUCTION OF AN 
+AUTONOMOUS MOBILE MINI -SUMO ROBOT  
+ 
+1. University Politehnica Timişoara, Faculty of Engineering Hunedoara, Hunedoara, ROMANIA 
+2.. University of Petrosani,Petrosani, ROMANIA 
+3. University “Eftimie Murgu” of Resita, Resita, ROMANIA 
+ 
+Abstract :  The paper presents the design and construction of an autonomous mobile mini -sumo robot. The mobile robot is a combination of devices 
+endowed with power drives and sensors, under the control of a hierarchical computing system operating in the real space, whic h has to plan the 
+movements so as to perform a task depending on the initial state of the sys tem as well as on the information received from the work environment. The 
+robot was designed using Fritzing software and its programming has been done by means of Arduino programming language. In building the robot, the 
+regulations of the sumo-type robot competitions were taken into account in order to allow it to take part in such competitions. 
+Keywords:   robot, sensors, mini-sumo, programming language 
+ 
+INTRODUCTION  
+One of the most important aspects in human evolution is the use of 
+tools, meant to ease physical work. Robots range within this category, 
+their complexity offering them a privileged position, though [7]. The 
+mobile robot is a complex system that can perform several activities in 
+a variety of specific situations of the real world. It is a combination of 
+devices endowed with power drives and sensors under the control of a 
+hierarchical computing system operating in the real space, marked by 
+a series of physical properties (for instance gravity, which influences 
+the movement of all robots functioning on the Earth) and which has to 
+plan the movements so as to achieve a task according to the initial state 
+of the system and depending on the existing information, related to 
+the work environment. The success in performing these tasks depends 
+both on the knowledge the robot has about the initial configuration of 
+the work space as well on the information acquired during its evolution 
+[2] [8]. 
+The specific problems arising with mobile robots are the following: 
+avoiding the impact with stationary or moving objects, determining 
+the position and orientation of the robot in the area and planning an 
+optimal trajectory of movement.  
+ In the case of an automatically distributed robotic system, the spatial 
+positions are of utmost importance as t hey influence the achieving of 
+the desired targets, as well as the functioning of the whole system. In 
+other words, the robot must be able to plan its movements, to 
+automatically decide upon the movements to be made in order to carry 
+out a task, according to the momentary distribution of objects in the 
+work space. Movement planning does not consist in a single, well -
+defined issue, but in a set of problems of which some are more or less 
+variants of the others.  
+Avoiding collision with fixed or mobile obstacl es (for instance other 
+mobile robots) existing in the work space of the robot can be done by 
+several methods: building a mechanical guard which, by deformation, 
+stops the robot, using sensors to measure distance up to the obstacles 
+in the direction of movement, the use of proximity sensors, the use of 
+the information correlated from several types of sensors [3] [4].  
+Object spotting can also be done by physical contact, but this involves 
+restrictions on the movement speed and the handled structure. The 
+physical contact between the robot and the environmental objects 
+triggers reaction forces that modify the state of the robot. The high 
+work rates make the dynamic effects of a physical contact with 
+obstacles or with the handled objects risky (they may damage t he 
+objects or the robot).  
+The sensor system is also called gauging system. It helps measure some 
+physical magnitudes and possibly perceiving some significant 
+alterations of these magnitudes. 
+Robot navigation is possible even in the absence of position 
+determination and orientation with respect to a fixed coordinate 
+system, but this information is useful for the movement control 
+systems. Among the most commonly used navigation systems the 
+following can be mentioned: measuring the number of rotations made 
+by the driving wheels, the use of accelerators and gyroscopes, 
+electromagnetic buoys located on the terrain, passive or semi -passive 
+optical or magnetic signaling systems [5] [6]. 
+THE ROBOT DESIGN AND BUILDING  
+In order for the robot to win a mini -sumo fight , its constructor and 
+programmer has to take into account several factors. If the strategy is 
+focused on a powerful and slow robot, then the motors should be 
+chosen to have a high transfer rate. If, on the contrary, the choice is a 
+fast and agile robot, th en the motors should have a low transfer rate. 
+The transfer rate refers to the gear that transfers the movement to the 
+wheels (included in the motor case). A transfer rate of 50:1 means that 
+for 50 rotations of the motor, the wheel turns once. The robot is  agile, 
+
+===== PAGE 2 =====
+     ACTA TEHNICA CORVINIENSIS                                                                                            Fascicule 3 [July  – September ] 
+        – Bulletin of Engineering                                                                                                                  Tome VI II [201 5] 
+| 118  | 
+but less powerful. A transfer rate of 298:1 means that for 298 rotations 
+of the motor, the wheel turns once. The robot will be slow, but very 
+powerful. Other factors that influence the complexity and efficiency of 
+the robot are: 
+≡ the type of distance and line sensors used (infrared, ultrasound); 
+≡ the response time of the sensors; 
+≡ adherence and the type of locomotion; 
+≡ the type of chassis; 
+≡ the duration of motor feeding (the robot should stay “alive” all 
+along the fight, up to its end); 
+≡ the strategy of choice in programming the robot; 
+Further on, a robot is presented, built to simulate a sumo fight, taking 
+into consideration the above-mentioned elements. 
+Such robots can be used in various domains, as they are adaptable to 
+the exploration of narrow or dangerous spaces, or even as a military 
+application. Here is, next, the description of the robot and its main 
+hardware elements. This is an autonomous mobile robot, which does 
+not require its remote control by means of mobile phone applications. 
+The rob ot is fed by a set of 6 batteries located in a special case and 
+connected to the GND (Ground) pin and to the 5V (Volt) pin [11]. 
+ 
+Figure 1. Robot overall view and the robot in the ring 
+The main hardware components used in building this robot are: the 
+Arduino Uno board; 2 (line) reflection sensors; a distance sensor; the 
+L298N shield; 2 c.c. motors 
+ARDUINO UNO  
+The moni sumo robot needs a brain. The best option in this sense is an 
+Arduino UNO board. Arduino UNO is an open -source processing 
+platform, based on a flexible and user-friendly hardware and software. 
+It consists of a small platform (6.8 cm / 5.3 cm –  in the most common 
+version) built around a signal processor and capable of taking in data 
+from the environment through several sensors and of performi ng 
+actions upon it by means of lights, motors, power drives and other 
+types of mechanical devices. The processor is able to run code written 
+in a programming language that is very similar to C++[9] [10]. 
+(LINE) REFLECTION SENSORS  
+These sensors consist of two components : an IR LED and an IR 
+photosensitive transistor. When a voltage of 5V is applied to the VCC 
+and GND pin, the IR LED will emit infrared light. A 100 Ohm resistor is 
+connected in series to the IR LED, in order to limit the current. A 10 
+kOhm resistor sets the output pin to HIGH, but when the light emitted 
+by the IR LED is reflected back towards the phototransistor, the output 
+pin switches to LOW.  The more light the phototransistor receives, the 
+lower the voltage on the output pin [1]. 
+ 
+Figure 2. ARDUINO Microcontroller and Line sensors 
+DISTANCE SENSOR  
+In order for the robot to “see” its opponent, it needs at least one 
+distance sensor. The Sharp distance sensor is a component that can be 
+used with Arduino for measuring the distance to various objects in the 
+surrounding area. They are the most suitable for this kind of robot, as 
+they have a very fast response. The ultrasound sensors are not so 
+efficient for sumo, as their response is relatively slow. 
+The principle underlying the functioning of the robot is the following: 
+the sensor emits a pulse of infrared light of a certain wavelength and if 
+the object is in the action area and on the trajectory of the IR beam, it 
+will reflect the ray to the sensor. The sensor performs the readings with 
+a certain frequency and reports the data as voltages. The Sharp 
+distance sensors are available in three variants, according to their 
+efficiency area. There are sensors that prove efficient within 3 cm to 40 
+cm, others between 10 cm and 80 cm, and also others between 15 cm 
+and 150 cm. The sensor values cannot be used outside their efficiency 
+area. The sensor of choice was in this case the one that is efficient 
+between 10 cm and 80 cm[1][9]. 
+C.C. MOTORS  
+The robot has two high power C.C. Pololu-type motors, with a transfer 
+rate of 100:1. The transfer rate refers to the gear that transfers the 
+movement from the motor to the wheels. A 100:1 transfer rate means 
+that for 100 rotations of the motor, the wheel will turn once. If the 
+strategy focuses on a powerful and slow robot, then motors with a high 
+transfer rate are recommended. If, on the contrary, a swift and agile 
+robot is needed, then the motors of choice will have a low transfer rate. 
+In this case, the transfer rate chosen offers the robot a balance between 
+speed and power. 
+ 
+Figure 3. C.C. motor and SHARP Distance Sensor 
+L298N MOTOR DRIVERS  
+Arduino is a very capable brain for this type of robots, but, as any brain, 
+it can only perform precision operations. Arduino was not designed to 
+offer high power for motors, but precise control signals. The motor 
+driver is connected directly to the energy source (the battery) and it 
+controls the motors according to the control signals received from 
+Arduino. 
+
+
+===== PAGE 3 =====
+ACTA TEHNICA CORVINIENSIS                                                                                        Fascicule 3 [July  – September ] 
+   – Bulletin of Engineering                                                                                                         Tome V III [201 5] 
+| 119 | 
+Based on the L298N circuit, this motor driver can control 2 C. C. motors 
+at a maximum current of 2 amperes. The driver is entirely assembled as 
+an Arduino shield, which enables its simple usage. The connection to 
+Arduino is done by plugging the shield board to Arduino and 
+connecting the VIN and GND pins to the motor power source. The PWM 
+pins controlling the L298 driver are  3, 5, 6 and 9 (also see the test 
+program given further on). The two motors are connected to the screw 
+pins marked "MOTOR1" and "MOTOR2". For this mini sumo robot the 
+power needs to be high and continuously dissipated, so a radiator was 
+used [11] [12].  The connection of the components that make up the 
+mini-sumo mobile system is given herein after. 
+ 
+Figure 4. Motor driver 
+ 
+Figure 5. L298N Arduino connection diagram 
+ 
+Figure 6. The connections of the robot components 
+ 
+Figure 7. Connection diagram 
+SOFTWARE IMPLEMENTATION  
+The programming language used with the mini- sumo robot is similar 
+to the C++ language and is called Arduino.  
+The window shown below is a programming editor use d only for the 
+Arduino development boards. To this purpose, it is needed to choose 
+from the tools the board to be working with, as well as the port 
+selected by the computer. 
+ 
+Figure 8. Choosing the Arduino board 
+ 
+Figure 9. Port selection 
+Any code line has to be checked with the button    that will check 
+for errors in the program structure and, once the message “Done 
+compiling” is displayed, the program can be run by pressing the upload 
+button   that sends through port COM3 the instructio ns to the 
+microcontroller, which processes it and sends it on to the output pins. 
+ 
+Figure 10. Program compiling 
+
+
+===== PAGE 4 =====
+     ACTA TEHNICA CORVINIENSIS                                                                                            Fascicule 3 [July  – September ] 
+        – Bulletin of Engineering                                                                                                                  Tome VI II [201 5] 
+| 120  | 
+ 
+Figure 11 . Program uploading 
+Further on, some screen prints will show the code lines of the program. 
+ 
+ 
+Figure 12. Program structure 
+CONCLUSIONS  
+The mobile robot is a complex system that can perform a series of 
+activities in a diversity of real situations. It is a combination of devices 
+equipped with power motors and sensors, under the control of a 
+hierarchical system, operating in the real space and that has to plan the 
+movements of the robot so that it can perform a task according to the 
+initial state of the system and also in accordance with the existing 
+information related to the work environment. 
+The paper presents the design and co nstruction of an autonomous 
+mobile robot used in mini -sumo competitions. The design has been 
+done using the Fritzing software and the programming in the Arduino 
+language. 
+This robot has several important advantages and it can be used as 
+didactical equipment, a fighter in mini-sumo contests and, moreover, 
+it can be adapted for the use in various domains, such as: the 
+exploration of narrow or dangerous spaces, military applications, etc. 
+REFERENCES  
+[1.] Dumitriu A., Bucşan C., Demian T., – “Sisteme senzoriale pentru 
+roboţi”, Editura MEDRO, Bucureşti, 1996. 
+[2.] Ivanescu Mihai, - Robotica - Editura Universitaria, 1995 
+[3.] Ispas Victor, - Roboţi pentru aplicaţii speciale - Editura Dacia, 2001 
+[4.] Iovine J., - „Robots, androids and animatrons”, McGraw-Hill, USA, 
+2002. 
+[5.] Laumond J.P.,- “Robot motion planning and control”, Springer-Verlag, 
+London, U.K., 1998. 
+[6.] PedreS., P de Cristforis, Caccavelli J., “A mobile mini robot architecture 
+for research, education and popularization of science ”, 2010 - 
+robotica.dc.uba.ar 
+[7.] Tirian G. O., “ Robotică”, Editura Politehnica Timisoara, 2013. 
+[8.] Tirian G. O.,  “Automation of a warehouse by means of a robotic arm” - 
+Annals of Faculty Engineering Hundeoara –  International Journal of 
+Engineering Tome XI, Fascicule 4, 2013. 
+[9.] Sharp GP2Y0A21YK0F Distance Measuring Sensor 
+datasheet,http://www.pololu.com/le/download/gp2y0a21yk0f.pdf? 
+[10.] http://www.roboter-info.de/index_en.htm 
+[11.] http://www.robofun.ro 
+[12.] http://www.sparkfun.com 
+ 
+ 
+ 
+ 
+ 
+copyright ©  
+University POLITEHNICA Timisoara,   
+Faculty of Engineering Hunedoara, 
+5, Revolutiei,  331128, Hunedoara, ROMANIA 
+http://acta.fih.upt.ro  

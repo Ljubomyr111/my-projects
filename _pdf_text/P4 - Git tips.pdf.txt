@@ -1,0 +1,165 @@
+Practical 4
+Git tips
+Introduction to Programming
+Yevhen Pozdniakov
+.gitignore
+What is .gitignore?
+● A text file in a Git project.
+● Tells Git which files or directories to ignore.
+● Ignored files are not tracked, not staged, and not committed.
+Why use it?
+● To avoid adding temporary, generated, or machine-specific files to the repository.
+● Keeps the repo clean and focused only on source code.
+● For example, on mac it makes sense to add *.DS_Store to .gitignore
+If .gitignore file is under git control, you can use .git/info/exclude for your own files.
+Git alias
+Git aliases let you create shortcuts for long or frequently used Git commands.
+git config --global alias.st status 
+git config --global alias.co checkout 
+git config --global alias.br branch 
+git config --global alias.ci commit 
+git st   # instead of git status 
+git co main  # instead of git checkout main 
+Git config
+Git stores its configuration settings in gitconfig files.
+These settings control Git behavior: user info, aliases, editor, colors, etc.
+You can have 3 levels of configuration:
+- System (/etc/gitconfig)
+- Global (~/.gitconfig or ~/.config/git/config)
+- Local (.git/config inside a repository)
+For example, you can add git aliases directly to gitconfig:
+cat ~/.gitconfig 
+[alias]
+st = status 
+co = checkout 
+cm = commit -m 
+logl = log --oneline 
+     ce = commit --allow-empty -m 
+ca = commit --amend 
+ru = remote update 
+mu = !git remote update && git co main && git merge $(git remote)/main 
+po = push origin 
+
+Useful git commands
+1. Get the latest main branch
+git checkout main && git fetch origin main && git merge origin/main  
+//merge conflicts can arise here
+git fetch -f origin main:main // you need to be branch differ to main
+2. Rebase your local branch over the latest main
+get pull --rebase origin main 
+git push origin your_branch_name -f 
+3. Merge main to your local branch
+git fetch origin main:main // or git remote update 
+git merge main 
+Useful git commands
+4. Interactive rebase
+git rebase -i HEAD~5  // modify history of the last 5 commits
+Interactive Options:
+● pick – keep commit as is
+● reword – change commit message
+● edit – pause and amend commit
+● squash – combine with previous commit (keep messages)
+● fixup – combine with previous commit (discard message)
+● drop – remove commit
+Useful git commands
+5. Get another branch or commit
+git checkout branch_name 
+or
+git checkout commit_hash // e3d1e7f69e902d77afe0c3a77553b7e211463e62
+6. Get specific file from branch or commit
+git checkout commit_hash -- <path> 
+7. Shows who last modified each line of a file in Git.
+git blame <path/to/file> 
+8. History of commit (tons of different options):
+git log 
+9. Git commands history:
+git reflog 
+git rebase and git merge
+https://www.atlassian.com/git/tutorials/merging-vs-rebasing 
+My rules:
+1. Use rebase if possible and if it’s my own branch.
+2. If during rebase you noticed that you are fixing conflicts in the same lines in 
+file - use git merge
+3. If your branch contains many commits - most probably need to use git merge.
+1. Create a new branch called main_backup to store a backup of the main branch.
+2. Create a new file called main.c and add basic content to it, such as a header inclusion:
+#include <stdio.h> 
+3. Commit the file to the main_backup branch with a meaningful message to track the addition of the new file.
+4. View the commit history to ensure that the commit with main.c is successfully saved in the main_backup 
+branch.
+5. Create another branch called feature_rebase to work on new features or updates.
+6. Switch back to the main_backup branch and add a new line to main.c (int main_var = 0; ). After 
+making this change, commit it to the main_backup branch with a message like "changes in mainline."
+7. Switch to the feature_rebase branch, and add a different line to main.c (int feature_var_1 = 0; ). 
+Commit this change to the feature_rebase branch with an appropriate message.
+8. Add one more line to main.c (int feature_var_2 = 0; ). Commit this change to the 
+feature_rebase branch with an appropriate message.
+9. Check the commit history of the feature_rebase branch to verify that this branch consist of 2 commits 
+(step 7 and step 8), but changes made in the main branch (step 6) are not yet included.
+Creating commits in main_backup and feature_rebase
+1. git checkout -b main_backup
+2. echo '#include <stdio.h>' > main.c
+3. git add main.c
+git commit -m "Add main.c with basic content"
+4. git log --oneline
+5. git checkout -b feature_rebase
+6. git checkout main_backup
+echo 'int main_var = 0;' >> main.c
+git add main.c
+git commit -m "Add main_var to main.c"
+7. git checkout feature_rebase
+    echo 'int feature_var_1 = 0;' >> main.c
+    git add main.c
+    git commit -m "Add feature_var_1 to main.c"
+8. echo 'int feature_var_2 = 0;' >> main.c
+    git add main.c
+    git commit -m "Add feature_var_2 to main.c"
+9. git log --oneline
+
+Rebase
+10. Rebase the feature_rebase branch on top of the main_backup branch to incorporate changes from the 
+backup while keeping the changes from feature_rebase.
+11. Resolve any conflicts that arise during the rebase, ensuring that the changes from feature_rebase are 
+kept.
+12. Push the updated changes to the remote repository so that both branches are in sync with the changes.
+13. Check the commit history to confirm that the commit from the main branch (step 6) is now included in the 
+feature_rebase branch history. Ensure that there are three commits: two from the feature_rebase branch 
+and one from the main_backup branch.
+14. Merge the feature_rebase branch into main_backup (the same result as when PR is 
+merged).
+15. Check out main_backup and ensure it includes the latest commit from the merge in step 14.
+16. Show the commit history of main_backup (the commit from step 14 should be visible).
+17. Switch to your main branch and delete the main_backup branch.
+
+Merge and fetch
+10. git checkout feature_rebase 
+      git rebase main_backup
+11. git add main.c
+      git rebase --continue
+12. git push origin feature_rebase
+13. git log --oneline
+14. git checkout main_backup
+      git merge feature_rebase
+15. git log -1  
+16. git log --oneline
+17. git checkout main // your main branch can have other name, like master, atc.
+      git branch -d main_backup  // Use -D if branch is not fully merged
+Clean branches
+Remove the branches main_backup and feature_rebase after all changes are complete and 
+confirmed in the main branch.
+git branch -d main_backup // Use -D if branch is not fully merged
+git branch -d feature_rebase // Use -D if branch is not fully merged
+git push origin --delete main_backup feature_rebase
+
+Practical task #1 
+Add 3 snapshots:
+- with result of git log execution after step 7 (two commits in the local branch).
+- with result of git log execution after step 13 (rebase).
+- with result of git log execution after step 15 (after merge feature_rebase branch 
+into main_backup).
+Practical task #2
+Implement an exhaustive-search algorithm to find the square root (see code on 
+slide #8 of Lecture 4). Implement the bisection-search algorithm (using the 
+pseudocode on slide #45 of Lecture 4).
+Compare the execution times of the two algorithms.Identify input values for which 
+the exhaustive search is much slower than bisection.

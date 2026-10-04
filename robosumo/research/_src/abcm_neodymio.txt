@@ -1,0 +1,327 @@
+### TOTAL PAGES: 4
+
+===== PAGE 1 =====
+Anais do CREEM 2014     XXI Congresso Nacional de Estudantes de Engenharia Mecânica 
+Copyright © 2014 by ABCM 06-10 de outubro, 2014, Rio de Janeiro, RJ, Brasil 
+ 
+ANÁLISE NUMÉRICA DA INFLUÊNCIA DE ÍMÃS DE NEODÍMIO NA 
+RELAÇÃO INDUÇÃO/PESO EM ESTRUTURAS DE ROBÔS DE SUMÔ 
+ 
+Lucas Silva Soares, lucassoaresgt9100@gmail.com  
+Universidade Estadual do Maranhão, Condomínio Cais da Sagração, Bloco cinza, apto 301, Rua da Paz, Angelim, São Luís/MA 
+Mylena Samantha Ferreira Mendes, mylena.samantha@hotmail.com 
+Universidade Estadual do Maranhão, Rua 05, Quadra 91, número 22, Bloco A, Cidade Olímpica, São Luís/MA 
+William Cunha Rezende Medeiros Tavares, wcunhatavares@gmail.com 
+Universidade Estadual do Maranhão, Rua 07, Quadra 03, Número 09, Planalto Vinhais II, São Luís/MA 
+Denner Guilhon, dennerguilhon@cct.uema.br 
+Universidade Estadual do Maranhão, Cidade Universitária Paulo VI – Caixa Postal 09 – São Luís/MA 
+ 
+RESUMO: Por possuir um campo magnético extremamente forte, resultante da combinação de Neodímio, Ferro e 
+Boro, o ímã de Neodímio tem se tornado o mais utilizado em projetos de robôs de sumô autônomos. Quando em contato 
+com a estrutura do robô esse ímã produz uma grande quantidade de força normal resultante da interação entre as linhas 
+de campo do ímã e a estrutura de aço da arena, diminuindo o risco de escorregamento de suas rodas. A ssim, quanto 
+mais pesado um robô, maior será a dificuldade para o oponente retirá -lo da arena. Esse artigo explana as propriedades 
+dos ímãs de Nd-Fe-Br, bem como analisa a influência dessas particularidades na relação indução/peso. Além da análise 
+comparativa, a pesquisa realiza análises de posicionamento, geometria e polarização dos ímãs em questão, baseadas em 
+resultados numéricos do software Inventor e K&J Magnet Calculator , visto que esses fatores influenciam na geração do 
+produto energético dos mesmos. Assim, além de trabalhar com o que se acredita ser um assunto de grande interesse para 
+as equipes de robôs de sumô, esse estudo incentiva a competitividade das mesmas, fator essencial para a competição. 
+ 
+PALAVRAS-CHAVE: neodímio, indução, peso  
+ 
+ABSTRACT: Since it possess an extremely strong magnetic field, resulting from the combination of Neodymium, Iron 
+and Boron, Neodymium Magnet has become the most used in designing autonomous sumo robots. When it is mounted 
+under the structure of this robot , the magnet produces a large amount of normal force resulting from the interaction 
+between its field lines and the steel frame of the arena, reducing the risk of slipping its wheels. Thus, the he avier a 
+robot, the greater the difficulty for the opponent to remove it from the arena. This article explains the properties of Nd-
+Fe-Br magnets and ana lyzes the influence of these characteristics in the relation induction/weight. Additionally to a 
+comparative analysis, this research analyzes the positioning, geometry an d polarization of the magnets under study , 
+based on numerical results obtained using Inventor and K & J Magnets Calculator software, given that these factors 
+influence in their energetic product generation. Furthermore, more than just working with what we believe is a subject 
+of great interest for sumo robot’s teams, this study encourages t heir competitiveness, an essential factor for the 
+competition. 
+KEYWORDS: neodymium, induction, weight 
+ 
+ 
+INTRODUÇÃO 
+ 
+Na área da engenharia, a palavra “robô” tem se tornado 
+alvo de intensos estudos. Para fomentar a pesquisa e o 
+desenvolvimento de robôs são realizados diversos 
+campeonatos reconhecidos mundialmente em que os 
+estudantes são instigados a produzir um competido r 
+inteligente. A idealização do robô desse projeto se 
+refere a um do tipo autônomo, ou seja, capaz de 
+realizar comandos sem interferência humana e apto a 
+competir na categoria “sumô autônomo 3kg”, cujas 
+regras se definem em construir um robô autônomo de 
+peso máximo 3kg, largura e comprimento de 20cm e 
+altura livre. O robô foi projetado seguindo uma 
+mecânica que permita a sua movimentação livre, 
+sensoriamento reativo e eletrônica eficiente capaz de 
+permitir a comunicação de todos os dispositivos do 
+robô.  
+O sumô de robôs consiste na retirada inteligente do 
+oponente da arena. Assim, é indispensável um motor 
+que possua nível de torque alto e com força suficiente 
+para girar as rodas e vencer o adversário. Aliado a esse 
+critério, um importante artifício tem se to rnado 
+difundido em competições de sumô: a utilização de 
+ímãs de neodímio na estrutura base do robô com o 
+propósito de aumentar a sua força normal e, 
+consequentemente, dificultar a sua retirada da arena de 
+aço A32 ASTM coberta com poliuretano.  Análises 
+numéricas por meio de softwares foram realizadas 
+através de sucessivas iterações comprovando que a 
+proximidade de um material magnético com o aço da 
+arena influencia diretamente nas habilidades mecânicas 
+do robô. 
+ 
+METODOLOGIA 
+ 
+Ímãs de neodímio podem ser magnetizados axialmente 
+e diametralmente. A possibilidade de duas 
+magnetizações simultâneas só po deria ser visualizada 
+em ímãs com  formato em anel. Essa alternativa 
+influenciou na escolha dos ímãs nesse formato. Assim, 
+ao ser fixado na estrutura do robô, além de interagir de 
+
+===== PAGE 2 =====
+Anais do CREEM 2014     XXI Congresso Nacional de Estudantes de Engenharia Mecânica  
+Copyright © 2013 by ABCM 06-10 de outubro, 2014, Rio de Janeiro, RJ, Brasil 
+ 
+forma axial  com o aço d a arena, seria possível 
+visualizar a interação entre as  linhas de ca mpo de dois 
+ímãs dispostos lado a lado .  Para a visual ização das 
+linhas de campo de cada ímã e a identificação de seus 
+polos, testes com limalha de ferro foram realizados.  O 
+ferro é um material ferromagnético e, portanto seus 
+dipolos magnéticos se alinham na presen ça de um ímã 
+(campo magnético externo). Neste  caso, a limalha 
+passa a se comportar como um ímã natural, enquanto 
+estiver na presença de um campo.  Como a limalh a de 
+ferro tem pouca massa, esta não apenas alinha seus 
+dipolos magnéticos como também se ajusta na direção 
+do campo externo, "desenhando" assim sua distribuição 
+e direção em torno do ímã. É interessante que se faça o 
+mapeamento de campo magnético de ímãs com 
+formatos diferentes, para que se possa entender que a 
+distribuição espacial do campo magnético depende 
+entre outras coisas do formato do ímã. 
+ 
+Tabela 1. Tabela de propriedades magnéticas 
+ 
+Visto que o potencial magnético do ímã influencia 
+diretamente no seu produto energético , o software 
+escolhido para os cálculos foi o K&J Magnet 
+Calculator devido à natureza computacional da análise. 
+Trata-se de uma ferramenta bastante conhecida no 
+ramo magnético. Seus resultados são baseados em  
+extensivos testes de produto, que através de parâmetros 
+geométricos é capaz de prever a tração sofrida por cada 
+ímã, ou seja,  a força capaz de puxá -lo de imediato a 
+partir de um plano  ferromagnético, e a intensidade da 
+superfície de campo para  pontos ao longo do eixo , 
+assumindo um único ímã no espaço livre. 
+Ímãs não são materiais usináveis: o modo incorreto de 
+fixação ou perfuração pode oxidá -lo e afetar o seu 
+campo magnético . A melhor forma de fixá -lo na 
+estrutura do robô é utilizando uma cola  especial 
+denominada araldite profissional: Essa cola é 
+produzida à base de resina epóxi, fator que justifica o 
+seu alto poder de fixação, evitando reação química no 
+ímã. 
+A carenagem do robô , idealizada contendo o alumínio 
+6061, e os esforços sofridos pela  mesma foram 
+idealizados utilizando o software Inventor, empregado 
+no ramo da Engenharia Mecânica para realizar 
+simulações de produto e projetos mecânicos 3D.  
+ 
+RESULTADOS E DISCUSSÃO 
+ 
+O perfil de ímã proposto foi baseado em pesquisas 
+relacionadas às propriedades magnéticas dos ímãs mais 
+conhecidos comercialmente. Cada ímã possui 
+características especiais que foram analisadas de 
+acordo com a necessidade do potencial indutivo. Para a 
+inclusão do ímã de neodímio nesse projeto, foi 
+necessário o uso de uma tabe la comparativa e ntre o 
+material de cada ímã e suas propriedades magnéticas.  
+ 
+Tabela 2. Estudo da viabilidade magnética 
+ 
+Material Viabilidade 
+Neodímio Campo magnético 
+extremamente forte, porém 
+pouco resistente a altas 
+temperaturas. 
+Vale ressaltar que é o mais 
+utilizado nas competições 
+e o mais moderno. Possui 
+as melhores propriedades e 
+a melhor relação 
+indução/peso. 
+Samário-Cobalto Apesar das excelentes 
+propriedades magnéticas e 
+resistência à temperatura 
+(até 250°C), o alto custo 
+pode limitar suas 
+aplicações. 
+Alnico Campo magnético forte e 
+menor que os ímãs de 
+neodímio. Resistente a 
+altas temperaturas. Sua 
+Tcurie(temperatura em que 
+um ímã perde todo o seu 
+magnetismo) é 
+extremamente alta. Porém, 
+a força de 
+desmagnetização (Hcmax), 
+medida em Oersted, possui 
+valores baixos. 
+Cerâmico/ferrite São os que possuem menor 
+custo e força magnética. 
+Para alcançar a força 
+magnética de um ímã de 
+neodímio é necessário 18 
+vezes o volume do ímã de 
+cerâmica. 
+ 
+Atentando-se a essas particularidades, um estudo de 
+viabilidade se fez necessário. Em termos comparativos, 
+o resultado dessa análise pode ser visualizado abaixo. 
+Pela leitura dos dados, é possível perceber que os ímãs 
+de neodímio são os que apresentam maior intensidade, 
+porém baixa resistência a altas temperaturas. Em 
+competições de sumô, nenhum material externo 
+poderia danificar a estrutura do ímã, já que os circuitos 
+de cada robô são isolados para evitar que haja 
+dispersão de calor por sua estrutura. Assim, o ímã de 
+neodímio apresentou-se como melhor material que 
+satisfaz a relação indução/peso.  A denominação destes 
+ímãs é dada por N**, em que ** representa a densidade 
+energética medida em MGOe. Tomando uso do 
+software K&J Magnet Calculator é possível visualizar 
+na Figura 1 o campo magnético de um ímã da categoria 
+N42, cujas dimensões são: 
+ 
+Material Br(Gauss) Hcmax(Oersted) BHmax(MGOe) 
+NdFeBo 14.600 12.300 26-51 
+SmCo 10.500 9.200 26-0.04 
+AlNiCo 12.500 1.500 5.5-0.02 
+Cerâmico 3.900 3.900 1.0-4.4 
+
+===== PAGE 3 =====
+Anais do CREEM 2014     XXI Congresso Nacional de Estudantes de Engenharia Mecânica 
+Copyright © 2014 by ABCM 06-10 de outubro, 2014, Rio de Janeiro, RJ, Brasil 
+ 
+Diâmetro externo:40mm 
+Diâmetro interno: 6mm 
+Espessura: 10mm 
+ 
+ 
+ 
+Figura 1 . Visualização da intensidade do campo 
+magnético 
+ 
+A escolha dessas dimensões foi baseada em diversas 
+iterações geométricas tomando como fonte um único 
+ímã no espaço. Considerando que o campo magnético 
+diminui à medida que a distância entre da superfície do 
+ímã e da arena aumenta, é necessário que se obten ha 
+um campo magnético uniforme. Observando os 
+resultados da Figura 1 , o modelo de ímã proposto 
+possui a melhor relação distância /campo magnético, 
+onde desenvolveu uma intensidade de campo uniforme 
+relativamente suficientes, variando de 5200 a 3600 
+Gauss; Q uanto à tração exercida por cada ímã, a 
+calculadora possui um artifício denominado “ The Pull 
+Force”, que se utiliza de um medidor d e tração para 
+medir o comportamento do ímã e, consequentemente, a 
+força magnética do mesmo.  Os resultados obtidos 
+podem ser observados na Figura 2; estes relacionam as 
+condições geométricas anteriormente apresentadas, 
+considerando o ímã a uma distância de 0 mm do 
+material ferromagnético, e a tração sofrida por esse 
+material em lb. 
+Realizando a conversão para a grandeza da força 
+normal, verifica -se que 46,18lb correspondem a 
+20,94kgf. Dessa forma, dispondo de  2 ímãs em cada 
+lateral do robô  e 2 na região central , verifica-se um 
+potencial indutivo satisfatório, representando  um 
+aumento de 40 vezes o peso do robô, tornando -o 
+extremamente competitivo. A estrutura do robô e o s 
+esforços sofri dos pela estrutura segundo essa 
+disposição são mostrados na s Figuras 3 e 4, 
+respectivamente A barra com esquema de cores revela 
+que a deform ação aparente da estrutura obteve um 
+valor máximo de 0,2658mm. Em análises práticas esse 
+valor revelou-se satisfatório, considerando essa taxa de 
+deformação dentro do limite aceitável para o alumínio 
+6061. 
+. 
+ 
+  
+Figura 2. Gráfico “The pull force” 
+  
+ 
+ 
+Figura 3. Projeto da carenagem do robô 
+ 
+ 
+ 
+ Figura 4. Simulação da taxa de deformação da chapa 
+de alumínio  
+ 
+
+
+===== PAGE 4 =====
+Anais do CREEM 2014     XXI Congresso Nacional de Estudantes de Engenharia Mecânica  
+Copyright © 2013 by ABCM 06-10 de outubro, 2014, Rio de Janeiro, RJ, Brasil 
+ 
+CONCLUSÃO 
+ 
+Através da análise dos dados coletados, o perfil de ímã 
+proposto demonstrou possuir características magnéticas 
+que, aliadas a elementos mecânicos, apresentou 
+resultados dentro do modelo esperado.  Entende-se que 
+a análise numérica do potencial indutivo de ímãs de 
+neodímio é apenas o plano inicial para resultados mais 
+práticos.  Fez-se necessário o uso de  ferramentas 
+computacionais capazes de levantar resultados 
+considerando os principais dados a serem analisados. O 
+fato de o perfil adotado ofer ecer a melhor relação 
+indução/peso e um campo magnético uniforme ao 
+longo do espaço livre torna esse estudo uma importante 
+ferramenta para as equipes competidoras na categoria 
+“sumo de robôs”. 
+ 
+AGRADECIMENTO 
+ 
+Os autores dedicam esse trabalho à equipe do Núcleo 
+de Automação e Controle (NAuCo,) localizado na 
+Universidade Estadual do Maranhão, com a qual teve a 
+oportunidade de desenvolver as pesquisas relacionadas 
+a esse estudo. 
+ 
+REFERÊNCIAS 
+ 
+K&J Magnet Calculator , Inc. Steel Thickness 
+Calculator.  Acessado em: 22/07/ 2014. Disponível 
+em: 
+<http://www.kjmagnetics.com/blog.asp?p=steel-
+thickn ess-calculator>. 
+R. N. Faria, L. F. C. P. Lima . Introdução ao 
+Magnetismo dos Materiais . 1.ed.  São Paulo  : 
+Editora Livraria da Física, 2008. 
+Walker, Jearl. Campos magnéticos: Linhas de campo 
+magnético. ln: Jearl Walker. Eletromagnetismo. Rio 
+de Janeiro: LTC, 2009. p. 201-232. 
+ 
+DECLARAÇÃO DE RESPONSABILIDADE 
+ 
+Os autores são os únicos responsáveis por este trabalho 
+intitulado “Análise numérica da influência de  ímãs de 
+neodímio na relação indução/peso em estruturas de 
+robôs de sumô”. 
+ 

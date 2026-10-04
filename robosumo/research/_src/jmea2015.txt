@@ -1,0 +1,278 @@
+### TOTAL PAGES: 4
+
+===== PAGE 1 =====
+Journal of Mechanics Engineering and Automation 5 (2015) 197-200 
+doi: 10.17265/2159-5275/2015.03.009 
+Numerical Analysis of Neodymium Magnet Influence in 
+Relation Induction/Weight Structures of Sumo Robots 
+Mylena Samantha Ferreira Mendes1, Lucas Silva Soares2 and William Cunha Rezende Medeiros Tavares3 
+1. Mechanical Engineering Department, Universidade Estadual do Pará, São Luís 66613-115, Brazil 
+2. Mechanical Engineering Department, Universidade Estadual do Maranhão, São Luís 65063-510, Brazil 
+3. Mechanical Engineering Department, Universidade Estadual do Maranhão, São Luís 65074-862, Brazil 
+ 
+Received: January 28, 2015 / Accepted: February 15, 2015 / Published: March 25, 2015. 
+ 
+Abstract: Since neodymium magnet possesse s an extremely strong magnetic field, resu lting from the combination of neodymium, 
+iron and boron, it has become the most used in designing autonom ous sumo robots. When it is mounted under the structure of   
+this robot, the magnet produces a large amount of normal force resulting from the interaction between its field lines and the s teel 
+frame of the arena, reducing the risk of slipping its wheels . Thus, the heavier a robot, the gr eater the difficulty for the opp onent to 
+remove it from the arena. This article explains the properties of Nd-Fe-Br magnets and analyzes the influence of these 
+characteristics in the relation induction/weig ht. Additionally, to a comparative analys is, this research analyzes the positioni ng, 
+geometry and polarization of the magnets under study, based on  numerical results obtained using Inventor and K & J Magnets 
+Calculator software, given that these factor s influence in their energetic product gene ration. Furthermore, more than just work ing 
+with what we believe is a subject of great interest for sumo robot’s teams, this study encourages their competitiveness, an ess ential 
+factor for the competition.  
+ 
+Key words: Neodymium, induction, weight. 
+ 
+1. Introduction 
+In engineering, the word “robot” has become the 
+target of intense study. To promote research and 
+development of robots, several world championships 
+recognized that students ar e urged to produce a smart 
+competitor, are held. The idealization of the robot of 
+this project refers to a standalone type, that is, able to 
+perform commands without human interference and 
+able to compete in the “autonomous sumo 3 kg” 
+whose rules are defined to build an autonomous robot 
+maximum 3 kg weight width and length of 20 cm and 
+headroom. The robot was designed following a 
+mechanical to allow their free movement, sensing 
+reactive and efficient electronic able to allow 
+communication of all robot devices. 
+                                                           
+Corresponding author: Mylena Samantha Ferreira Mendes, 
+M.Sc., research field: robotics. E-mail: 
+mylena-maranhao@hotmail.com. 
+The robot sumo is the smart removal of the 
+opponent’s arena. Thus, an engine is essential that has 
+high level of torque and with enough force to turn the 
+wheels and beat the opponent. Allied to this criterion, 
+an important device has become widespread in sumo 
+competitions: the use of neodymium magnets in robot 
+base structure in order to increase its normal force and 
+consequently hinder its removal from the steel arena 
+A32 ASTM covered with polyurethane. Numerical 
+analyses through software were made through 
+successive iterations provin g that the proximity of a 
+magnetic material with the arena of steel directly 
+influences the mechanical robot skills. The paper is 
+organized as follows: Section 2 discusses the 
+methodology adopted for the classification of 
+neodymium magnet as inductive potential; Section 3 
+presents results and discussions; Section 4 gives 
+conclusions.  
+D 
+DAVID  PUBLISHING 
+
+===== PAGE 2 =====
+Numerical Analysis of Neodymium Magnet Influence in Relation Induction / weight  
+structures of sumo robots 
+ 
+198
+2. Methodology 
+Neodymium magnets can be magnetized axially and 
+diametrically [3]. The possibility of two simultaneous 
+magnetizations could be seen only magnets with ring 
+format. This alternative influenced the choice of 
+magnets in this format. Thus, when attached to the 
+robot structure, and interact with the axially steel 
+arena, it would be possible to visualize the interaction 
+between the two rows of field magnets arranged side 
+by side. For display of the field lines of each magnet 
+and the identification of its poles, tests with iron 
+filings were made. Iron is a ferromagnetic material 
+and therefore its magnetic dipoles align themselves in 
+the presence of a magnet (external magnetic field) [2]. 
+In this case, the filings begin to behave as a natural 
+magnet, while in the presence of a field. As the iron 
+filings have little mass, this not only aligns its 
+magnetic dipoles but also fits in the direction of the 
+external field, “drawing”" so their distribution and 
+direction around the magnet. It is interesting to do the 
+mapping of magnetic field magnets with different 
+formats, so you can understand that the spatial 
+distribution of the magnetic field depends among 
+other things magnet format [8].  
+Since the magnetic potential of the magnet influences 
+directly on your energy product, the software chosen 
+for the calculations was the K & J Magnet Calculator 
+due to the computational nature of the analysis [1]. It 
+is a well-known tool in the magnetic field. Their 
+findings are based on extensive product testing, which 
+through geometric parameters, we can predict traction 
+suffered by each magnet, i.e., the force is able to pull 
+him away from a ferromagnetic plan, and the intensity 
+of the surface field for points along the route, 
+assuming a single magnet in free space [5]. 
+Magnets are not machinable materials: the incorrect 
+method for fixing or drilling can oxidize it and affect 
+its magnetic field. The best way to fix it in the robot 
+structure is to use a special  glue called professional 
+Araldite: this glue is produced based on epoxy resin, a 
+factor that justifies its high power setting, avoiding 
+chemical reaction in the magnet. 
+The fairing robot, created containing 6061, and 
+efforts suffered the same were developed using 
+Inventor software, employed in the branch of 
+Mechanical Engineering to conduct product 
+simulations and 3D mechanical design. 
+3. Results and Discussions 
+The proposed magnet was based on research related 
+to the magnetic properties most popular commercially. 
+Each magnet has special characteristics that have been 
+analyzed according to the n eed of inductive potential. 
+To include the neodymium magnet in this project, the 
+use of a comparative tabl e was needed between the 
+material of each magnet and its magnetic properties 
+(Table 1) [4]. 
+Paying attention to these particularities, a feasibility 
+study was necessary. In comp arative terms, the result 
+of this analysis can be viewed below. 
+By reading the data, you can see that the neodymium 
+magnets are those with greater intensity, but low 
+ 
+Table 1  Magnetic properties. 
+Material Br (Gauss) HcMax (Oersted) BMax (MGO) 
+NdFeBo 14.600 12.300 26-51 
+SmCo 10.500 9.200 26-0.04 
+AlNiCo 12.500 1.500 5.5-0.02 
+Ceramic 3.900 3.900 1.0-4.4 
+ 
+Table 2  Study of the viability magnetic [6].  
+Material Feasibility 
+NdFeBo
+Extremely strong magnetic field, but little resistant 
+to high temperatures. Note that is the most used in 
+the competitions and the most modern. It has the 
+best properties and the best value for 
+induction/weight [6].  
+SmCo 
+Despite the excellent magnetic properties and 
+temperature resistance (up to 250 °C), the high cost 
+could limit their applications. 
+AlNiCo
+Strong magnetic field and less than the neodymium 
+magnets. Resistant to high temperatures. His Tcurie 
+(temperature at which a magnet loses all its 
+magnetism) is extremely high. However, the 
+strength of demagnetization (HcMax), measured in 
+Oersted, has low values. 
+Ceramic
+Are those with lower cost and magnetic force. To 
+achieve the magnetic strength of a neodymium 
+magnet, 18 times the ceramic magnet volume is 
+required. 
+
+===== PAGE 3 =====
+Numerical Analysis of Neodymium Magnet Influence in Relation Induction / weight  
+structures of sumo robots 
+ 
+199
+resistance to high temperatures. In sumo competitions, 
+no external material could damage the magnet 
+structure, since the circuits are isolated from each 
+robot to prevent any heat dispersion in its structure. 
+Thus, the neodymium magnet presented itself as best 
+material that satisfies the induction/weight ratio. The 
+name of these magnets is given by N **, where ** is 
+the energy density measured in MGOe. Taking use of 
+K & J Magnet Calculator [1] software you can see in 
+Fig. 1, the magnetic field of a magnet N42 category 
+whose dimensions are: 
+ external diameter: 40mm; 
+ inside diameter: 6mm; 
+ thickness: 10mm. 
+The choice of these dimensions was based on 
+several geometric iterations using as source a single 
+magnet in space. Considering that the magnetic field 
+decreases as the distance between the magnet and the 
+surface increases from the arena, obtaining a uniform 
+magnetic field is needed. Looking at the results of Fig. 
+1, the proposed method has the best magnet ratio 
+distance/magnetic field which has developed a 
+relatively uniform field of sufficient intensity, varying 
+5,200-3,600 gauss; Regarding the traction exerted by 
+each magnet, the calculator has an artifice called “The 
+Pull Force”, which uses a meter to measure tensile 
+behavior of the magnet and therefore the magnetic 
+force thereof [5]. The results are shown in Fig. 2; 
+those relate to the geometrical conditions shown 
+above, considering the magne t at a distance of 0 mm 
+of the ferromagnetic material and the traction received 
+by this material lb. 
+The conversion to the greatness of strength, it 
+appears that 46, 18 lb match 20, 94 kgf. Thus, 
+disposing the magnets 2 on each side of the robot 2 
+and the central region, there is a satisfactory inductive 
+potential, representing an increase of 40 times the 
+weight of the robot, making it extremely competitive. 
+The structure of the robot and the efforts sustained by 
+the structure according to this arrangement are shown 
+in Figs. 3 and 4, respectively. 
+ 
+Fig. 1  Visualization of magnetic field strength. 
+ 
+ 
+Fig. 2  Graph of “The pull force”. 
+ 
+
+
+===== PAGE 4 =====
+Numerical Analysis of Neodymium Magnet Influence in Relation Induction / weight  
+structures of sumo robots 
+ 
+200
+ 
+Fig. 3  Robot fairing design. 
+ 
+ 
+Fig. 4  Simulation of strain rate of aluminum sheet. 
+ 
+The color scheme bar shows that the apparent 
+deformation of the structure obtained a maximum 
+value of 0.2658 mm. In practical analysis, this value 
+proved to be satisfactory, considering the strain rate 
+within the acceptable limit for 6061 [7]. 
+4. Conclusions 
+Through the analysis of the collected data, the 
+proposed magnet profile has demonstrated that 
+magnetic characteristics, combined with mechanical 
+elements, presented results within the expected pattern. 
+It is understood that the numerical analysis of the 
+inductive potential of neodymium magnets is only the 
+initial plan for more practical results. It was necessary 
+the use of computational tools capable of lifting 
+results considering the main data to be analyzed. The 
+fact that profile adopted offer the best value for 
+induction/weight and a uniform magnetic field along 
+the free space makes the study an important tool for 
+competing teams in category “sumo robots”. 
+References 
+[1] K & J Magnet Calculator, Inc. Steel Thickness Calculator. 
+Accessed July 22, 2014. http://www.kjmagnetics. 
+com/blog.asp?p=steel-thickn ess-calculator. 
+[2] Faria, R. N., and Lima, L. F. C. P. 2008. Introduction to 
+Magnetism Materials.  1st edition. São Paulo: Editora 
+Livraria da Física. 
+[3] Walker, J. 2009. “Magnetic Fields: Magnetic Field Lines.” 
+In: Electromagnetism, edited by Walker, J. Rio de Janeiro: 
+LTC. 
+[4] Lopes, L. U. 2008. Characterization of the Thermal 
+Stability of the Magnetic Prope rties of Composites Based 
+Magnets Neodymium-Iron-Boron.  Florianópolis: 
+Universidade Federal de Santa Catarina. 
+[5] K & J Magnet Calculator. A Single Magnetic Field. 
+Accessed July 22, 2014. https://www.kjmagnetics. 
+com/blog.asp?p=gap-calculator.  
+[6] Dura Magnetics, Inc. Neodym iun Magnetics (Nd-Fe-Br). 
+Accessed January 14, 2015.. http://www.duramag. 
+com/neodymium-magnets-ndfeb/. 
+[7] Brazilian Congress of Manufacturing Engineering, 2, 
+2003 Uberlândia. Determination of Forming Limit Curve 
+for Aeronautical 6061-O. Uber landia: Federal University 
+of Uberlândia, 9 p. 
+[8] Ference, Jr., Michael, L., Harvey, B., and Sthephenson, 
+Reginald J. Physics Course : Electromagnetism. Edgard 
+Blucher, Sao Paulo. 
+ 

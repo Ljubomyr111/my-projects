@@ -1,0 +1,607 @@
+### TOTAL PAGES: 6
+
+===== PAGE 1 =====
+Research of Hybrid Magnetic System Used in 
+Autonomous MegaSumo Robots 
+ 
+Marcin Dziubek, Michał Falkowski, Paulina Łapińska, and Rafał Grądzki 
+Faculty of Mechanical Engineering, Bialystok University of Technology, Bialystok, Poland 
+Email: marcin.dziubek13@gmail.com, falkos1990@gmail.com, lapinskapaulina96@gmail.com, r.gradzki@pb.edu.pl 
+ 
+ 
+ 
+Abstract—The article describes the research of a hybrid 
+magnetic system consisting of neodymium magnets 
+arranged in a Halbach array, combined with 
+electromagnets. The system had been applied to an 
+autonomous MegaSumo robot. Application of the system is 
+intended to enable control of a robot adhesion to the mat 
+that the robot moves on during fights. As a part of the 
+electromagnet selection process, simulation tests had been 
+conducted. Simulations were targeted to analyse the 
+influence of changing quantities of electromagnet coils and 
+core radius on attraction force. After the electromagnets 
+selection, the hybrid magnetic system had been created , 
+consisting of 60 neodymium magnets and two 
+electromagnets. The system had been tested with MTS 858 
+Table Top System machine. The experiment showed that 
+the use of a hybrid solution brings many benefits, and in 
+certain situations its capabilities significantly exceed the 
+standard solution. In addition, during the tests, it was 
+possible to determine the optimal number of turns of the 
+electromagnet coil on the basis of optimization tests.  
+ 
+Index Terms —autonomous robot, sumo robot, magnetism, 
+electromagnet, magnet, Halbach array 
+ 
+I. INTRODUCTION 
+MegaSumo robots are autonomous structures that 
+compete in competitions based on traditional sumo 
+wrestlers fights. They move on a steel dohyo, which is 
+why the vast majority of constructors of MegaSumo  
+robots use magnets in their structures to increase the 
+adhesion on the mat. The classic solution used in the vast 
+majority of designs found at competitions is to arrange 
+neodymium magnets individually or in groups while 
+maintaining alternating polarity. T he only exception is 
+the UK team of builders, which used an electromagnet 
+instead of permanent magnets. Their solution was based 
+on a single, large electromagnet, which was turned on at 
+the beginning of the fight and turned off only after its end. 
+However, the robot constructed in this way moved very 
+slowly around the dohyo and was vulnerable to enemy 
+attacks from the side and the back. Based on the 
+observations of the world ’s leading robots, it was noticed 
+that the highest positions in the competition are occupied 
+by structures that move very dynamically, achieve full 
+speed in a short time and react almost immediately to 
+                                                           
+Manuscript received January 7, 2021; revised May 21, 2021. 
+every enemy move. Thus, slow construction is doomed to 
+failure. The robot  is constructed based on  one large 
+electromagnet also had another  serious drawback - while 
+maintaining the same attraction force, the electromagnet 
+is much heavier than permanent magnets. Moreover, the 
+electromagnet, which remained on throughout the fight, 
+generated a point focus of the attractive force. The lack 
+of its  distribution evenly over the entire surface of the 
+robot’s floor forced the use of larger, and therefore 
+heavier, motors driving the robot. These are the issues 
+that impose construction restrictions when designing the 
+remaining robot components due to the  maximum weight 
+of the robot being 3000g. [1], [2] 
+The research carried out earlier based on which the 
+articles [3]-[5] were created drew the Authors ’ attention 
+to the correctness of using both electromagnets and 
+permanent magnets. However, it was necessar y to choose 
+the right proportions between both types. 
+The combination of both types of magnets 
+(neodymium and electromagnets) would allow us to 
+adjust the attraction force of the robot to the mat. The 
+operation of such a solution would be based on switchin g 
+on two smaller than the electromagnets mentioned above 
+using signals from the microcontroller controlling the 
+operation of the entire system. 
+The electromagnets would be turned on when the 
+distance sensors detect an enemy that is below the 
+distance range that would be taken into account when 
+programming the microcontroller. Then, during a 
+confrontation with the opponent, the robot would 
+temporarily have a significantly increased adhesion 
+against the dohyo. 
+In the proposed solution, when the electromagnets 
+remain off, compared to the classical solution, the 
+resistance forces resulting from the adhesion of the 
+robot’s razor and wheels to the dohyo significantly 
+decrease. T herefore the robot gains speed while driving 
+at a safe distance from the opponent. 
+II. RESEARCH OBJECTS 
+The magnets most frequently used in MegaSumo 
+robots constructions are neodymium NeFeB magnets [3] 
+with dimensions 5x5x5mm. The nominal value of the 
+attraction force is 1,6kg/item. Exact parameters from the 
+manufacturer’s data are shown in Table I. 
+343
+International Journal of Mechanical Engineering and Robotics Research Vol. 10, No. 6, June  2021
+© 2021 Int. J. Mech. Eng. Rob. Res
+doi: 10.18178/ijmerr.10.6.343-348
+
+===== PAGE 2 =====
+TABLE I. N EODYMIUM MAGNETS PARAMETERS 
+Dimensions [mm] 5 x 5 x 5 
+Material Neodymium (NdFeB) 
+Magnetising N52 
+Weight [g] 0.94 
+Magnetization [kA/m] 875 
+Remanence [T] 1.47 
+Holding force [kg] Ab. 1.6 
+In previous work, the authors have researched the 
+reduction of the number of neodymium magnets installed 
+in the robot. The research focused on the use of the 
+Halbach array, which properly polari ses the direction of 
+propagation of the magnetic field generated by the 
+magnets. Such a system of magnets allowed to maintain a 
+similar force of attraction with a significant reduction in 
+their number, which also translates into weight savings, 
+4]-
+[7] 
+Since the total weight of the robo t cannot exceed 
+3000g, the use of electromagnets in the robot ’s magnetic 
+system is associated with the removal of a significant 
+amount of material from the robot ’s floor and the use of 
+the previously mentioned Halbach array so that the total 
+weight of the robot complies with the competition 
+regulations. 
+Electromagnet selection was conditioned with three 
+factors: 
+- electromagnet size;  
+- attraction force; 
+- coil inductance (the factor which determines the time 
+that magnet requires achieving the maximum attraction 
+force). 
+ 
+To keep the structure as stiff as possible, it was 
+assumed that the diameter of the electromagnet could not 
+exceed 40mm. However, to avoid modifying the 
+arrangement of the remaining structural elements of the 
+robot, the permissible heig ht of the electromagnet was 
+20mm. 
+III. SIMULATIONS 
+The theory of electromagnetism used in the article was 
+based mainly on Maxwell’s equations [8], [9]. The most 
+important of these was Faraday ’s law of electromagnetic 
+induction. The law states that electric current is 
+conducted in a closed circuit, exposed to a changing 
+ [10],  [11]  
+∮ 𝐄 ∙ d𝐥 =  −
+d
+dt ∮ 𝐁 ∙ d𝐬
+ 
+S
+ 
+L                           (1) 
+where: 
+- L – any closed contour; 
+- E – vector of electric field strength [V/m]; 
+- S – area stretched on any closed contour L; 
+- B – magnetic field induction vector [T]. 
+ 
+Another important law was the Ampere law extended 
+by Maxwell, which describes the relationship between 
+the flow of current and the alternating magnetic field and 
+the produced magnetic field [12], [13]. 
+∮ 𝐁 ∙ d𝐥 =  𝜇𝐼 +  𝜇𝜀 
+d
+dt ∮ 𝐄 ∙ d𝐬
+ 
+S
+ 
+L                   (2) 
+where: 
+-  L, E, S, B – exact as in equation 1; 
+- µ - magnetic permeability of the medium [H/m]; 
+- I – total current flowing through the surface S stretched 
+on any closed contour L [A]; 
+- ε – electric permittivity of the medium [F/m]. 
+The above laws are the foundations of theorems on 
+which COMSOL Multiphysics mode lling the operation 
+of an electromagnet was based [14]. 
+In order to model and test the electromagnet, its 
+parameters should be taken into account: 
+ 
+Figure 1. Electromagnet – cross-section. 
+where: 
+- na – the numer of turns in one layer along the horizontal 
+axis; 
+- lra – core thickness [m]; 
+- lrb – core length [m]; 
+- nb – number of turns in one layer along the vertical axis. 
+ 
+To examine the value and distribution of forces, an 
+electromagnet model [15] was modelled in the COMSOL 
+Multiphysics program. The electromagnet winding was 
+converted from multiple circular sections to a simplified 
+rectangular section corresponding to the real areas of the 
+windings (Fig. 1). The simplification was applied due to 
+the small differences in the cross -sectional area between 
+the solutions . H owever, it significantly shortened the 
+simulation time, and the accuracy of the results remained 
+at a very high level. The model of the electromagnet is 
+shown in Fig. 2 and Fig. 3. 
+ 
+Figure 2. 2D cross-section of the electromagnet model. 
+344
+International Journal of Mechanical Engineering and Robotics Research Vol. 10, No. 6, June  2021
+© 2021 Int. J. Mech. Eng. Rob. Res
+which can be used in other elements of the structure
+.
+ [
+magnetic field .
+
+===== PAGE 3 =====
+ 
+Figure 3. 3D cross-section of the electromagnet model. 
+Fig. 2 shows the distribution and intensity of the 
+magnetic field inside the electromagnet and in the 
+substrate. The housing used in the electromagnet directs 
+the propagation of the magnetic field while preventing it 
+from affecting the other components of the robot - the 
+magnetic field does not interfere with the operation of the 
+control electronics and sensors (Fig. 3). 
+The magnetic field generated by the electromagnet 
+depends on the number of turns and the intensity of the 
+flowing current. The simulation aimed to select the 
+electromagnet parameters such that for the above 
+assumptions, in terms of dimensions, the highest possible 
+magnetic field strength was achieved. An essential 
+parameter of the electromagnet related to its operation is 
+its induction. Due to t he high speed at which the robot 
+moves, the time to achieve full attraction must be as short 
+as possible. 
+To fully use the potential of the electromagnet, the 
+distances between its core and the ground were 
+minimised for the robot ’s design. This dependency 
+determines the method of mounting the electromagnet to 
+the robot’s body. 
+The article presents only the range of results relevant 
+for further research (simulations were carried out in a 
+much broader range of input data). 
+Below are presented simulations for seven different 
+core radius ( from 3 to 14 mm, every 1 mm) with the 
+same winding, and then the results for the same core 
+diameter of 9 mm, but with a different number of turns 
+(Tab. II, Tab. III). 
+TABLE II. S IMULATION RESULTS WHEN CHANGING THE CORE 
+DIAMETER 
+The radius 
+of the 
+electromagnet 
+core 
+Attraction force (N) 
+Coil 
+resistance 
+(DC) (Ω) 
+Coil inductance 
+(H) 
+3 25,1527 0,2637 0,001354 
+4 52,8073 0,3024 0,002285 
+5 92,4095 0,3413 0,003422 
+6 141,0657 0,3797 0,004699 
+7 190,0237 0,4183 0,005959 
+8 230,6313 0,4572 0,007123 
+9 262,5543 0,4956 0,008188 
+10 286,8313 0,5342 0,009177 
+11 315,2056 0,5728 0,010452 
+12 338,1733 0,6114 0,011603 
+13 362,2347 0,6523 0,012753 
+14 388,2542 0,6886 0,013904 
+TABLE III. R ESULTS OF THE SIMULATION OF THE CHANGE IN THE 
+NUMBER OF COILS ON THE RADIUS 
+Number of 
+turns in the 
+horizontal 
+axis 
+Attraction force (N) 
+Coil 
+resistance 
+(DC) (Ω) 
+Coil inductance 
+(H) 
+5 131,7484 0,2388 0,003412 
+6 165,5354 0,2975 0,004473 
+7 198,8458 0,3599 0,005624 
+8 231,2018 0,4259 0,006867 
+9 262,5548 0,4956 0,008188 
+10 292,8458 0,5689 0,009591 
+11 321,8358 0,6459 0,011059 
+12 349,1837 0,7265 0,012587 
+13 372,4712 0,8108 0,014167 
+14 395,5065 0,8987 0,015807 
+15 416,5802 0,9903 0,017498 
+ 
+The above simulation results show that the more the 
+coil has turns and the more current flows through it, the 
+stronger the magnetic field of the electromagnet. On the 
+other hand, the induction of the coil is so low that its 
+influence can be neglected when selecting the magnet. 
+The highest efficiency, while maintaining the assumed 
+maximum dimensions, without the need to reduce the 
+stiffness of the structure and without affecting the 
+operation of other components, was achieved by an 
+electromagnet with the following parameters:  
+ 
+- numbers of turns at height – 21; 
+- number of turns on the radius – 9; 
+- radius of the electromagnet core - 9mm. 
+ 
+IV. EXPERIMENTAL TESTS 
+The conducted simulations provided the data needed 
+for the correct selection of the electromagnet. They made 
+it possible to approximately predict the effects of 
+introducing the electromagnets into the system  
+(approximate value of the increase in the pressing force 
+of the robot to the mat).  It was necessary to verify the 
+345
+International Journal of Mechanical Engineering and Robotics Research Vol. 10, No. 6, June  2021
+© 2021 Int. J. Mech. Eng. Rob. Res
+
+===== PAGE 4 =====
+correlation between the simulation calculations and the 
+actual results. For this purpose, a structure consisting of 
+two electromagnets with parameters determined in the 
+simulation section and sixty neodymium magnets 
+arranged in a Halbach array was made. The system 
+constructed in this way was subject to further stages of 
+the v erification of the force of attraction. Conducting 
+practical tests will allow predicting the behaviour of the 
+structure placed in the Mega Sumo robot during a fight, 
+and will also allow to roughly determine the benefits of 
+using such a solution during sumo  fights. Based on the 
+research to date, the authors of the article noticed that the 
+results from the tensile tests give a reliable translation 
+into the real Mega Sumo structures. 
+To check how the developed magnetic system will 
+behave on a real robot, the MTS 858 Table Top System 
+machine was used (Fig. 4). 
+The test sample was built based on a 6mm thick 
+aluminium sheet, imitating the floor of the MegaSumo 
+robot ( Fig. 5) The aluminium used in the construction 
+does not affect the operation of the magnets. For t he 
+tensile tests, the positioning of the magnets on the 
+aluminium plate was changed about the arrangement on 
+the robot ’s floor - the even distribution of the magnets 
+made the magnets lift simultaneously and evenly [16]. 
+ 
+ 
+Figure 4. MTS 858 Table Top System. 
+ 
+Figure 5. The system built for tensile testing. 
+The constructed system was pulled away from a 10mm 
+thick steel plate. The data recording rate was 25 Hz, and 
+the lifting pitch was about 0.001mm. The tensile test data 
+was saved for further analysis. To minimise error 
+introduced by uneven sample surfaces, both the steel 
+plate and the surface of the magnets were aligned and 
+cleaned. Despite the initial distance of the magnets from 
+the steel plate of 0mm, the graphs show an apparent 
+increase in the magnetic force of attraction. However, it 
+is the result of the deformation of the material from 
+which the test system was built. 
+The test was performed for two cases - with off and on 
+solenoids. In this way, the attraction force of the robot 
+was simulated while driving around the ring and in close 
+quarters. 
+During the extraction of a sample made of only 60 
+permanent magnets arranged in a Halbach array, the 
+highest value that was recorded was approx. 846N - this 
+corresponds to 86 kg of the robot ’s attraction force on a 
+dohyo made of magnetic steel ( Fig. 6). These data 
+correspond to the values obtained during the tests 
+described in the article [5] (per 1 magnet - a factor of 
+approx. 150% compared to the traditional arrangement 
+with the same number of magnets). 
+ 
+Figure 6. Graph of the force of attraction during a tensile test with the 
+electromagnets off. 
+ 
+Figure 7. Graph of the attraction force during a tensile test with the 
+electromagnets on. 
+The result of the distraction of the sample with the 
+electromagnets turned on coincides with the expected 
+effect from the simulation results. During the sample 
+pulling test with the electromagnets turned on, the 
+maximum force of attraction was 1333.86N ( Fig. 7), 
+which gives the robot approx. 136 kg attraction force 
+against the dohyo. The difference between the attracting 
+force of the system obtained in the two pull -off tests is 
+487.38N, which corresponds to approx. 24.9 kg of 
+additional adhesion generated by a single electromagnet, 
+therefore switching on the electromagnets results in an 
+increase of the attraction force by 37%. 
+346
+International Journal of Mechanical Engineering and Robotics Research Vol. 10, No. 6, June  2021
+© 2021 Int. J. Mech. Eng. Rob. Res
+
+===== PAGE 5 =====
+V. CONCLUSIONS 
+The use of a hybrid magnet system in the MegaSumo 
+category robot allows for a dynamic change of the 
+adhesion of the robot to the mat. The electromagnets used 
+in the construction of the robot, supporting the work of 
+permanent magnets, enable t he increase of the robot ’s 
+speed while performing man oeuvres bypassing the 
+opponent and maintaining the full attractive force during 
+a collision with him - just like in a traditional solution. 
+This solution also makes it much easier to adapt the robot 
+to a  dohyo made of materials of different quality and 
+varnish. Damage resulting from peeling off the paint 
+layer before the collision disqualifies the robot from the 
+fight, and those caused during the collision are not taken 
+into account. Since with the propos ed solution, the 
+chance of damage to the dohyo occurs only during the 
+collision - the risk of disqualification was avoided. 
+In a robot in this category, the nominal operating 
+parameters of the engine are often deliberately exceeded. 
+The increase in the current flowing through the windings 
+occurs as a result of adding additional resistance from the 
+attraction force of the magnets in the traditional solution. 
+Moving away from the engine ’s endurance limit may 
+cause permanent structural damage and prevent furth er 
+participation in the competition. The consequence of 
+reducing the resistance during man oeuvring is also a 
+significant relief of the motors used in the robot ’s 
+construction - less current that flows through the winding 
+of the motors. Then the risk of win ding damage is 
+reduced. This is crucial in a fight that is longer than usual. 
+[17] 
+The attraction of the robot to the dohyo can be 
+changed from 846N to 1334N within a fraction of a 
+second, and vice versa. It has a diametrical impact on the 
+robot’s capabilities. Thanks to the possibility of any 
+change in the adhesion of the structure, the characteristics 
+of the robot can change between fast and agile, and 
+slower but firmly pressed. The benefits of using a hybrid 
+magnet system may , in the future res ult in the 
+popularisation of this solution in the MegaSumo robot 
+competition. Depending on the designer ’s intention, the 
+system can be freely modified, adapting the robot to the 
+intended fighting style. The authors envisage application 
+for the hybrid solut ion mainly in robots that are 
+characterized by achieving very high speeds - within 5-7 
+m/s. This will allow them to maintain their agility and 
+predisposition to perform fast maneuvers, as well as 
+increase their chances of facing slower robots with 
+greater attraction force. 
+The differences between the simulation results and the 
+haul-off tests result from losses caused, among others, by 
+heating of the windings of electromagnets and internal 
+defects of the materials used for their construction. 
+CONFLICT OF INTEREST 
+The authors declare no conflict of interest. 
+AUTHOR CONTRIBUTIONS 
+Marcin Dziubek carried out experimental research of 
+magnets arrangement. Michał Falkowski was responsible 
+for conducting simulations in COMSOL Multiphysics 
+software. Paulina Łapińska  did a theory overview and 
+wrote the content of the article. Rafał Grądzki 
+coordinated the team ’s work and assisted in creating the 
+article. All authors have accepted the final version of the 
+article. 
+ACKNOWLEDGMENT 
+The project is funded by the Ministry of Science and 
+Higher Education of Poland under the “Najlepsi z 
+najlepszych! 4.0” program. 
+REFERENCES 
+[1] K. Chojnowski, P. Wasilewski, R. Grądzki, “Movement modeling 
+of mobile robot in MegaSumo category,” in Proc. AIP Conference 
+Proceedings, 2029, 020010 (2018) . 
+https://doi.org/10.1063/1.5066472. 
+[2] S. Jeong, H. Choi, S. Young Ko, J . Park, S. Park, “Remote 
+controlled micro-robots using electromagnetic actuation (EMA) 
+systems,” in Proc. Biomedical Robotics and Biomechatronics 
+(BioRob) 4th IEEE RAS & EMBS International Conference, 2012, 
+pp. 482-487. 
+[3] J. Coey, Magnetism and magnetic materials,  Cambridge 
+University Press, 2009. 
+[4] Ł. Kotarski, M. Wysocki, R. Grądzki, P. Łapińska, “Research of 
+magnetic system applied in autonomous MegaSumo robots, ” in 
+Proc. 20th International Carpathian Control Conference (ICCC) , 
+Krakow-Wieliczka, Poland , 2019, pp. 1 -5. 
+https://doi.org/10.1109/CarpathianCC.2019.8765950. 
+[5] K. Halbach, Design of permanent multipole magnets with oriented 
+rare earth cobalt material , Nuclear Instruments and Methods, 
+1980. 
+[6] P. Łapińska, M. Dziubek, Ł. Kotarski, and R. Grądzki, “Research 
+of Various Magnetic Systems Used in Autonomous  MegaSumo 
+Robots,” International Journal of Mechanical Engineering and 
+Robotics Research , 2020, vol. 9, no. 5, pp. 739 –744. 
+http://doi.org/10.18178/ijmerr.9.5.739-744. 
+[7] R. D. Brewer, K.E. Loewke, E. F. Duval, J.K. Salisbury “Force 
+control of a permanent magnet for minimally-invasive 
+procedures”, in Proc. 2nd IEEE RAS&EMBS international 
+conference on biomedical robotics and biomechatronics, 2008, pp. 
+580–586. 
+[8] Smajic. J, How to perform Electromagnetic Finite   Element 
+Analysis, NAFEMS, 2016. 
+[9] D. S. Jones, The theory of Electromagnetism, PERGAMON 
+PRESS, 1964. 
+[10] J. C. Mallinson „On-sided Fluxes – A magnetic curiosity?”, IEEE 
+Transactions on Magnetics, 1973, pp. 678-682. 
+[11] D. K. Cheng, Field and Wave Electromagnetics, Addison-Wesley 
+Publishing Company, 1992. 
+[12] E. M. Purcell, Electricity and magnetism, Cambridge Univ. Press, 
+2012.  
+[13] P. Tripler,  Physics for Scientists and Engineers: Electricity, 
+Magnetism, Light, and Elementary Modern Physics,  W. H. 
+Freeman, 2004  
+[14] M. Tabatabaian , COMSOL for Engineers , Mercury Learning & 
+Information, 2015. 
+[15] A. W. Mahoney, D. L. Cowan, K. M. Miller, J. J. Abbott (2012), 
+“Control of untethered magnetically actuated tools using a 
+rotating permanent magnet in any position.”, in Proc. Robotics 
+and automation (ICRA), IEEE international conference, 2012, vol. 
+20, pp. 3375–3380.  
+[16] Handbook of Magnetism and Advanced Magnetic Materials , John 
+Wiley & Sons, H. Kronmü ller, S. Parkin, 2007, vol. 5. 
+[17] M. Dziubek, M. Klimowicz, R. Grądzki, “Evaluation of 
+temperature changes of a loaded DC motor in autonomous mobile 
+347
+International Journal of Mechanical Engineering and Robotics Research Vol. 10, No. 6, June  2021
+© 2021 Int. J. Mech. Eng. Rob. Res
+
+===== PAGE 6 =====
+robots, “ in Proc. 20th International Carpathian Control 
+Conference (ICCC) , Krakow-Wieliczka, Poland, 2019, pp. 1-5. 
+https://doi.org/10.1109/CarpathianCC.2019.8766058. 
+ 
+Copyright © 2021 by the authors. This is an open access article 
+distributed under the Creative Commons Attribution License (CC BY-
+NC-ND 4.0), which permits the use, distribution and reproduction in 
+any medium, provided that the article is properly cited, the use is non-
+commercial and no modifications or adaptations are made. 
+Marcin Dziubek, Augustó w (Poland), September 
+26, 1997, Control System and Robotics student at 
+the Bialystok University of Technology. 
+Mechatronics technician at Augustowskie 
+Centrum Edukacyjne, Poland, Augustow, 2017 . 
+He worked as a serviceman of measuring and 
+control machines in British American Tobacco in 
+Augustow. Co-author of the article: “Research of 
+Various Magnetic Systems Used in Autonomous  megaSumo Robots,” International Journal of Mechanical Engineering 
+and Robotics Research, vol. 9, no. 5, pp. 739 –744, 2020. 
+http://doi.org/10.18178/ijmerr.9.5.739-744 
+ 
+ 
+ 
+ 
+Michał Falkowski , Bia łystok (Poland), 
+November 3, 1998, Control System and 
+Robotics student at the Bialystok University of 
+Technology. A student of the public high 
+school named after Stanisław Konarski, Poland, 
+Zambró w, 2017. He worked as a person 
+managing the distribution of materials in Metal-
+Technik in Zambró w. 
+ 
+ 
+ 
+ 
+ 
+ 
+Paulina Łapińska , Bia łystok (Poland), 
+November 4, 1996, Control System and 
+Robotics student at the Bialystok University of 
+Technology. Bachelor ’s degree in Control 
+Systems and Robotic at the the Bialystok 
+University of Technology, Poland, Bialystok, 
+2019. Copywriter. In 2018, an internship at 
+ANLAP. Co-author of the article: “Research of 
+V a r i o u s  M a g n e t i c  S y s t e m s  U s e d  i n  
+Autonomous  megaSumo Robots,” International Journal of Mechanical 
+Engineering and Robotics Research, vol. 9, no. 5, pp. 739 –744, 2020. 
+http://doi.org/10.18178/ijmerr.9.5.739-744 
+ 
+Ph.D. Rafał Grądzki , Mońki (Poland) 
+December 22, 1984. In 2012 in Bialystok 
+University of Technology finished PhD  thesis 
+in technical sciences
+ 
+in the field of machine 
+construction and operation.
+ 
+He works as assistant Professor of the Facult y 
+of Mechanical Engineering at the Bialystok 
+University of Technology since 2012. Research 
+subjects: technical diagnostics of bus engines, 
+ 
+shafts, examination of potential reliability and safety level demonstrated 
+by technical objects and autonomous robots. The most important 
+publication 27. R. Gradzki, P. Z. Kulesza, B. Bartoszewicz, “Method of 
+shaft crack detection based on squared gain of vibrat ion amplitude”, 
+Nonlinear Dynamics, 2019, Volume 98, Issue 1, pp 671 –690. 
+https://doi.org/10.1007/s11071-019-05221-0.
+ 
+ 
+348
+International Journal of Mechanical Engineering and Robotics Research Vol. 10, No. 6, June  2021
+© 2021 Int. J. Mech. Eng. Rob. Res

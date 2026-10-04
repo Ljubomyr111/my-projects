@@ -1,0 +1,1972 @@
+1 ITALIAN JOURNAL OF PUBLIC LAW [Vol. 1 
+ 
+ 
+ 1
+ITALIAN JOURNAL OF PUBLIC LAW (2009) 1-44 
+ 
+Gaetano Mosca’s Political Theories: a Key to 
+Interpret the Dynamics of the Power  
+ 
+Claudio Martinelli 
+ 
+ 
+Abstract: Gaetano Mosca is generally regarded as of the founders of the Political 
+science. His thought has been analysed, exalte d and also criticised, for over a century 
+now, by a lot of researchers in the world. And nevertheless the challenges that 
+modernity poses to those who engage in the study of political processes may perhaps 
+give meaning to the attempt to reread that theoretical framework, both to establish the 
+current soundness and to measure the prospe ctive usefulness in order to understand 
+better and face these challenges. There is no doubt that many democratic systems 
+present great difficulties in finding the ri ght mechanism of selection of the political 
+classes and, more in general, the correct relationship between governors and governed. 
+Mosca’s disenchanted, realistic and relativist  views of democracy can be used as a 
+useful guide to understand the problems of this political system and even as a good 
+antidote against any populist regression, a recurrent temptation for many political 
+classes. This article tries to analyse how powe r is at the centre of Mosca’s thought: the 
+formation, organisation and consequences of  power. Of course, even in Mosca’s work, 
+like that of any social science scholar, there are some gaps, weak points and aspects 
+which have been surpassed with the passing of  time. So, the most important target of 
+this article is to separate as much as possi ble the aspects which still are of considerable 
+significance today, from those that are in evitably and irremediably covered by the 
+patina of age.   
+ 
+ 
+TABLE OF CONTENTS 
+ 
+I.  Short Biographical Notes  
+II.  The Theory of the Political Class   
+III.  Forms of Government and Mixed Government  
+IV. Representative Democr acy and Parliamentarianism 
+V.  The Role of Political Parties in the Constitutional System  
+VI.  Evolutionary Directions in Mosca’s Thought  
+VII.  Mosca and the Other Elitists  
+VIII.  Mosca and the Most Import ant Italian Jurists of his Time  
+IX.  Mosca as a Liberal Thinker  
+X.  Final Remarks 
+
+2 ITALIAN JOURNAL OF PUBLIC LAW [Vol. 1 
+ 
+ 
+ 2
+  
+Gaetano Mosca’s Political Theories: a Key to 
+Interpret the Dynamics of the Power  
+ 
+Claudio Martinelli * 
+ 
+ 
+I.  Short Biographical Notes  
+ 
+Gaetano Mosca is not only one of the leaders of his philosophy but he is 
+generally proclaimed to be the founder, at  least as far as Italian doctrine is 
+concerned, of a whole discipline: political science 1. First with the Teorica dei 
+governi e governo parlamentare  ( Theoretics of Governments and Parliamentary 
+Government) in 18842 and subsequently with the three editions of the Elementi di 
+Scienza politica (Elements of Political Science) in 1896, 1923 and 19393, he proposed 
+a new, valuable range of ideas throug h which political phenomena could be 
+interpreted, using an approach and with objectives which were different from 
+those of both the jurist and the historian 4. This intellectual Sicilian, university 
+professor in Turin and then in Rome, Me mber of Parliament and Senator of the 
+Kingdom5, is one of the few examples of Italian scholars of social sciences 
+                                                 
+* Researcher in Comparative public law, Faculty of Law, University of Milan “La 
+Bicocca”. 
+1 For an analysis of Mosca’s work regarding the birth of modern political Science in 
+Italy see. A. Lombardo, Sociologia e scienza politica in Gaetano Mosca , in Riv. It. sc. Pol., n. 2/1971,. 
+297-323.  
+2 See G. Mosca, Teorica dei governi e governo parlamentare , now in G. Sola (edited by), 
+Scritti politici di Gaetano Mosca, Vol. I, UTET, Turin, 1982. 
+3 See. G. Mosca, Elementi di Scienza Politica , now in G. Sola (edited by), Scritti politici di 
+Gaetano Mosca, Vol. 2, UTET, Turin, 1982.  
+4 On the relationship between politological, historical and juridical studies see the 
+exhaustive opinions of N. Bobbio, Saggi sulla scienza politica in Italia , Laterza, Rome-Bari, 1996,. 
+3-13. 
+5 Extensive biographical notes regarding Gaetano Mosca are provided by E. A. 
+Albertoni, Gaetano Mosca. Storia di una dottrina  politica. Formazione e interpretazione , Giuffrè, 
+Milan, 1978,. 3, as well as in G. Sola, Gaetano Mosca. Profilo biografico, in AA.VV., La dottrina della 
+classe politica ed i suoi sviluppi internazionali. Pr imo seminario internazionale Gaetano Mosca. Palermo 
+27-29 November 1980 , Giuffrè – Società Siciliana per la storia Patria di Palermo, Palermo, 1982, 
+17-52. For an accurate bibliography of Mosca’s work and about Mosca, see G. Sola, Nota 
+bibliografica, in G. Sola (edited by), Scritti politici di Gaetano Mosca, Vol. 1, cit.,  93-173. 
+
+3 ITALIAN JOURNAL OF PUBLIC LAW [Vol. 1 
+ 
+ 
+ 3
+whose work is known and discussed all over the world 6. His influence is found 
+clearly in the scientific production of nu merous authors, as is typical of those 
+who are defined, with good reason, as being among the classics of a particular 
+discipline.  
+Born in Palermo, April first, 1858, Gaetano Mosca belonged to a middle 
+class wealthy family. Since he was a young boy he set his life looking for firm 
+cultural basis; he matured a great passion for reading and as a young man he 
+opted for historical and juridical studies.  He attended profitably the Faculty of 
+Law in his town (together with his friend Vittorio Emanuele Orlando) and he 
+graduated in 1881 with distinction. Imme diately after his graduation, in order 
+to gain his economic independence, he started teaching History and Geography 
+in a high school in Palermo and in the mean time he started his academic career 
+which brought, in a few years, to obtain the chair in Constitutional Law at the 
+Universities in Palermo and Rome, wh ere he moved in 1887 to work as the 
+particular secretary and political advi sor of the Mps’ Di Rudinì (who was 
+Sicilian himself and became Head of the Government later). At the end of 1896 
+he moved to Turin (together with his wi fe and their three children), where he 
+was appointed Associate Professor in Constitutional Law at the Faculty of Law. 
+This University had just established so me Social Sciences courses and Mosca 
+taught for many years History of Political Sciences. The following years, besides 
+winning the open competition to become Professor, he embedded himself in the 
+Italian cultural and academic world: he established firm relationships with the 
+most important academics of his time , as Einaudi, Ferrero, Lombroso and 
+Michels. He also held important conferences and presided over various cultural 
+associations. Since 1901 he even increase d his influence on the Italian political 
+debate, thanks to his regular collaboratio n with  Luigi Alberini’s Corriere della 
+Sera. In 1902 he was appointed Professor in Constitutional and Administrative 
+Law in the new-born Bocconi University in  Milan. He kept this chair until 1918 
+when he accepted to teach Political Scienc e. In 1909 he was el ected in a Sicilian 
+constituency. Being a Member of the elective House of the Parliament, where he 
+collocates himself with the Right in a lib eral-conservative position, plus thanks 
+                                                 
+6 To fully appreciate the international dimension of the awareness and diffusion of his 
+works see AA.VV., La dottrina della classe politica e la su a diffusione internazionale. Orientamenti 
+informativi e temi di riflessione critica , in AA.VV., La dottrina della classe politica ed i suoi sviluppi 
+internazionali, cit., 189-283, AA.VV, Documentazione internazionale, in E. A. Albertoni (edited by), 
+Governo e governabilità nel sistema po litico e giuridico di Gaetano Mosca , Giuffrè, Milan, 1983, 391-
+493, as well as W. Abbondanti, La fortuna nel mondo anglofono , and R. Ghiringhelli, Mosca 
+transalpino, in E. A. Albertoni, Gaetano Mosca. Storia di una dottrina politica , cit., respectively and 
+511-535. 
+
+4 ITALIAN JOURNAL OF PUBLIC LAW [Vol. 1 
+ 
+ 
+ 4
+to his work at Corriere, he led passionate debates, often clearly contrasting 
+Giolitti’s positions, against both the un iversal suffrage and the introduction of 
+the proportional electoral law. In 1914 he joined Sala ndra’s government in the 
+role of parliamentary secretary of th e Colonies. In 1919 he was nominated 
+Senator of the Kingdom thanks to his wo rk as a Member of the Parliament in 
+the last two terms and as a Member of th e Public Instruction Superior Council ( 
+qualifications expressly foreseen at the Art. 33 of the Albert ine Statue). As a 
+Senator he mostly took care both of th e agricultural and alimentation issue and 
+the colony and emigration problem. In  1924 he went back to Rome where the 
+Faculty of Law appointed him Professor of Internal Public Law, a chair that had 
+been previously been held by his friend Vittorio Emanuele Orlando who 
+became Professor in Constitutional La w. When Mosca left the University of 
+Turin, Piero Gobetti highlighted Mosca’s love for both research and a free way 
+of thinking. In 1925 he signed Benede tto Croce’s antifascist manifesto and 
+joined the Liberal Party established by Croce himself together with Giolitti, 
+Orlando, Ruffini and Fortunato. At the end of the same year, he made the most 
+important and well known speech of his parliamentary life against the bill, 
+imposed by Mussolini, about the attributions and the prerogatives to the Head 
+of the Government. In the following years he edited a number of other 
+important publications (including the last edition of Elementi) and was awarded 
+several honorary degrees, as well as the nomination at the Accademia dei Lincei 
+as a national member. He died in Rome, November 8, 1941.  
+So, it may seem quite pleonastic to return to contemplate the thought of 
+this Maestro, who has been analysed, ex alted and also criticised, for over a 
+century now, by a vast literature.  And nevertheless the challenges that 
+modernity poses to those who engage in the study of political processes, from 
+the crisis of the Nation State to the multifarious problems that democratic 
+systems are called upon to face as regards political representation, the 
+relationship between pluralism and de cision-making, the authenticity of 
+consensus, right up to the changes en suing from new technology may perhaps 
+give meaning to the attempt to reread that theoretical framework, both to 
+establish the current soundness and to measure the prospective usefulness in 
+order to understand better and face these challenges. Of course, the quest is to 
+separate as much as possible the aspects which still are of considerable 
+significance today, from those that are inevitably and irremediably covered by 
+the patina of age.   
+ 
+
+5 ITALIAN JOURNAL OF PUBLIC LAW [Vol. 1 
+ 
+ 
+ 5
+ 
+II.  The Theory of the Political Class   
+ 
+At the centre of Mosca’s analysis there is the Power: in point of fact who 
+holds it, for what reasons, on the basis of which mechanisms of justification and 
+the end to which it is wielded. To all intents and purposes, we could say, the 
+formation, organisation and consequences of Power7. 
+The theory of the political class is  traditionally considered the major 
+contribution brought by Gaetano Mosca to the theory of the élites8.  
+Contrary to what is commonly believed, élitism is not a trend that can be 
+traced back exclusively to a handful of  authors whose scientific production is 
+collocated at the turn of the 19th and 20th centuries: Mosca, Pareto, Michels and 
+Weber. There were 18 th and 19 th century precursors like Saint-Simon, Comte, 
+Tocqueville and Taine, who often in their respective socio-political and historic-
+political analyses had the occasion to us e the concepts of élites and managerial 
+classes as an indispensible key for inte rpreting epoch-making phenomena such 
+as revolutions and the attempts for restoration, the imposition of the 
+bourgeoisie and the class struggle 9. There are also those authors who continue 
+to use the contribution provided by th e classic élitistes to enhance their own 
+analyses. Suffice to think of, among othe rs, Ortega y Gasset, Schumpeter, Aron 
+e Dahrendorf. 
+Nevertheless, there can be no doubt that the theory of the élites finds a 
+definition and organic systemisation than ks to the work of those exponents of 
+Italian and German sociology and polito logy. What their theories have in 
+                                                 
+7 See N. Bobbio, Saggi sulla scienza politica in Italia, cit., p. 168. 
+8 International literature that has thoroughly di ssected the theory of the élites is so full 
+and composite that it would be impossible to po int to even one single part of those works. 
+Among the most important contributions of the last thirty years recommended reading could be 
+A. Zuckerman, The Concept "Political Elite": Lessons from Mosca and Pareto , in The Journal of 
+Politics, n. 2/1977, 324-344; L. Hamon, A  propos de la théorie des élites: les formes de la prépondérance 
+et leurs variations , in Revue européenne des sciences sociales , 1985, 77-90; G. Busino, Elites et 
+bureaucratie, Droz, Genève, 1988; S. J. Eldersveld, Political Elites in Modern Societies, University of 
+Michigan Press, 1989; P. Cammack, A critical assessment of the New Elite Paradigm , in American 
+Sociological Review , 1990, 415-420 and J. Higley, M. G. Burton, L. G. Field, In Defence of Elite 
+Paradigm : a Replay to Cammack , in American Sociological Revew , 1990,. 421-426. As far as Italian 
+literature is concerned apart from the by now superceded AA.VV., Le élites politiche , Laterza, 
+Bari, 1961, which collects the acts of an important congress that was held between Milan and 
+Stresa in September 1959, the IVth World Cong ress of Sociology, and the classic E. Ripepe, Gli 
+elitisti italiani, I, Mosca – Pareto – Michels, Pacini, Pisa, 1974, the more recent G. Sola, La teoria delle 
+élites, Il Mulino, Bologna, 2000, is recommended probably being the most complete and organic 
+contribution on the history of world elitist thought that has ever appeared in Italy. 
+9 See G. Sola, La teoria delle élites, cit.,. 48. 
+
+6 ITALIAN JOURNAL OF PUBLIC LAW [Vol. 1 
+ 
+ 
+ 6
+common, in many ways different and not overlapping at all 10, is the realistic 
+acknowledgement that irrespective of the form of state that characterises a 
+particular historical period  and the form of government expressed by the legal 
+system, in any national society there will always be the presence of a more or 
+less restricted organised elite holdin g and wielding power. There will be a 
+majority of subjects who will see thei r own existence conditioned by the 
+practical methods with which this power is exerted by the élite in command. To 
+all extents and purposes, every political  régime is governed by organised 
+minorities (as Mosca wrote in the passage  quoted in the introduction), to the 
+detriment or on behalf of a disorganised majority. 
+In this scenario the significance taken on by Mosca’s scientific 
+contribution is due not only to the possi bility of laying claim to primogeniture 
+over the other exponents of this doctrine 11, but above all to the fact that it gave 
+form and substance to some concepts, su ch as for example “political class”, 
+which other authors had already used in the past (his forerunners) but without 
+ever making them rise to the level of systematic interpretation of the dynamics 
+of power. Mosca’s specific theory on the é lites should be sought in his capacity 
+to subject the traditional methods by which the political systems had been 
+classified since Aristotle’s day12 and in the incisive way with which the decisive 
+importance that the subject of organisa tion assumes is underlined, this being 
+the real tool of justification for the élites in command13. 
+In Mosca’s élitism the “political class” assumes a central role. What does 
+it consist of exactly? It is a concept of a pparently simple intuition, but is in fact 
+difficult to define with precise outlin es. Mosca himself many a time comes up 
+against hurdles in his definitive work , as bears witness a certain imprecise 
+terminology which compromises the explanatory quality 14. His attempt to 
+                                                 
+10 On the controversial interweaving relationships between the classical elitists see. G. 
+Eisermann, Nuovi elementi sulle relazioni tra Mosca, Pareto e Max Weber , in Prassi e teoria , n. 
+2/1977, 207-221; G. Sola, La teoria delle élites, cit., 65-67; D. Fiorot, Potere, governo e governabilità in 
+Mosca e Pareto, in E. A. Albertoni (edited by), Governo e governabilità nel sistema politico e giuridico 
+di Gaetano Mosca, cit., 79-102, not to mention S. Segre, Mosca e Weber: rapporti intellettuali ed analisi 
+comparata delle sociologie politiche, Idem,. 103-120. We shall see all these topics deeper later on. 
+11 At the beginning of the twentieth cent ury there was a famous controversy with 
+Vilfredo Pareto on which of them had theorized first on the principle of the organised 
+minorities. The details of this diatribe are described well by D. Fiorot, Potere, governo e 
+governabilità in Mosca e Pareto, cit.,. 87-92. 
+12 See R. Sereno, The Anti-Aristotelianism of Gaetano Mosca and its Fate , in Ethics, n. 
+4/1938, 509-518. 
+13 See G. Sola, La teoria delle élites, cit.,. 65-66. 
+14 As shown by G. Sola, La teoria delle élites , cit., p. 18 and E. Ripepe, Intellettuali, classe-
+politica e consenso nel pensiero di Gaetano Mosca , in Il Politico , 1981, 550-552. The term élite is 
+
+7 ITALIAN JOURNAL OF PUBLIC LAW [Vol. 1 
+ 
+ 
+ 7
+formulate an organic interpretation of  the political class derives from the 
+assumption that  “in every properly established gov ernment the effective distribution 
+of political power does not always  tally with the power of law ”15. In other words, this 
+means that alongside the holders of instit utional roles expressly foreseen by the 
+public law (the Crown, Republican Pr esident, Heads of government, members 
+of the cabinet, members of the elected assemblies, besides the uppermost 
+positions in the bureaucratic and judi cial systems and those responsible for 
+public order and defence), those who exert formal power endorsed by 
+constitutional and legislative rules, ther e are the holders of a social power no 
+less important than those who hold lega l power, prerogative of all those who 
+have significant positions from an ec onomic point of view (industrialists, 
+bankers, financiers), in the world of th e professions, intellectuals and even in 
+the religious field (ecclesiastical hierarchi es). In short, all those who, while not 
+holding offices foreseen by the order, have a significant ability to influence the 
+course of public life and so the condit ions in the existence of individuals 
+belonging to a particular society. Mosca tends to define the first category of 
+people as the political class  in the strict or special sense of the term, while the 
+group of all those who hold formal  or “social” power he calls the managerial 
+class, consisting of a sum of all the holders of effective power as regards the 
+management of a country. So, the manageri al class of a nation, the one that has 
+the ability to take the various kinds of decisions in order to lead it, has a 
+heterogeneous structure and it is possibl e to distinguish the component called 
+upon to take on a strictly political definition, precisely political class, as opposed 
+to those economic, cultural and relig ious, which are no less important as 
+regards the reality of power.  
+Once the political class has been defined, even if not completely 
+satisfactory from the lexical point of view, Mosca questions the reasons for the 
+legitimation of power by the political class. Indeed, it is not a concern that takes 
+up too much of his time. He does in fact  only dedicate a few pages of his works 
+to this topic, preferring to concentrate, as we will see, on the processes of  
+development and organisational methods of the political class which, consistent 
+with his own pragmatic and realistic attitude, he considered to be a priority to 
+                                                                                                                                               
+analysed thoroughly in AA.VV., Le élites politiche , cit., in particular in the contributions  by 
+G.E.G. Catlin, Le élites politiche ,. 59-67; G. Lavau, Nota sulle élites politiche, 80-87; G. Sartori, I 
+significati del termine élites, 94-99.               
+15 See Teorica dei governi, cit., 365-366. 
+
+8 ITALIAN JOURNAL OF PUBLIC LAW [Vol. 1 
+ 
+ 
+ 8
+explain the relationships of power within a national society16. However, he does 
+not evade the need to identi fy the general principles on the basis of which an 
+organised minority legitimates its power in the eyes of those being governed. 
+To this end he defines political formula those abstract principles through which 
+the political élite justifies its own power 17, building around it a moral and legal 
+structure18. Two examples, while opposites from  the rational point of view, of 
+political formulas that have contribute d to guaranteeing and consolidating the 
+power of a political class are the divine right of Kings and the principle of 
+popular sovereignty. According to Mo sca these formulas carry out their 
+function of consolidating the echelons of the system and social cohesion, 
+independent of the degree of plausi bility and reasonableness that is 
+encapsulated within, but simply to the extent to which they are perceived as 
+real and acceptable by those who are no t part of the political class or, more 
+extensively, the managerial class. The existence of a political formula is 
+necessary from the point of view of social psychology. 19, since the need to obey 
+great principles is inherent in human nature, rather than to individuals or 
+groups that hold virtual power 20. Following this line of thought, Mosca adds 
+that “ it is not the political formula that de termines the way the political class is 
+structured. On the contrary, it is the latter th at always adopts the formula that suits it 
+best”21. This statement is so radical and di sillusioned as regards any political 
+ideal as to border on cynicism and exa ggeration, but it perhaps contributes to 
+                                                 
+16 See F. Mancuso, Gaetano Mosca e la tradizione del costituzionalismo , ESI, Naples, 1999, 
+118. 
+17 See Teorica dei governi, cit.,. 226-229. 
+18 On the concept of political formula see also par. I, chap . III, Parte Prima, of Elementi di 
+Scienza Politica, cit.,  633-635, as well as Storia delle dottrine politiche, Laterza, Bari, IV ed., 1945,  
+341-342. For an analysis of this subj ect of Mosca’s see M. Delle Piane, Gaetano Mosca. 
+Classe politica e liberalismo , ESI, Naples, 1952, 194 and follow ing. In Aldo Bardusco’s opinion 
+“Basically Gaetano Mosca seems to claim that the legiti mation of power is a political operation where the 
+class or élite  that succeeds best is the one that upholds those values that are most suitable to founding the 
+power of that same class”  (See A. Bardusco, Legittimazione del potere e pa rtiti politici nel pensiero di 
+Gaetano Mosca e Guglielmo Ferrero, in Dir. Soc., n. 3/1982,. 540).  
+19 For an analysis of the relationship betw een psychology and politics in Mosca’s work 
+see F. Mancuso, Gaetano Mosca e la tradizione del costituzionalismo, cit., 74 ff.  
+20 A deep alarm for the devastating consequenc es that the disappearance of ideologies 
+and also any form of idealism in the political struggle, to the benefit of a pragmatism incapable 
+of defining a cultural horizon towards which public power could aim, has recently been raised 
+by N. Irti, La tenaglia. In difesa dell’ideologia politica , Laterza, Rome-Bari, 2008. Also interesting, 
+even if short, are the considerations on the st udy of “political ideology” in twentieth century 
+political science and on how these studies were influenced by the works of the founders of the 
+discipline like, for example, Mosca, are found in G. Miglio, Mosca e la scienza politica , in E. A. 
+Albertoni (edited by), Governo e governabilità nel sistema politico e giuridico di Gaetano Mosca , cit., 
+15-17. 
+21 See Teorica dei governi, cit., 227. 
+
+9 ITALIAN JOURNAL OF PUBLIC LAW [Vol. 1 
+ 
+ 
+ 9
+clarify the reasons for whic h in the course of Histor y there have often been 
+changes contemporarily in the structure of  the managerial class and in the ideal 
+reasons that justify the holding of power  on the part of the new groups. The 
+relationship of cause and effect bet ween these two elements in many cases 
+cannot be described so calmly, only from the point of view of strict principles; 
+suffice to think of the destiny of ma ny revolutionary regimes which became 
+quickly authoritarian and despotic. Or, on  the contrary, it helps to understand 
+the reasons why an élite manages to hold on to political power for a long time 
+despite the fact that it has lost, or is losing its real social supremacy22.  
+ 
+ 
+III.  Forms of Government and Mixed Government  
+ 
+From the theory of the political class and in particular of the role played 
+by the political formula, it is not accept able to draw the impression that Mosca 
+is inspired by an attitude of indifferenc e as regards the good nature or not of a 
+political regime. The fact that any po litical system is characterised by the 
+presence of a political class that wields  power and legitimates this by means of 
+a series of principles functional to its own existence, does not mean for Mosca 
+that all regimes are equal. Far from it. The whole formulation of the theory of 
+the political class shows how he refuses a conception of politics based on mere 
+power23. His attitude is, if anything, yet again the need for the scientist to make 
+the realism of experience prevail over the idealism of the spirit, in order to 
+propound an analysis of phenomena that  corresponds better to reality or, at 
+least is closest to it. Of course, the simple call for healthy realism does not imply 
+a reduction in the level of disputableness of Mosca’s reconstructions, given that 
+the themes dealt with do not constitute  proper subject-matter for one of the 
+“exact” sciences and that by their nature lend themselves to continual subjective 
+and relative interpretation. Despite this, the effort that Mosca makes every time 
+he takes on one of the cardinal points  in his own theory of power takes him 
+beyond the facade or commonplaces, in order to search for the dynamics that 
+really manage to explain political phenomena, above all the less obvious ones. It 
+is, however, acceptable to claim that in some cases this attempt has misfired as 
+is perhaps inevitable for any social scientist.  
+                                                 
+22 As G. Sola suitably points out in La teoria delle élites, cit.,. 76 “is the exemplification of the 
+rise to power of the bourgeoisie and the persistence of the political formula of the Ancien Régime”. 
+23 See note N. Bobbio, Introduzione, cit., XX. 
+
+10 ITALIAN JOURNAL OF PUBLIC LAW [Vol. 1 
+ 
+ 
+ 10
+This is the thread that ties Mosca’s  whole work together, both in the 
+domain of an internal evolution and on  particular subjects that we will see are 
+quite noticeable. It was inevitable that this stance would condition also his own 
+interpretation, or rather his critical re-reading of the traditional classifications of 
+forms of government.  
+In the history of Western thought there are basically three traditional 
+classifications that have conditioned th e theory of the forms of government 
+(understood, just, in this vast meanin g): those of Aristotle, Machiavelli and 
+Montesquieu24. 
+According to Gaetano Mosca none of th ese classifications captures in full 
+the essence of the phenomena because of their formalism, all being based 
+exclusively on the criteria of the number  of those who hold power, and so they 
+were not able to describe the reality thor oughly, remaining only on the surface 
+of what can be seen, that is, the nu mber of governors. However, for the 
+theoretician of the political class all regimes cannot be anything but oligarchic 
+(or aristocratic, if one wishes to assign the term a more positive connotation), 
+since in all of them there is an élite in command, more or less widespread and 
+organised, and a majority of governed. From  this perspective it is obvious that 
+numeric distinction is insufficient and in the final analysis deceptive. The 
+approach to these themes should be different and there should be other criteria 
+to distinguish and classify political regimes. 
+So, he proposes a classification model based on completely different logic 
+and parameters. 
+Keeping firmly at the centre of his an alysis the political class, the only 
+interesting key for interpretation to de scribe and judge political systems, he 
+highlights two concepts tied to th em which he calls respectively the organisation 
+and formation of the political class25.  
+On the one hand he claims that the typ es of organisation of the political 
+class can be limited to two: the one in which authority is transmitted from the 
+top to the bottom 26, which he calls autocratic, and the one in which there is the 
+                                                 
+24 Discussed by N. Bobbio, Stato, governo, società. Framme nti di un dizionario politico , 
+Einaudi, Turin, 95 and following. 
+25 For a thorough analysis of these two concepts see G. Sola, Introduzione, G. Sola (edited 
+by), Scritti politici di Gaetano Mosca, Vol. primo, cit.,  66-75.  
+26 “… in such a way as to leave the choice of the lower-ranking functionary to his superior, until 
+the top hierarch is reached who chooses his immediate assi stants, as should happen in the typical absolute 
+monarchy” (See par. I, chapt. IV, Part 2 of Elementi di Scienza Politica, cit., 1003-1004). 
+
+11 ITALIAN JOURNAL OF PUBLIC LAW [Vol. 1 
+ 
+ 
+ 11
+opposite transmission of delegation of power from the bottom to the top, which 
+he calls liberal.27 
+As regards the latter, he believes that it is expedient to distinguish 
+between two opposite trends: that of the renewal of the existing political class in 
+a particular moment through the total su bstitution by elements coming from 
+the classes which up until that moment  had been governed or, at least its 
+completion thanks to the contribution  of these elements which he defines 
+democratic; the second trend aims at the crystallisation of the social management 
+through the hereditary transmission of power and this he calls aristocratic. 
+As can be seen, while using terminology which is by and large 
+traditional, Mosca shuffles the cards completely creating a quadrille of concepts 
+that he needs as a starting block in or der to analyse the different political 
+systems that have historically been crea ted in function of the co-presence, or 
+not, of all these elements28. 
+Accordingly, the spectrum of these combinations will bring forth four 
+possible forms of government: 1) aristocratic-autocratic; 2) aristocratic-liberal; 3) 
+democratic-autocratic; 4) democratic-liberal 29. In Mosca’s opinion it is only 
+through the use of these new categories, which are able to identify the really 
+crucial points that act as a watershed, that the observer of political phenomena 
+is able to understand completely the ch aracteristics of the different regimes, of 
+their ability to organise themselves, of re al relationships that are established   
+between the subjects that hold the interest. 
+The judgement on a particular political  system, on its capacity for self 
+conservation and at the same time to ma ke itself accepted calmly by those who 
+are governed, in Mosca’s construction would not be complete if a further notion 
+that he develops were not considered: juridical defence. 
+By this expression, which is in fa ct rather cryptic, Mosca means the 
+complex of the “social mechanisms that regulate this discipline in the moral 
+                                                 
+27 Explaining that this name “seems so much more appropriate in that the use of believing that 
+those peoples are free prevails, where the governors should  be chosen by all or even by a part of those 
+governed and the law itself should be an enactment of the general will (idem, 1004). 
+28 “…bearing in mind that it is extremely difficul t to find a political regime in which it can be 
+claimed there is the absolute exclusion of one of the two principles, or of one of the two tendencies, it 
+seems certain that the strong predominance of autocracy or liberalism, of aristocratic or democratic 
+tendencies can provide an unfailing and crucial criteria to determine the type of political organisation of a 
+given people in a given period” (idem, 1005). 
+29 On the importance in Mosca’s work of th is combination of elements see N. Bobbio, 
+Introduzione, cit., XVII; G. Sola, Introduzione, cit.,. 68; A. Panebianco, Gaetano Mosca, studioso e 
+uomo politico, in Gaetano Mosca, Discorsi parlamentari, Il Mulino, Bologna, 2003, 17. 
+
+12 ITALIAN JOURNAL OF PUBLIC LAW [Vol. 1 
+ 
+ 
+ 12
+sense”30. As can be seen, a definition that has nothing juridical about it is of 
+little use to understand the real mean ing of the concept. By analysing the 
+chapter from Elememti di Scienza Politica  which is dedicated to this, it is 
+understood, however, that with this el ement Mosca intends to highlight the 
+importance for political systems to pu t a check on individual or collective 
+instincts which are able to threaten th e foundations. In or der to face these 
+dangers it is necessary that a moral sens e is developed and consolidated in the 
+associates of the group; we could sa y in contemporary language, that a public 
+ethic is consolidated which is able to pu t checks on deviant behaviour. So this 
+constitutes an essential parameter to judge the effectiveness or not of a form of 
+government. Without wishing to make any a priori judgement or judgement 
+based on an abstract conception of good and evil, right and wrong, he tends to 
+evaluate political systems on the basis of  their capacity to nourish mainly these 
+ethical antibodies aimed at avoiding the bullying of one social group over 
+others and thus, in the final analysis, ai med at pursuing a basic harmony in the 
+social body upon which the life of a state is founded.  
+To this end, the best guarantee agai nst destructive alterations of the 
+delicate balance on which public life rests is that the social groups that are the 
+bearers of legitimate interest, strong and worthy of protection, are the most 
+numerical possible, so as to create a be neficial dialectic between social forces 
+whose strength tends to correspond and thus leads to cancelling out the 
+elements which are potentially destructive.  It is perfectly obvious how in these 
+steps the teaching of the classics of lib eralism emerges forcefully in Mosca’s 
+thought and in particular Montesquieu’s th oughts, even if, yet again, he leads 
+the discussion from a strictly institutiona l level to one which is more concerned 
+with the concrete social dynamics that  lie under the grid of reciprocal 
+relationships between the constitutional organs 31. An obvious consequence 
+from all these considerations is his declared liking for those forms of mixed 
+government in which there is neither th e predominant presence of one type of 
+organisation nor the trend around the processes of formation of the political 
+class32, but rather that prove to be more capable of tempering principles and 
+                                                 
+30 See par. III, cap. V, Part 1, in Elementi di Scienza Politica, cit., 679. 
+31 See F. Mancuso, Gaetano Mosca e la tradizione del costituzionalismo , cit., 155. For a 
+historical and theoretical excursus o n  E u r o p e a n  l i b e r a l  c o n s t i t u t ionalism see E. Di Salvatore, 
+Appunti per uno studio sulla libertà nella  tradizione costituzionale europea , in Teoria del Diritto e dello 
+Stato, n. 1-2-3 of 2006, 85-147.  
+32 F o r  a  s u r v e y  o f  t h e  f e a t u r e s  o f  m i x e d  g o v e r n m e n t  i n  M o s c a ’ s  t h o u g h t ,  a n d  a  
+comparison with Montesquieu’s doctrine on the separation of powers, see N. Bobbio, Saggi sulla 
+scienza politica in Italia, cit., 210-219. 
+
+13 ITALIAN JOURNAL OF PUBLIC LAW [Vol. 1 
+ 
+ 
+ 13
+different tendencies33. Only mixed governments are able to temper liberty and 
+authority, continuity and renewal, stab ility of power but also the capacity to 
+adapt to the changing times without the ri sk of running into destructive crises 
+or dangerous revolutionary directions. 
+ 
+ 
+IV. Representative Democracy and Parliamentarianism 
+ 
+Can Gaetano Mosca be defined an anti-democratic author? Can his 
+works be laid alongside those of the classic reactionary thinker, first and 
+foremost Joseph De Maistre? Perhaps af ter a first superficial reading of some 
+passage or other, above all from the Theoretics of Government, the answer may be 
+quietly affirmative. A more thorough an alysis of his thoughts, however, cannot 
+but lead us to doubt the collocation of him within those categories and to 
+highlight also a considerable evolution in  his thought as regards subjects like 
+representative democracy and parliamentarianism 34, an evolution 
+demonstrated also by his taking a stand when called upon to carry out political-
+parliamentarian positions. 
+But what is democracy for Mosca and what are his opinions about this 
+political regime? Mosca dedicates many pages to democracy right from his very 
+first work. The analysis that he carries out in the Theoretics is extremely polemic 
+and ruthless. He sees in the democrat ic idea an illusion and an internal 
+contradiction. The illusion consists of  the belief and claim that with the 
+application of the democratic idea the people governs itself. The political 
+decisions, that is, are made by the people . The role of the political class loses its 
+distinctive features of or ganised minority holding the leadership of the political 
+s y s t e m  t a k i n g  o n  t h e  r o l e  o f  p u r e  i n t erpreter of the collective interest to be 
+translated into juridical measures. To all intents and purposes, the governors 
+and the governed would, for the first time in history, overlap, basically putting 
+nowhere the function that the traditionally political elites have played in other 
+regimes. The contradiction would be a logical consequence of this inaccurate 
+formulation: the mechanisms of p arliamentary representation and the 
+application of the majority principle can only lead to the practical negation of 
+                                                 
+33 See par. VII, cap. IV, Part 2 in Elementi di Scienza Politica, cit., 1041. 
+34 On the main elements that show Mosca’s thought process see G. Sola, Introduzione, 
+cit., 70 and following; S. Sicardi, Il regime parlamentare: Gaetano Mosca davanti ai costituzionalisti 
+del suo tempo, in Politica del diritto, n. 4/1998, 570-572, as well as F. Mancuso, Gaetano Mosca e la 
+tradizione del costituzionalismo, cit., 83 and following.  
+
+14 ITALIAN JOURNAL OF PUBLIC LAW [Vol. 1 
+ 
+ 
+ 14
+the utopian identity between popular will and the entitlement to make 
+decisions. The élites come powerfully into the game again in the concrete 
+institutional mechanisms through which consensus is aggregated and decisions 
+are made. 
+It is clear that his basic target is  essentially a particular vision of 
+democracy, that is the theories of “p ure democracy” or “radical democracy”, 
+void of mediation and co-mingling with other tendencies which, in the 
+perspective of a mixed government know  how to stem potential keeling. In 
+short, it is Rousseau’s conception of  democracy which, being founded on the 
+belief of an abstract and mythical (and so, in reality, non-existent) volonté 
+générale inevitably ends up turning into it s opposite, and that is into a non-
+egalitarian and illiberal regression, as wo uld demonstrate, in Mosca’s opinion, 
+the complex parable of the French Revolution35.  
+Nevertheless, his initial aversion tow ards democracy is so radical that it 
+ends up ruining not only that resolute vision that can be traced back to the 
+thinker from Geneva, but in general democratic systems that have been created, 
+                                                 
+35 On Rousseau’s role in the formulation of democratic theory, which Mosca considered 
+the foundation for the degeneration of the French  Revolution, he was fiercely criticised by his 
+friend Guglielmo Ferrero who, generally, accused him of highlighting excessively the 
+importance of the doctrine on the course of History and, more specifically, of magnifying 
+disproportionately Rousseau’s influence on th e French Revolution. On this point see F. 
+Mancuso, Gaetano Mosca e la tradizione del costituzionalismo , cit., 85, note 190. For a comparison 
+between Mosca and Ferrero on the question of the legitimation of power see A. Bardusco, 
+Legittimazione del potere e partiti politici nel pensiero di Gaetano Mosca and Guglielmo Ferrero , cit., 
+536-547. On the relationship of intellectual exchange and personal habit between the two 
+authors  see G. Ferrero – G. Mosca, Carteggio, Giuffrè, Milan, 1980. 
+This disliking, for these aspects, permits Mosca’s thoughts to be laid alongside the basic 
+canons that have characterised the works of di fferent exponents of the Austrian School, like 
+Ludwig von Mises and Friedrich A. von Hayek. To give an example, some of the most ferocious 
+pages against social constructivism written by  Hayek can be seen in F. A. von Hayek, The 
+Mistakes of Constructivism , in Id., New studies in Philosophy, Politic s, Economics and the History of 
+Ideas, Armando, 1988,. 11 and following, and a reconstruction of the criticisms raised by Mises 
+of the mathematical and econometric methods us ed often in the economic analysis of human 
+action in M. N. Rothbard, The fundamental contribution of Ludwig von Mises , in L. von Mises, 
+Libertà e proprietà, Rubbettino, Soveria Mannelli – Treviglio, 2007, 93 ff. The typical concepts on 
+which Rousseau’s theoretical ideas are based like the social contract, general will or the 
+representation of the nation could not find refuge in Mosca’s vision of things. The same can be 
+said  for the conception of human nature. On this point the contrast between the two authors 
+could not be more obvious: “[<the reader will have noticed that our way of thinking is contrary to that 
+of Rousseau, i.e. that man, is naturally good but that society makes him bad and perverse. We, however, 
+believe that social organisation having as a con sequence the reciprocal brake of human individuals, 
+improves them, not by destroying the evil instin cts but by making the individual master them ” (see 
+paragraph III, cap.V, Part 1, note h, of the Elementi di Scienza Politica , cit., 681). On the other 
+hand, from reading G. Mosca, Storia delle dottrine politiche, cit., 222-236 it can be seen how aware 
+Mosca was of the life and works of Rousseau and the importance that he attributed to it, albeit 
+holding a contrasting opinion in the history of Western political thought. 
+
+15 ITALIAN JOURNAL OF PUBLIC LAW [Vol. 1 
+ 
+ 
+ 15
+even if of different inspiration, and cons equently a large part of the institutions 
+that  animate life, beginning with Parliament. 
+He describes almost entirely negati vely the course of representative 
+democracy. The nucleus around which the parliamentary system rotates 
+consists of the close relationship be tween Cabinet and the elective chamber 36. 
+These two bodies have progressively erod ed the political role of the King and 
+the Upper Chamber.   
+I t  m u s t  b e  a c k n o w l e d g e d  t h a t  from the writings of this “ tenacious, 
+stubborn and incorrigible conservative ”37, even from those more heavily soaked 
+with youthful controversy, such as in the Theoretics of Governments , there is 
+never an inkling of nostalgia for an ep och in which the Monarch, vested with 
+authority by divine right, incarnated power on the basis of a principle which 
+was purely authoritarian. Mosca limits himself to take cognizance of the 
+irreversible sunset of that concept wh ich had already exhausted its historical 
+function of aggregation in the great Nation  States. The liberal states that kept 
+the monarchic form had undoubtedly some  reckoning to do, above all from the 
+point of view of logical coherence, with the new means of legitimation of the 
+figure of the sovereign. Formulas like “ by the grace of God and the will of the 
+Nation, King of Italy 38 were laden with obscurity and vagueness 39. Nevertheless, 
+Mosca himself recognises that this po tential aporia in the order does not 
+necessarily bring with it excessively ne gative consequences from the practical 
+point of view, precisely because the essence of power has passed to other 
+constitutional bodies and the King can at  the most carry out a role of what we 
+would call today moral suasion, played not so much on the use of powers that 
+the Charters still formally attribute to the Sovereign, rather than on the specific 
+qualities of the individual who sits on the throne40. 
+The new architrave in the political system is, thus, made up of the 
+binominal parliamentary majority – Government. Which dynamics determine 
+the centrality of the binomial and what are the features th at distinguish the 
+action? Here Mosca identifies a large part  of the criticality of the parliamentary 
+system. He reveals that normally the leader of the parliamentary majority is 
+                                                 
+36 See Teorica dei governi, cit., 373.  
+37 As defined by N. Bobbio, Introduzione, cit., XXV. 
+38 This formulation was contained in the la w on the headings of government acts 
+approved by Parliament in 1861. 
+39 “but this constant union of divine grace and popular will, that converge on one sole 
+individual, is a thing that in the times like these where faith is in short supply, it is hard to 
+believe and no-one knows how to understand” (See Teorica dei governi, cit., 368).  
+40 See Teorica dei governi, cit., 370.  
+
+16 ITALIAN JOURNAL OF PUBLIC LAW [Vol. 1 
+ 
+ 
+ 16
+called upon to hold the office of he ad of Government; the choice of the 
+ministers and the government’s program me depend on the internal balance 
+within the parliamentary majority; the designation of certain forces like the 
+parliamentary majority depends on the fr ee expression of the consensus by the 
+electorate. Accordingly, in the theoretical construction of representative 
+democracy, the source of legitimation of the power of the Executive depends on 
+the choice of the representatives determ ined by those represented. In Mosca’s 
+opinion this reconstruction smacks of  formalism and does not consider the 
+concrete reality of things. Faithful to his attitude whereby there is always an 
+exclusive organised élite determining th e will of the disorganised majority and 
+not the other way round, he contests  radically that political representation 
+really has those characteristics. The choice  of a member of parliament does not 
+depend at all on the free expression of an  electoral preference on the part of the 
+individual voter, but rather on the organisational capacity with which a 
+political force or an electoral committee are able to assert themselves on the 
+electoral market 41. It is pointless to be under the delusion as to the political 
+sovereignty of the voter: his freedom of choice is limited to a confined field 
+prepared by the organised minority who se lect the candidates not on the basis 
+of criteria attentive to the greatest representative capacity of the electorate, but 
+rather according to the guarantees that he  offers regarding the consolidation of 
+power at the head of the same mino rity that has put him forward as a 
+candidate. There is a famous, apparently paradoxical passage that expresses 
+perfectly Mosca’s thoughts on this point:  “Whoever has witnessed an election 
+knows full well that it is not the voters who elect the Members but the candidate who 
+gets himself elected by the elec torate: if this is not to our liking we could replace it with 
+the other one  which is that it is his frie nds who get him elected. In any case it is sure 
+that a candidature is always the work of a group of people joined together for a common 
+purpose, an organised minority which, as al ways, fatally and necessarily imposes itself 
+on the disorganised majority”42. Now, since the whole rising stage of the system is 
+founded on a utopian ideal that does no t take into consideration the decisive 
+role of some constant factors in the political classes in every political regime, the 
+goodness of the whole democratic struct ure can only prove to be invalidated 
+and suffer from irremediable defects. On one hand the Government will be 
+embroiled in an exhausting job of medi ation between the parliamentary forces 
+                                                 
+41 “Now the elements that in Italy ordinarily direct the elections and members of parliament can 
+be classified so: 1) prefects; 2) large isolated voters;  3) political and workers’ associations in all their 
+myriad subdivisions and varieties (see Teorica dei governi, cit., 479).   
+42 See Teorica dei governi, cit., 476. 
+
+17 ITALIAN JOURNAL OF PUBLIC LAW [Vol. 1 
+ 
+ 
+ 17
+that support it. The members of the Gove rnment in order to respond to these 
+strains and remain in power are obliged to succumb to “favouritism and arbitrary 
+acts”43, to the great advantage of the most influential social groups and to the 
+detriment of those who cannot count on the necessary support and protection. 
+He underlines that this crookedness does not depend on the degree of personal 
+morality of those that hold certain positi ons, such as Ministers, rather than the 
+way the political system is set up 44. On the other hand, if the Government, 
+managing wisely this symmetry, is able to  equip itself with a firm stability, it 
+inevitably manages to gather into its own hands a considerable amount of 
+power (defined in fact as “ indeterminate and monstrous accumulation of power ”45), 
+creating an imbalance which the system attempts to remedy with the possibility 
+for Parliament to induce the end of the Government’s life, maybe even with one 
+single majority vote: this is a measure that he deems much too drastic and 
+arbitrary 46.  
+It is interesting to note that thes e accusatory statements regarding the 
+parliamentary system were developed in  the 1880s when the evolution of the 
+form of government had not yet produced  either an acceptable stability of the 
+Cabinet, nor had there been the emergenc e of the institutional figure of the 
+Premier as undisputed leader of th e parliamentary majority for the whole 
+duration of the legislature. Elements whic h were already part of the heritage of 
+other more consolidated democracies lik e, for example, in Great Britain. 
+Besides, the political life in the first de cades of life  of the Italian State is 
+remembered for its continual periods of agitation and moments of instability 
+caused also by the basic absence of well-rooted and well-organised political 
+parties; their role was played by what goes down in history as the system of the 
+notables. If this is true for the years of su premacy of the historical Right, it is all 
+the more true for the balance that emer ged after the electoral victory of the 
+historical Left in 1876, with the estab lishment of the prac tice of shifting 
+parliamentary alliances to carry on workable policies (a practice named 
+trasformismo) as a tool to create parliamentary majorities, maybe hotchpotch and 
+                                                 
+43 See Teorica dei governi, cit., 378.  
+44 See Teorica dei governi, cit., 379.  
+45 See G. Mosca, Le Costituzioni moderne , Amenta, Palermo, 1887, now in Id., Ciò che la 
+storia potrebbe insegnare. Scritti di scienza politica, Giuffrè, Milan, 1958, 481. 
+46 S o  m u c h  s o  t h a t  M o s c a  c o m p a r e s  t h e  v o t e  o f  c o n f i d e n c e  a s  a  d e t e r r e n t  f o r  t h e  
+omnipotence of the Executive to the regicide of  the Sovereign: worse remedies than the evils 
+against which they are struggling. 
+
+18 ITALIAN JOURNAL OF PUBLIC LAW [Vol. 1 
+ 
+ 
+ 18
+heterogeneous47, able to ensure votes for the support of the government. But in 
+those years the same figure of the King had not totally lost all importance of a 
+political nature, something which ma ybe will never happen in the whole 
+duration of the Italian liberal State, and which is thus difficult to see as an entity 
+of solely symbolic value, totally estran ged from the internal games between the 
+Lower House and the Cabinet. 
+Nevertheless, it is at this point that we glimpse a detail in Mosca’s 
+thought and that is the fact that some fo rced interpretations in the analyses of 
+the conditions of the parliamentary sy stem that catalysed his interest in 
+particular, that is, in It aly, permit him to anti cipate some trends and 
+problematic areas of parliamentarianism which will subsequently be found in 
+the Twentieth century democracies, when the large parties of the masses play a 
+determining role: the predom inance of the Executive ov er legislature, but also 
+policies of favouritism and party-hegemony. 
+This consideration allows us to interpret Mosca’s antiparliamentarianism 
+and anti-democraticism from a more comple te and current point of view. It has 
+been written that it could be argued whit sound reasons that 
+“parliamentarianism, the ills of which are denounced by Mosca, was to the statutory 
+representative of the regime, as partitocracy was to the Constitution of the Republic ”48. 
+The comparison may seem audacious but probably catches effectively the need 
+to separate in the interpretation of Mo sca’s thinking the criticism of a false 
+idealisation of Parliament as a place wh ere the range of interests, aspirations 
+and legitimate requests coming from th e electorate are genuinely represented, 
+from a negation which was never substantiated for the necessity that a well-
+balanced political system must equip itself with a legislative assembly 49. 
+                                                 
+47 For an original reassessment of transformism as a practice on which Italian politics 
+has historically been based, and perhaps on whic h it continues to be based see G. Sabbatucci, Il 
+trasformismo come sistema, Laterza, Rome-Bari, 2003. 
+48 See L. Borsi, Classe politica e costituzionalismo. Mosca  Arcoleo  Maranini , Giuffrè, Milan, 
+2000, 45. 
+49 Far more modest and of poor efficacy comp ared to the pregnancy of the analysis is 
+what may be defined the pars construens of Mosca’s thought as rega rds parliamentarianism. In 
+some parts of his works he tries to identify some hypothetical remedies for the defects and 
+distortions of the parliamentary system. For exam ple, by predicting that ministers would come 
+from technocratic rather than political origin, or else claiming that “ the Senate should be chosen by 
+a class of officials independent of government nomi nation and popular election, and it should comprise 
+the most highly educated and independent components of the nation; this group should at the same time 
+be entrusted with all provincial administration an d play an important role in provincial bureaucracy ” 
+(See Teorica dei governi, cit., 493). As can be seen, they are rather vague proposals but above all, 
+they are outdated, as observed appr opriately by R. Salvo, in AA.VV., La dottrina della classe 
+politica ed i suoi sviluppi internazionali, cit., 346. On the pars construens of Mosca’s theories see also 
+F. Cammarano, Storia politica dell’Italia liberale. 1861-1901, Laterza, Rome-Bari, 1999, 421.        
+
+19 ITALIAN JOURNAL OF PUBLIC LAW [Vol. 1 
+ 
+ 
+ 19
+M o s c a ’ s  i d e a  s u m m o n s  u s  t o  r e f l e c t  o n  the delicacy of the idea of political 
+representation too often turned into a myth and thus distorted. Popular 
+participation in political life, even if wi th limited suffrage, is never fully aware 
+and free as the theoreticians of radic al democracy would like to make us 
+believe, but it always and inevitably collides with the supremacy of the interests 
+of the organised minority 50. In consequence, the representative mandate in 
+politics can never be assimilated to that disciplined by private law. In private 
+relationships, “the delegation of power and entitl ement always presupposes the widest 
+form of freedom in the mandate and in the choice of the mandatary. Now, indeed, this 
+freedom of choice, considered very broad in  theory, necessarily becomes almost non-
+existent and irrelevant in the practice of political elections”51.    
+If all these observations are considered  with due attention, it is perhaps 
+easier to face the subject of Mosca’s universally-renowned aversion towards the 
+principle of universal suffrage and tow ards any legislation which in statutory 
+Italy may be proposed to extend the right to vote 52, both to the less well-off 
+classes and to women53.    
+If, in Mosca’s view, the moment of el ections does not record the will of 
+the disorganised majority, but rather sa nctions the dominion of the organised 
+minorities, the renunciation of limited suffrage on the basis of census would 
+result in the concession of the particip ation to vote not so much to citizens 
+belonging to classes and social ranks which up until now were excluded from 
+determining national politics, maybe even  through electoral success of political 
+parties bringing new interests, aspirat ions and ideals, but rather to those 
+citizens who are lacking the necessary cultural or economic tools to make 
+conscious and discerning choices. Mo sca expresses his fear that in the 
+backward, farming Italy of the era, exte nding suffrage would only result in 
+                                                 
+50 For these remarks, see L. Gambino, Introduzione, in L. Gambino (edited by), Il realismo 
+politico di Gaetano Mosca. Critica del sistema parlamentare e teoria della classe politica , Giappichelli, 
+Turin, 2005, XVI. 
+51 See Mosca’s Elementi di Scienza Politica, cit., 712. 
+52 On the development of electoral legislat ion in statutory Italy see A. Colombo, 
+Zanardelli, La riforma elettorale e la  lunga marcia della democrazia italiana , in Il Politico, n. 4/1982, 
+649-659. 
+53 See the speeches made by Mosca to the Lower House on 7 and 14 May 1912 in the 
+discussion on the bill regardin g the “Reform of the political el ectoral law”, republished now in  
+Gaetano Mosca, studioso e uomo politico , cit., 89-102. The subject of the right to vote in Mosca’s 
+thought is dealt with, among others, in C. Pinelli, La questione del diritto di voto in Gaetano Mosca e 
+nei costituzionalisti italiani, in Materiali per una storia della cultura giuridica , n. 2/1998, 433-454, as 
+well as Id., “Un errore quasi necessario”. Il suffragio universale nel pensiero di Gaetano Mosca , in 
+Quad. cost., n. 1/2001, 155-166. On the question of women’s suffrage see, instead, M. T. Sillano,  
+in AA.VV., La dottrina della classe politica ed i suoi sviluppi internazionali, cit.,  503-516. 
+
+20 ITALIAN JOURNAL OF PUBLIC LAW [Vol. 1 
+ 
+ 
+ 20
+increasing the number of easily mani pulated, impressionable people. So, 
+paradoxically, the vote which is easily manoeuvrable by the organised élites 
+would end up crystallising even further the already existing relationships of 
+power and on the contrary would supply th e dominant political classes with a 
+further reason for legitimising their own power. If we concur that this worry is 
+genuine and not instrumental, Mosca’s proverbial dislike for universal suffrage 
+is not traced back to blindly conserva tive motivations regarding the privileges 
+of the dominating class in the liberal state, but rather to a reasoning of 
+systematic logic, in the sense that on ly preserving the principle of limited 
+suffrage, those defects, however rooted in the parliamentary system would not 
+unfurl the effects that would be even mo re devastating as regards the correct 
+management of the “public thing”. Any opening in that direction would have to 
+follow and not precede a social development, albeit slow and gradual, thanks to 
+which extensive levels of the population would be able to acquire the political 
+awareness necessary to thus avoid becoming  the tools for the interests of others 
+54.   
+It is necessary to give due attention to the fact that the juridical culture of 
+the time tended to match the argument of the vote as an innate right (we would 
+say today perhaps as a basic human right)  to universal suffrage and that of the 
+vote not as a right but as a pu blic function to limited suffrage55. Consistent with 
+his own arguments, Mosca sides with the second view, since it seems to him the 
+only way that respects the need for a free awareness of the expression of the 
+vote as the only way to execute the public function. 
+In truth, this subject of juridical na ture regarding the right to vote is 
+enlightening in order to see the differe nces that exist between a mature and 
+solid liberal state that is on the way to  becoming a modern liberal democracy, 
+                                                 
+54 In the pages dedicated specifically to the aversion towards conceding the right to vote 
+to women, he lets himself wander into almost “a nthropological” considerations on the fact that 
+women are naturally led to take care of other things rather than the affairs of the state and so 
+they are far more impressionable in their pros pective expressions of vote because they are 
+unable to evaluate their own critical opinion of political events. These are ideas that when read 
+today can only seem extremely irritating which, however, in the context of the time in which 
+they were written may be considered less as tonishing. On these topics see G. Mosca, Il suffragio 
+femminile in Italia , in Il corriere della Sera  of 18 March 1907, 3, as well as Id., Effetti pratici del 
+suffragio universale in Italia, in Il corriere della Sera  of 16 June 1911, 1. Follow the main features of 
+Mosca’s co-operation with the big daily  Milanese newspape r in A. Colombo, L’intellettuale 
+Mosca e la classe politica dalla tribuna del <<Corriere della Sera>> , in E. A. Albertoni (edited by), 
+Governo e governabilità nel sistema politico e giuridico di Gaetano Mosca, cit., 183-208.   
+55 A s  r e m i n d e d  b y  C .  P i n e l l i ,  La questione del diritto di voto in Gaetano Mosca e nei 
+costituzionalisti italiani, cit., 442. On the subject of the juridi cal nature of the right to vote see G. 
+Mosca, Il suffragio femminile in Italia, cit. 
+
+21 ITALIAN JOURNAL OF PUBLIC LAW [Vol. 1 
+ 
+ 
+ 21
+and a state that is perpetually pois ed between democratic openings and 
+conservative regression. While in Ital y the functionalist argument supplies a 
+theoretical basis for limited suffrage, in  the United Kingdo m John Stuart Mill 
+fights the argument of the public function of the vote precisely to encourage the 
+opening to suffrage 56, in the sense that to confer layers of the population with 
+this function, which had up to that moment been excluded, would have an 
+educative and inclusive effect, thus contributing to strengthening the 
+foundations of the State. For the Italian, on the contrary, the fear prevails that in 
+the long term this prospect would en d up undermining the strength of the 
+institutions. It was certainly a short-sigh ted attitude highlighted in remorseless 
+comparison, but perhaps contains great foresight if we think mutatis mutandis of 
+the significance that the conditioning of opinions and the manipulation of 
+political consensus by means of an unscrupulous use of the means of mass 
+communication has assumed in the current debate on the crisis of democracy; 
+the more effective the method, the less well-equipped culturally the subjects 
+that are submit to it. 
+ 
+ 
+V.  The Role of Political Parties in the Constitutional System  
+ 
+As is obvious in this mixture of anal yses and criticisms on parliamentary 
+democracy proposed by Mosca, there is no particular underlining of an element 
+that is to characterise a large part of political science in the second half of the 
+twentieth century: the role of the political parties57. 58  
+                                                 
+56 See C. Pinelli, La questione del diritto di voto in Gaetano Mosca e nei costituzionalisti 
+italiani, cit., 444.  
+57 On the subject see G. Sola, L’analisi dei partiti politici in Gaetano Mosca, G. Galli, Gaetano 
+Mosca ed il sistema dei partiti , L. Compagna, Il costituzionalismo senza partiti di Gaetano Mosca , 
+found in E. A. Albertoni (edited by), Governo e governabilità nel sistema politico e giuridico di 
+Gaetano Mosca , cit., respectively. 271-295,. 297-313, 315-330; as well as S. Sicardi, Il regime 
+parlamentare: Gaetano Mosca davanti ai costituzionalisti del suo tempo , cit., 569-570 e F. Mancuso, 
+Gaetano Mosca e la tradizione del costituzionalismo, cit.,. 227-254.  
+58 If the function of the parties in the democratic system is so underestimated, that of the 
+trade unions is viewed with great fear, not beca use he has an aversion in principle towards the 
+fact that the defence of the workers’ interests, in particular factory workers, would require the 
+establishment of associations with this sole ai m, but because he dreaded the transformation of 
+the trade unions into political elements able to transform the State from a “Constitutional” to  a 
+“unionised State”, as noted by A. Panebianco, Gaetano Mosca, studioso e uomo politico, cit., 18. On 
+this no less trivial idea of Mosca’s see G. Cavallari, Gaetano Mosca e il sindacalismo rivoluzionario , 
+in E. A. Albertoni (edited by), Governo e governabilità nel sistema politico e giuridico di Gaetano 
+Mosca, cit., 225 and following; M. Ortolani, Gaetano Mosca and an analysis of the trade union 
+
+22 ITALIAN JOURNAL OF PUBLIC LAW [Vol. 1 
+ 
+ 
+ 22
+Mosca does not go as far as to negate or fail to acknowledge their 
+function59, but there is no doubt that the partie s do not play a central role in his 
+reconstruction of the mechanisms that govern the democratic game. There are 
+numerous reasons for this undervaluation and they help to explain what would 
+seem to be an obvious contradiction to  the tendency towards the “Party State” 
+that some institutional realities, like the British one, had already highlighted 
+and contemporary authors of his were prepari ng to study, making it the central 
+point of their analyses60. 
+The first perhaps needs to be sought  in the peculiarity of the Italian 
+liberal State61. As has been said, the limitedness of suffrage, the basic ideological 
+homogeneity of all the post-unitary parlia mentarian managerial classes, not to 
+mention the evolutionary predisposition of the internal dynamics of the elected 
+Chamber, had certainly not encouraged stable formations to take root both from 
+the organisational and ideal points of  view;  on the co ntrary they had 
+contributed to encouraging the emergence of the role of a few notables, around 
+whose prestige the choices of the electo rate and the elected rotated. Mosca sets 
+about analysing parliamentary democracy from its foundations and its rules 
+which were tendentially valid in all the systems that had adopted it. Despite 
+this, there is no doubt that the peculiari ties of the Italian case were the most 
+important benchmarks for him and his speculations and it was perhaps 
+inevitable that these speculations sho wed the consequences of these intrinsic 
+characteristics in the political situation of statutory Italy, even if in this way his 
+thoughts end up suffering from some inaccuracies and inadequacies in the 
+diagnosis of those systems in which the role of the parties had already been 
+greatly consolidated62. 
+                                                                                                                                               
+phenomenon, in AA.VV., La dottrina della classe politica ed i suoi sviluppi internazionali, cit., 517- 522, 
+as well as G. Sola, Introduzione, cit., 72 and following. 
+59 As recalled by S. Sicardi, Il regime parlamentare: Gaetano Mosca davanti ai costituzionalisti 
+del suo tempo, cit., 569. 
+60 Suffice to think of Sociologia del partito politico  by Robert Michels in 1911. See D. 
+Fisichella, Robert Michels, il partito di massa e il problema della democrazia, in Dilemmi della modernità 
+nel pensiero sociale , Bologna, 1993, cit., 49-58 and F. J. Cook, Robert Michels's Political Parties in 
+Perspective, in The Journal of Politics, n. 3/1971, 773-796. 
+61 For an analysis of the historical contex t in which Mosca’s “anti-party” ideas mature 
+see, among others, M. Delle Piane, Liberalismo e parlamentarismo , Macri, Bari, 1946; E. Cuomo, 
+Critica e crisi del parlamentarismo , Giappichelli, Turin, 1996; F. Rossi, Saggio sul sistema politico 
+dell’Italia liberale, Rubbettino, Soveria Mannelli, 2001, as well as  F. Cammarano, Storia politica 
+dell’Italia liberale. 1861-1901, cit.  
+62 S. Sicardi, Il regime parlamentare: Gaetano Mosca davanti ai costituzionalisti del suo tempo , 
+cit., 569. 
+
+23 ITALIAN JOURNAL OF PUBLIC LAW [Vol. 1 
+ 
+ 
+ 23
+It is likely that there is somethin g more profound to explain Mosca’s 
+attitude towards the parties, something th at can be traced back yet again to an 
+underlying mistrust of those phenomen a that put themselves forward with 
+certain qualities but which, in his eyes , hide very different features. So, in 
+Mosca’s view parties are none other th an the modern representation of 
+medieval factions, whose constitutive reasons do not derive from a free 
+manifestation of associative spirit in orde r to seek and strive for the good of the 
+State, but from an instinct of reciprocal  confrontation, tools to make one élite 
+prevail over another in the fight for Po wer. Mosca will never see in the “party” 
+an element that is indispensible of political representation, above all in an era in 
+which the masses are facing democratic sharing in the management of the State. 
+In this regard it is symptomatic that in the Elementi di Scienza Politica  he deals 
+with political parties in the same chapter dedicated to the historical analysis of 
+the role of the Church and sects 63, as if the distortions of the associative 
+phenomenon were constant factors which in the course of history represent 
+themselves with partially different charac ters, but still risky for the interests of 
+the State. Because of their nature, exactly like the old factions of medieval times, 
+they cannot be but dominated by clique s committed to the pursuit of particular 
+interests, and as such always inclined to occupy the fundamental positions in 
+the life of the State for the prime inte rest of the perpetuation of his own 
+influence in the management of collect ive affairs. It is clear how such a 
+pessimistic vision as this can be linked so logically to Mosc a’s mistrust in the 
+formulation of ideologies. We have already seen how he overturns the 
+relationship between political formula and the representation of interests. 
+Normally one is led to believe that the division into parties depends, more or 
+less directly, on a different Weltanschaung of the relationship between State and 
+citizen, socio-economic relations, the st ructure and the ends of the State etc. 
+With Mosca, however, the disenchantme nt towards abstract and doctrinaire 
+constructions leads him to deem these as pects instrumental for the acquisition 
+and conservation of power on the part of the organised minorities. From this 
+standpoint it was inevitable that a radic al mistrust would set in, a mistrust in 
+the capacity of the parties to make th emselves the champions of the common 
+good and so represent a fundamental junction in a decent constitutional system.  
+                                                 
+63 Chapter 7, Part 1, degli Elementi di Scienza Politica, cit., 738-776, entitled Chiese, partiti e 
+sètte. 
+
+24 ITALIAN JOURNAL OF PUBLIC LAW [Vol. 1 
+ 
+ 
+ 24
+Is this “constitutionalism without parties” 64 a distinguishing trait and 
+unavoidable by any liberal constitutionalism? Of course not, and this can be 
+seen even more clearly yet again in the comparison between Mosca’s view and 
+those of some stalwarts of British consti tutionalism. Some of these had, on the 
+other hand, been instrumental in his in tellectual development, such as Burke, 
+Hume and Tocqueville. In the liberalis m of these authors the political party 
+assumes the character and the function of a modern tool to gain consensus, 
+indispensible for the workings of cons titutional systems in virtue of the 
+elements of patchiness that it shows as  regards the old factions. It also  
+substitutes the role that the Church u s e d  t o  h a v e  i n  o t h e r  e r a s  i n  t h e  
+management of public life. Mosca does not challenge the fact that in other forms 
+of government, like in Britain or America, the parties may take on these 
+functions, despite the intrinsic defects th at even in these contexts could  be 
+e x p e c t e d  t o  b e  f o u n d  d u e  t o  t h e  n a t u r e  o f  p a r t i e s ,  b u t  s i n c e  h e  c l a i m s  t h a t  a  
+form of government is not exportable  because of the particular historical 
+implications that have contributed to es tablishing it, so he also believes that 
+parties cannot take on the same role in those realities where the tendency 
+towards cliques and factionalism is more pronounced, as in, for example, Italy.  
+Perhaps this position of Mosca’s on the impossibility of the entrenchment 
+of a unitary spirit can be repeated reg arding what was said before on universal 
+suffrage. His vision of things is so disenchanted as to prevent him from 
+grasping fully the spirit of the times th at loomed ahead. The invasion, so feared 
+by him, of the masses in the political ba ttlefield could not but take place if not 
+through the tool of the party, the only  element able organise and channel the 
+drive and aspirations, even those which were potentially subversive within the 
+system, as, indeed, a skilled and far- seeing statesman like Giolitti had 
+understood.  If the liberal State wanted  to safeguard its structures and its 
+deepest aspirations, from a certain moment on, more or less coinciding with the 
+turn of the 19th and 20th centuries, it wo uld have to reckon with the new actors 
+that were arriving on the Italian and inte rnational political stage: the popular 
+masses and their parties of reference. Mosca  even this time tends to see first of 
+all the degeneration of the processes rather than the reasons for their 
+establishment, to highlight the dangers without pausing to consider the needs. 
+And, however, yet again, this position leads him to anticipate some criticisms of 
+                                                 
+64 Discussed by L. Compagna, Il costituzionalismo senza partiti di Gaetano Mosca, cit. 
+
+25 ITALIAN JOURNAL OF PUBLIC LAW [Vol. 1 
+ 
+ 
+ 25
+the distortions of the “Party State” that influence a not insignificant part of the 
+Italian doctrine in the second half of the 20th century65.                  
+ 
+ 
+VI.  Evolutionary Directions in Mosca’s Thought  
+ 
+All these aspects in Mosca’s thought concerning parliamentary 
+democracy and political parties are at th e root of his theoretical development. 
+His disliking for ideological abstraction s, the deceit inherent in radical 
+democracy ( in primis  the principle of universal suffrage), the defects of 
+parliamentarianism and the fear of subv ersive and destabilising impulses in 
+favour of one power group and the subs equent imbalance of the institutions 
+that aim to preserve the juridical defence , will always be the guidelines for his 
+way of being realistic and diffident. 
+Nevertheless, an analysis of Mosca’s thought would be incomplete if it 
+did not properly reveal the development that this thinking was subjected to 
+over the decades and what Mosca achieved (when his own parable of scholar 
+and politician was drawing to an end) both as regards a greater capacity of 
+being topical in his interpretation of phenomena, and as regards the curbing of 
+the juvenile vis polemica, to the advantage of the effectiveness of the evaluation of 
+the controversial aspects that characterise  any political system. This is true 
+above all as regards his reflecti ons on the parliamentary system 66. While 
+unwavering in his perplexity regardin g the lack of relationship between 
+theoretical formulations and the conc rete fulfilment of this system of 
+government, the more mature Mosca, in particular the one of the second edition 
+of Elementi di Scienza Politica  (1923), perceives and underlines its strong points 
+and the functional elements which up un til that moment he had left in the 
+shade. In this phase he acknowledges  that only a syst em founded on the 
+principles of parliamentary democracy is  able, in the modern era, to generate 
+                                                 
+65 T h e  r e f e r e n c e  i s  o b v i o u s l y  p r i m ar i l y  t o  G i u s e p p e  M ar an i n i ,  t o  w h o m  w e  ow e  t e rm 
+“partitocracy” along with his criticisms of the party system in post-war Italy.  A comprehensive 
+intellectual profile is laid out by L. Borsi, Classe politica e costituzionalismo. Mosca  Arcoleo  
+Maranini, cit., 347-487. 
+66 The need to assess fully the importance  of Mosca’s development of thought as 
+inescapable in order to make a correct reproduction and interpretation is underlined by G. 
+Bedeschi, Storia del pensiero liberale , Laterza, Rome-Bari, 1999, pp. 303 and following. He speaks 
+of a reassessment, in softer terms, of the criticisms against parliamentarianism T. E. Frosini, 
+L’antiparlamentarismo e suoi interpreti, in a speech held at the “Day of Rights and Constitutional 
+History”, on 4 July 2008, at the University of Teramo, now published in 
+www.associazionedeicostituzionalisti.it, 6 October 2008,. 6-7. 
+
+26 ITALIAN JOURNAL OF PUBLIC LAW [Vol. 1 
+ 
+ 
+ 26
+the antibodies and counterweights capabl e of preserving precisely those values 
+that he concealed in the expression juridical defence,  otherwise at the mercy of 
+more anachronistic and tribal forms in  the struggle for power. Basically, he 
+understands that the only form of “mix ed government” that is realistically 
+feasible is indeed that so contemptible democracy 67, of course not of the Jacobin 
+and radical kind, but a liberal democracy able through the tool of parliamentary 
+discussion at the institutional level and the free game of interests at the socio-
+political level to settle the multifari ous conflicts that inevitably agitate 
+contemporary societies, which are ever  increasingly complex and fragmented 68. 
+Mosca recognises how a system founded on a theory which in many ways is 
+erroneous can in any case produce resu lts the advantages of which outweigh 
+the disadvantages. That is, a system in which the opportunities are preferable to 
+the criticisms no matter how obvious. He acknowledges the superiority of 
+democracy as regards the formation and turn over of the political class, with the 
+subsequent reduction of the risk of an entrenchment of power on the part of one 
+sole political force, an expression of the same social interests. And he admits the 
+advantages also as regards the contro lling of power, both by means of the 
+tendential respect of its division, and through the freedom of expression of 
+thought first and foremost as regards those that govern69. 
+As Luigi Einaudi wrote: “ Forty years of observation and experience of the 
+defects of human nature have persuaded the auth or that perfection is not attainable in 
+the subject of politics and that the repre sentative government perhaps offers the 
+continuation which is feasibly better in a system of counterweights and compromise, so 
+that supreme power is not free to act in its place, but there are many powers each one of 
+which controls and limits the others and the be tter it controls and limits them, the more 
+the different powers will represent different an d opposing factions of the political 
+class”70. Thus, it can be observed that th e same realism that had animated 
+Mosca’s most critical pages on the theo retical structure of democracy and the 
+role of parliament, will later on permit the author to see the concrete 
+advantages tied to that form of government and, with clear intellectual honesty, 
+to highlight them even at the cost of partially contradicting some previous 
+statements of his own.        
+                                                 
+67 See N. Bobbio, Introduzione, cit.,. XXVII 
+68 See G. Mosca, Le Costituzioni moderne, 482-483. 
+69 See G. Sola, Introduzione, 70-71. 
+70 See L. Einaudi, Parlamenti e classe politica , in Cronache economiche e politiche di un 
+trentennio, Einaudi, Turin, 1965, 266.            
+
+27 ITALIAN JOURNAL OF PUBLIC LAW [Vol. 1 
+ 
+ 
+ 27
+So, in the final part of his inte llectual and political journey he 
+acknowledges that while the basically deceitful nature of the democratic 
+formula holds true, the “practical effects” 71 of mature democracies regarding 
+juridical defence cannot be ignored and despised, above all the comparisons 
+with the negations of freedom and the pernicious centralisation of power by 
+regimes founded exclusively on the authoritarian principle72. 
+The greatest demonstration of this ev olution can be seen in the famous 
+speech given to the Senate on 19th December 1925 73 against the bill desired by 
+Mussolini regarding the strengthenin g of the powers of the Head of 
+Government, one of the most significant blows from the symbolic and concrete 
+points of view struck by Fascism that led to the destruction of the liberal-
+democratic State. Well, Mosca’s speech immediately seems to be a sort of 
+political testament of that form of state 74, a testimony given (and it does not 
+seem paradoxical) by he who had no t skimped with his quite ferocious 
+criticisms of that system, but who, in the face of the barbarianism of 
+dictatorship, takes up the cause of a dying democracy and a constitutional 
+order which are about to be substituted by  a political regime that will destroy 
+all aspirations for a sharing of power, a mixed government and the balance of 
+the socio-political trends, the pursuit of which Mosca had dedicated his long 
+lifetime’s work of academic. Here are some particularly important passages75: “I 
+have already hinted that this time I am speaking with a certain amount of emotion, since 
+we are witnessing, let’s be frank, the funera l rites of a form of government; I would 
+never have believed that I would be the on ly one to give a funeral oration of the 
+parliamentary regime […]I who have always be en severely critical of the parliamentary 
+government must now almost mourn for its fall. […] To judge a form of government 
+there is but one possible system and that is to compare it to the form of government that 
+precedes or follows it. It would be premature today to make use of the second form of 
+                                                 
+71 This eloquent expression used by F. Mancuso, Gaetano Mosca e la tradizione del 
+costituzionalismo, cit., 86. 
+72 See Elementi di Scienza Politica , cit., 1105 and following, where Mosca reviews the 
+features of possible alternative regimes to the parliamentary democracy (proletarian 
+dictatorship, bureaucratic absolutism and trade unionism), that is the substitution in the 
+structure of the legislative assemblies of individual  representation with that of class, explaining 
+the reasons why they would be far worse than the system they were substituting. 
+73 For a profile of Mosca the parliamentarian and politician  see E. A. Albertoni, Gaetano 
+Mosca. Storia di una dottrina politica , cit., 107-206, as well as A. Panebianco, Gaetano Mosca, 
+studioso e uomo politico, cit., pp. 18-28 and the subsequent note, 29-30.  
+74 A. Panebianco, cit., 28. 
+75 The speech is published in its entirety in G. Mosca, Discorsi parlamentari, cit., 359-363 
+and in C. Ocone and N. Urbinati (edited by), La libertà e i suoi limiti. Antologia del pensiero liberale 
+da Filangeri a Bobbio, Laterza, Rome-Bari, 2006,. 48-53. 
+
+28 ITALIAN JOURNAL OF PUBLIC LAW [Vol. 1 
+ 
+ 
+ 28
+comparison, but as regards the first, the forms of government immediately preceding the 
+parliamentary regime were such that frankly it must be said that this system was better 
+than those […] But let us think of the journey that was made between 1848 and 1914, 
+the eve of war and we see a little of what was Italy in 1948 and what it was in 1914 and 
+so we should recognise the enormous progress made by the country in that period. It 
+will be said that it is not only the form of  government but also other circumstances that 
+contributed to this progress mentioned. Yes, bu t a form of government  is meritorious,  
+when it does not hinder the development and progress of a nation, th is is enough to be 
+able to affirm that the moment has not yet come for its radical transformation.. […] 
+These are the good wishes that the old generation  give to the new, but at the same time 
+we aged have the duty to warn and not to approve those changes that we deem 
+inopportune. On my part, if they approved them I would vote against my conscience, 
+against my inner convictions, and so I am ob liged to vote against the proposals that are 
+brought before us”.   
+ 
+ 
+VII.  Mosca and the Other Elitists  
+ 
+In the light of this analysis of th e organisation of power in Gaetano 
+Mosca’s thought, an attempt can be made to express an opinion on the 
+importance that this author has had in th e political-juridical culture of the time, 
+and not exclusively in Italy.  
+First of all, in order to comprehend the cultural context in which Mosca’s 
+theories were born, it is necessary to understand his relationships with the other 
+scholars and in particular with those have been described as the classic elitists76. 
+This definition comes from the fact that they all analyzed, from similar point of 
+views, the correlation between society and political power. Those conceptual 
+bases will represent a challenge for th ose who wanted to engage the same 
+subject, even just to confute those theories from a scientific point of view.  
+It is also essential to understand why such important studies arose at the 
+turn of the 19th and 20th centuries. As  seen before, there have been other 
+scholars, forerunners of the classic élitiste s, who faced the social analysis giving 
+grand relevance to the managerial classes, but it was only later that this attitude 
+will gain a descriptive strength, able to interpret the dynamics of the power 
+through the individuation of “constant laws ” irrespective of the specific quality 
+                                                 
+76 G. Sola, La teoria delle élites , cit., 65 and following uses this expression to qualify 
+Mosca, Pareto, Michels and Weber as the founders of this research trend.     
+
+29 ITALIAN JOURNAL OF PUBLIC LAW [Vol. 1 
+ 
+ 
+ 29
+of the contexts involved 77. The cultural context, pushed by the incredible 
+strength of the scientific positivism78,  was for sure the key factor which allowed 
+this acceleration. Analyzing the classic e litists’ works their will to build theories 
+with an intrinsic value is undoubtedly detectable, theories able to resist 
+experimental tests and to describe phen omena as evaluative as possible. All 
+that, in the human sciences realm, which for its own nature can neither be as 
+objective as the “exact” Sciences, nor as verifiable as knowledge based on 
+reproducible experimentation. Nevertheless, the idea more or less declared, was 
+indeed to supply a systematic and rational contribution based on the 
+explanation of how the relationships of power represent, somehow,  the 
+formation and organization of the States79.       
+ In this field we can without doubt assert that the first and more relevant 
+term of comparison with Mosca’s theory is Vilfredo Pareto’s work.  
+Foremost, we should confirm that th e personal relationships between 
+these two scholars were not good at all, as they blame each other for unfair 
+competition. As a matter of fact, duri ng the opening relation (which was Il 
+principio aristocratico ed il democratico nel passato e nell’avvenire)  of the academic 
+year 1902-1903 at the University of Turin, Mo sca claimed that in Pareto’s work 
+Systèmes socialistes the author didn’t recognize Mosca the primogeniture of the 
+political class theory 80. Pareto on the other hand, affirmed many times, as for 
+example in the edition of 1906 of his well-know work Manuale di economia 
+politica con un’introduzione alla scienza sociale, that Mosca’s theory wasn’t actually 
+                                                 
+77 According to G. Sola, Mosca had  “ the ambition not only to formulate a general theory 
+about the distribution of the power in the society, but also to found a new political  science able to explain 
+how the States arises, consolidate, develop and die” (see G. Sola, La teoria delle élites, cit. 65). 
+78 Mosca’s positivism consisted in his declared  awareness that social sciences, in order 
+to achieve real and useful results, should have made treasure of the methodological rigour used 
+by the natural sciences since they have already demonstrated to be able to achieve excellent 
+results in the comprehension of natural phenomena, even thanks to their scientific precision. As 
+Norberto Bobbio explains “When we talk about positivism in the social sciences, we never distinguish 
+enough between the more rigorous methodology used by the social sciences  – which has already 
+demonstrated to be fertile – and the a-critical extension of th eories formulated only to explain 
+phenomena belonging to the natural world to the society, as social Darwinism did. Mosca was a positivist 
+in the former sense, not in the latter.” (cit. N. Bobbio, Introduzione, XI).  
+79 Mosca’s methodological rigour consisted in  his opinion that only a deep knowledge 
+of the historical subjects (ancient, modern and contemporary histor y plus the political 
+disciplines) allowed the political studies to become science in the fullest sense of the term, that 
+is a theory which face the facts from which it draws confirmations, confutations, or 
+modifications. See cit. by D. Fisichella, in Gaetano Mosca epistemologo, in Dilemmi della modernità 
+nel pensiero sociale,  28. 
+80 See G. Sola, Gaetano Mosca. Profilo biografico , in AA.VV., La dottrina della classe politica 
+ed i suoi sviluppi internazionali, cit., 29. 
+
+30 ITALIAN JOURNAL OF PUBLIC LAW [Vol. 1 
+ 
+ 
+ 30
+unique in the scenery of the elites studies81. The diatribe carried on   many years 
+after that; nevertheless what is actually significant is to ask ourselves whether 
+that was just a personal disputation or it veiled something else, something more 
+intellectually relevant. According both to  those who deeply studied this fact 
+and to those who outlined a scientifi c comparison between Mosca and Pareto, 
+the quarrel hid their different attitude, on  a doctrinaire level, towards the élite 
+theory82. We already saw how Mosca’s theories  arose from historical-political 
+analysis which weld themselves with asse ssments on the juridical-institutional 
+level. And it was in this context that he placed the élitari an phenomenon. On 
+the contrary, Pareto underlined the import ance of the sociological elements and 
+in particular the function of the social utilit y. And it’s indeed starting from this 
+point that he built up and described the élite role in the social and political 
+realm. However, a part from contrasts and different attitudes, we’re clearly 
+investigating two scholars whose contribu tions highlighted the reasons and the 
+mechanism why the organized minorities are actually the ones who impose the 
+way the social and the political power must work.  
+We can spot the same historical funct ion in Robert Michels’, with whom 
+Mosca had instead a relationship based on mutual respect and esteem 83. 
+Michels published the original edition of his main work Sociologia del partito 
+politico, only in 1911 (it will be translated in Italian in 1912) that is when Mosca 
+is already considered a reliable autho r. Moreover, Michels acknowledged that 
+                                                 
+81 See D. Fiorot, Potere, governo e governabilità in Mosca e Pareto, in E. A. Albertoni (edited 
+by), Governo e governabilità nel sistema politico e giuridico di Gaetano Mosca, cit., 89-90. 
+82 D. Fiorot, op. cit. , 92: “ If we want to compare these two theories about the minorities 
+organization, we should confirm what has been sa id elsewhere. These are two different theories, even 
+though they share the same object. Mosca’s theory bases itself essentially on both juridical-constitutional 
+and historical-political considerations; on the contrary , Pareto’s theory founds on an original sociological 
+context, not concerning Mosca’s cultural interests; tw o different attitudes which lead one to look at the 
+same things from different viewpoints. Because of their touchy way to behave they could not or better 
+didn’t want to face arguments that could be interesti ng for both of them, but also for the development of 
+the studies. ” According to E. A. Albertoni, Il pensiero politico di Gaetano Mosca , Cisalpino-
+Goliardica, Milan, 1973, 156-157, an evaluation as a whole of their works highlights the 
+differences: Mosca’s interests about the political and constitutional world led him to formulate a 
+politological theory of the political class. On the contrary, in Pareto the philosophical and 
+economics interests prevail and drive him to re flect about the danger coming from the middle 
+class’s decline to the advantage of  o t h e r  s o c i a l  a c t o r s .  N .  B o b b i o ,  Saggi sulla scienza politica in 
+Italia, cit., 276: “ […] Mosca and Pareto’s approach were totally  different: the former made the political 
+class the centre of his analysis; the latter was more a ttracted by the elected classes, including each person 
+that in his/her field had achieved the top. Mosca’s interest about the political class concerned more the 
+reason of its power and the way to exert it while Paret o wanted to identify the necessary qualities to be 
+part of it (the theory of “residues”) and the causes that bring to its development and decline (the theory of 
+the circulation of Elites)”. 
+83 As observed by E. A. Albertoni , Il pensiero politico di Gaetano Mosca, cit., 153. 
+
+31 ITALIAN JOURNAL OF PUBLIC LAW [Vol. 1 
+ 
+ 
+ 31
+the Sicilian Maestro was the founder of th e doctrine Michels himself was giving 
+a precious contribution to. And further more, a part from the good personal 
+relation they had (they actually had the chance to meet each other quite often in 
+the cultural cafés in Turin) there is another and more important reason which 
+explains why Mosca had a completely different relationship with Michels 
+compared with the one he had with Pareto. Michels made the political party the 
+centre of his interests. Through what he called legge ferrea dell’oligarchia 84, 
+Michels showed how oligarchies, in orde r to enhance their own organization 
+and maintain the power inside the party, tend to turn the leadership into an 
+oligarchy which found in itself its own refe rences. This idea is to be considered 
+particularly important in the scenario of the theory of the elites since starting 
+from the German social-democratic feat ures, Michels laid the foundations to 
+interpret the political parties intern al dynamics, which will have great 
+importance in the second half of 20 th century. Nevertheless, as we have already 
+seen, Mosca’s analysis of the role of the political parties in the democratic 
+systems is not that relevant, therefore there was no risk of overlapping or 
+concurrency between their ideas. Suffic e to think that Mosca himself reviewed 
+Michels’ work of 1912, granting with pleasure his ideas.  
+As we have seen, Mosca’s relations with Pareto and Michels are easy to 
+reconstruct while his relationship with  Weber is subjected to historical 
+disputations and the hypothesis that ha ve been suggested are very complicated 
+to verify85. What we know for sure is that th ey could never meet each other but 
+since 1909 Weber had the chance to read Mosca’s Elementi and thanks to 
+Michels we also know that among Ita lian politologists Mosca was the one 
+Weber studied and indeed respected. Nevertheless, it is difficult to outline 
+mutual influences in their works, since they didn’t explicitly quote each other86 
+and plus Mosca didn’t know the German language so that it seems possible that 
+Mosca had a few notions about Weber’s work just thanks to his friendship with 
+Michels. In this scenario, it is clear that  it is only possible to verify whether in 
+Weber’s works there is any echo of Mosca’s theories. This operation is not that 
+simple since, as we have already said, not only are there no express quotations, 
+but it is also difficult to verify the na ture of the notions we can find in Weber’s 
+                                                 
+84 See G. Sola, La teoria delle élites, cit., 95-101.     
+85 According to G. Eisermann, Nuovi elementi sulle relazioni tra Mosca, Pareto e Max Weber, 
+cit., Weber was influenced by Mosca’s works while S. Segre, in Mosca e Weber: rapporti 
+intellettuali ed analisi compar ata delle sociologie politiche , cit., affirms that there is no biographical 
+information able to support this argument.   
+86As S. Segre himself affirms,  op. cit., 105-106.   
+
+32 ITALIAN JOURNAL OF PUBLIC LAW [Vol. 1 
+ 
+ 
+ 32
+works and which are certainly drawn by Mosca’s theories. As a matter of fact 
+they could either be the result of a spec ific intellectual influence (as for ex. the 
+notion of organized minority)  87  or more in general, the elaboration of notions 
+that were already part of the cultural  context in which Weber worked. In 
+addition, we should forget that Weber was interested in discovering how the 
+social and political power legitimize itself more then in how the authority exerts 
+this power. The relationship between gove rned and governors, which is a main 
+aspect also in Weber’s theories, is st udied looking how these two fundamental 
+social actors legitimize their power relati onship: a very different prospective, as 
+it is clear, compared to Mosca’s one.  
+ 
+ 
+VIII.  Mosca and the Most Important Italian Jurists of his Time  
+ 
+In order to deeply understand how Mo sca gained such an important role 
+in the foundation of the Political Sc iences we should also consider his 
+relationship with the Italian jurists of  his time.  
+In particular it is interesting to see th e relationship that is outlined with 
+the most neighbouring juridical disci pline that is constitutional law 88. This 
+proximity is so close that in one of his first works Studi ausiliari del diritto 
+costituzionale (1886)89 political science tends to overlap with constitutional law, 
+the latter being attributed the functions  t h a t  s h o u l d  b e  a t t r i b u t e d  t o  t h e  
+former90. Subsequently, however, the different realms will take on greater 
+clarity, as does the conviction that the two subjects must interact in order to 
+explain political phenomena in a comprehe nsive way. Because it is true that 
+these two worlds are observed from two very different points of view 91, but 
+here “difference” means, to a great extent complementariness and reciprocal 
+enhancement. Indeed, it can be said th at the young Mosca, inspired by sound 
+juridical studies, dedicates himself to th e study of political processes seen from 
+the angle of social relationships, since he detects a certain insufficiency in the 
+institutionalism and juridical formalism th at were prevalent at  the turn of the 
+                                                 
+87 Called by Weber as superiorità del piccolo numero  (see M. Weber, Wirstschaft und 
+Gesellschaft, 1922, It. transl. Economia e società, Ed. di Comunità, Milan, 1974, vol. II, 257). 
+88 On this subject see G. Negri, Gaetano Mosca e il diritto costituzionale , in St. Parl. Pol. 
+Cost., 1991, n. 92-93, 5-11.  
+89 Now published in G. Mosca, Ciò che la Storia potrebbe insegnare. Scritti di scienza politica, 
+cit., 1958.  
+90 As observed by N. Bobbio, Introduzione,. IX. 
+91 See N. Bobbio, Saggi sulla scienza politica in Italia, cit., 8.  
+
+33 ITALIAN JOURNAL OF PUBLIC LAW [Vol. 1 
+ 
+ 
+ 33
+19th and 20th centuries in the Italian doctrine, above all due to the 
+authoritativeness of V. E. Orlando and Santi Romano. 
+As we have already seen, Mosca and V. E. Orlando were very good 
+friends; a relationship that it is not just due to their Palermitan common origins: 
+in fact it is possible to trace this frie ndship back since the second elementary 
+school days 92. As far as Santi Romano, Orlando’s pupil, is concerned, their 
+relationship was based on mutual esteem . Yet, Mosca’s personal relations with 
+the two most important jurists of his ti me, balanced, since the beginning, their 
+different approach to the analysis of the problems concerning the State93.       
+Since Mosca graduated in Law, his formation was juridical. He dedicated 
+himself to the unitarian State analysis  and his scientific studies logically 
+addressed the Constitutional Law. At the time the Italian constitutionalists 
+faced a schism: those who considered that this discipline should embed to mere 
+juridical canons, suggesting a technical-formal way of studying the structures of 
+the State versus those who suggested a historical-political approach 94, focused 
+on the relationship between the law and the social conditions which creates it 
+and assure its efficiency 95. Mosca noticeably supported the latter of these 
+positions, while Orlando in the same  years was laying the basis of the 
+methodological formalism, which led him to gain quickly the role of Master of 
+public law  disciplines 96. Since then, an irretrieva ble distance was created: 
+                                                 
+92 According to G. Sola, Gaetano Mosca. Profilo biografico , in AA.VV., La dottrina della 
+classe politica ed i suoi sviluppi internazionali , cit., 18, we could say that between Mosca and 
+Orlandi there was a “peculiar symmetry of life, scholastic before and intellectual, political and spiritual 
+then”.  
+93 As observed by M. Fioravanti, Gaetano Mosca e Vittorio Emanuele Orlando: due itinerari 
+paralleli (1881-1897), in AA.VV., La dottrina della classe politica ed i suoi sviluppi internazionali , cit., 
+350, analyzing Mosca and Orlando’s works, on a scientific level “it is possible to affirm that it 
+existed a state of mutual incomprehens ion or maybe even a latent conflict”. This opinion is shared by 
+E. A. Albertoni, Gaetano Mosca. Storia di una dottrina politica. Formazione e interpretazione , cit., 66. 
+On the same topic see also the articulate opinions of F. Mancuso, Gaetano Mosca e la tradizione del 
+costituzionalismo, cit., pp. 129 and following. 
+94 As shown by S. Sicardi, La scienza costituzionalistica italiana nella seconda metà del XIX 
+secolo, in Diritto e società, n. 4/1999,. 648-654.  
+95 Mosca himself tent to consider these di fferences as an abstract and theoretical 
+elaboration more then as an approach which could be taught in Constitutional Law. As 
+affirmed by M. Galizia, Diritto costituzionale (profili storici), in Enc. Dir., 973 and by S. Sicardi, La 
+scienza costituzionalistica italiana nella seconda metà del XIX secolo, cit., 655-656, Mosca thought that 
+basis of the Constitutional Law were commun in all the different approaches.  
+96 For a résumé of Orlando’s speech about the “juridical method” see M. Galizia, Profili 
+storico-comparativi della scienza del diritto costituzionale , Società tip. modenese, Modena, 1963, pp. 
+84-89. The same considerations about the great distance between Mosca and Orlando’s theories 
+can be done about Santi Romano’s institutionalist theory of the juridical rules which is more 
+careful in considering the importance of the social conflict but it is still close to the idea of the 
+State-person as the subject of sovereignty, as in Orlando’s hypothesis. This aspect is highlighted 
+
+34 ITALIAN JOURNAL OF PUBLIC LAW [Vol. 1 
+ 
+ 
+ 34
+Mosca stressed always more his detach ment from a discipline he didn’t 
+consider as independent. Accordingly to him, the Constitutional Law to 
+accomplish its task should open up to  social dynamics analysis, which held 
+power relationships, as the basis of the institutions. This approach led him to 
+found a brand new discipline, which was closer to political phenomena: the 
+Political Science, indeed97. This position shouldn’t be considered as his reaction 
+to Orlando’s approach but rather an attempt to explore new paths which allow 
+for study of the structures of the St ate and the basis of the power from a 
+different point of view compared to the mere technical-juridical one. That’s why 
+Mosca can’t be considered as a constitu tionalist in the strict meaning of the 
+term, even though in his scientific prod uction we can appreciate many precious 
+works in this field98. Mosca is, if anything, a scholar with a sound juridical base 
+(besides then historical) who exploited this knowledge to launch a brand new 
+scientific trend. Accordingly, trying  to homologate him with the juridical 
+science tout court would just reduce his role as the founder of an independent 
+discipline: political science. So, the fact th at he taught Public and Constitutional 
+Law for many years shouldn’t be misu nderstood: it was just a natural and 
+inevitable opening since the object of th e analysis is the same: the State and the 
+power. We should also remember that it  was only in that period, thanks to 
+Mosca’s works indeed, that Political Science was winning an independent 
+scientific dignity. 
+                                                                                                                                               
+by C. Magnani, Stato e rappresentanza politica nel pensiero giuridico di Orlando e Romano , in 
+Materiali per uno studio della cultura giuridica , n. 2/2000, 349-386. More in general, to see a 
+synthesis of S. Romano’s contribution to the Ita lian Public Law and his thought of the crisis of 
+the Liberal State see A. Romano, Santi Romano, la giuspubblicistica italiana: temi e tendenze , in 
+Diritto e società , n. 1/2004, 7-36 e R. Ruffilli, Santi Romano e la “crisi dello Stato” agli inizi dell’età 
+contemporanea, in Riv. Trim. Dir. Pubbl., n. 1/1977, 311-325.  
+97 According to M. Fioravanti, op. cit.,. 352-353, the conflict between “ Mosca and Orlando 
+could be drawn through the following general te rms: Gaetano Mosca’s realism of the <<political 
+science>> versus Orlando’s formalism of the  <<juridical method>>. From this point of view  –which is 
+the more interesting for us –the history of the relat ionship between these two scholars becomes a piece of 
+the Italian history. And in particular, their theoretical  path from the beginning of the ’80 until the end of 
+the century, could be described as on one side the progressive acquisition of a mere juridical prospective 
+and therefore “formalistic” and the study of the structures of the political power  – as much as Orlando is 
+concerned -, and on the other side Mosca’s brave attempt to cut loose by the scientia juris logics , so 
+much as to increase to a “realistic” prospective of investigation: from the public law science to the 
+political science”. 
+98 As Appunti di diritto costituzionale , Le Costituzioni moderne  or Questioni di diritto 
+costituzionale, collected today in G. Mosca, Ciò che la Storia potrebbe insegnare. Scritti di scienza 
+politica, cit., texts (specifically the first one) whic h, according to P. Biscaretti di Ruffia, Gaetano 
+Mosca docente di diritto costituzionale , in E. A. Albertoni (edited by), Governo e governabilità nel 
+sistema politico e giuridico di Gaetano Mosca , cit., 130-131, is to be recommended “ because of its 
+clarity, fluency and its ability to face in a few pages very complex problems”. 
+
+35 ITALIAN JOURNAL OF PUBLIC LAW [Vol. 1 
+ 
+ 
+ 35
+Moreover, Orlando and Romano themselves recognized this distinction 
+between political science and juridical science: consequently we can say they 
+agreed about the distinction between Mosca and the other jurists. Romano, 
+while commemorating Mosca as an eminent scholar in 1942, at the Italian Royal 
+Academy, declared that Orlando and Mosca had “ cultivated not the same science 
+with different approaches but two differen t sciences which while being strictly 
+correlated, deeply different from one another” 99, thus rejecting the chance to identify 
+a Sicilian school (Arcoleo, Scaduto, Majorana, and Romano himself would be 
+hypothetically part of this school). As a matter of fact, even though they came 
+from the same region, their approaches were totally different100.  
+For decades, this divergence, that was at the border with a sort of 
+scientific incommunicability, played an important role in the development of 
+these two disciplines, restricting their potentialities101. 
+Nevertheless, we have to remember that some great masters of Italian 
+constitutional law from the subsequent generation to that of the two prominent 
+figures in the first part of the century,  the 1930s and 40s (Mortati and Esposito, 
+but also, among others, Crisafulli, Pierandrei, Chiarelli and Giannini), began to 
+reassess the importance of the pre-juridical factor, dwelling “ on the importance of 
+the political powers, on one hand, and the principles of value brought forward by these 
+forces on the other ” 102 . Moreover, the most obvious demonstration of this 
+necessary permeation will only reveal it self with one of the most important 
+contributions offered by the Italian juridi cal culture to the international debate 
+on the nature of constitutional regulations: the Theory of the material 
+Constitution by Costantino Mortati 103. The tribute that this work owes to the 
+work of the founder of Italian political science is obvious from its approach and 
+in its own interpretation of the Constitu tion, and it can be usefully summarised 
+in this quotation from Mortati himself: “ […] the jurist cannot consider the 
+examination regarding the unwritten consti tution irrelevant to his own task, 
+considering not only the function that he carries out, as regards sources and guarantees, 
+which we have already seen, but also because of the fact that this selfsame constitution 
+provides the necessary elemen ts to interpret and integr ate the system of laws 
+systematically, both to identify the form of the State and establish together the limits 
+within which it is possible to make modi fications to the constitution, without the 
+                                                 
+99 Quotation drawn from G. Negri, Gaetano Mosca e il diritto costituzionale, cit., 9-10. 
+100 As underlined by M. Fioravanti, op. cit., 349-350.  
+101 As claimed by N. Bobbio, Saggi sulla scienza politica in Italia, cit., 257. 
+102 As claimed recently remembering the figu re of Leopoldo Elia by F. Lanchester, Il 
+legato di Leopoldo Elia, in federalismi.it, n. 19/2008, 2.  
+103 See G. Negri, Gaetano Mosca e il diritto costituzionale, cit., 7.   
+
+36 ITALIAN JOURNAL OF PUBLIC LAW [Vol. 1 
+ 
+ 
+ 36
+essential structure being altered. Fulfilling this  task, the jurist is not a sociologist 
+because he does not search for the factors that have determined the source of the strength 
+and ideologies that lie at the basis of th e State, nor does he pass judgement on the 
+selfsame; but rather, returning to the characteristics necessary in order to confer legality 
+to behaviour and social relationships, enucle ates from the facts that emerged from the 
+observation of the effective unfurling of the relationships themselves in a given order, 
+those that are to be considered part of the real constitution ” 104.   
+ 
+ 
+IX.  Mosca as a Liberal Thinker  
+ 
+Mosca’s elitism was born within liberal thinking. There are various 
+confirmations in his work of the crucia l influence that the great classics of 
+liberalism played on his development. The socio-political themes that are to be 
+the subjects of his studies and purpose th at the State in his opinion should be 
+called upon to pursue, show how his cu ltural perspective has always been 
+liberalism, moderate in its methods and co nservative as regards the defence of 
+certain values that he considered essential for proper social organisation 105. His 
+conviction that only healthy capitalism of the bourgeois kind founded on the 
+work ethic, on free competition and on the tendential abstention of the State 106, 
+could guarantee a balanced economic development able in due time to extend a 
+dignified level of wellbeing also to the less well-off classes. His disliking for all 
+hasty changes both from the point of view of economic and institutional 
+structure. The necessary divisions of  individual levels, both social and state, for 
+which the state structures should ope rate with the necess ary detachment as 
+regards the particular interests of individuals or groups, and thus the law 
+should preserve those characteristics of generalisation and abstract nature 
+which, until the early years in which he was writing had begun to be threatened 
+                                                 
+104 See C. Mortati, Costituzione, in Enc. Dir. , 1962; now also in C. Mortati, “una e 
+indivisibile”, Giuffrè, Milan, 2007, 128.  
+105 On the particular features of Mosca’s conservatism see the sharp comments, in many 
+ways against the mainstream literature that would like to reduce Mosca to the role of a 
+custodian of the constituted order and in defence of determined privileges see P. Pastori, Aspetti 
+del conservatorismo politico di Gaetano Mosca, in E. A. Albertoni (edited by), Governo e governabilità 
+nel sistema politico e giuridico di Gaetano Mosca , cit., 365-377, according to whom  ”the targets of his 
+criticism are […] the utilitarianism of the most aggressive bo urgeois classes, that introduce unbridgeable 
+and unjust inequalities, and revolutionary radicalism,  an inexhausted source of collectivist illusion, for 
+which along with the unjust differences in the possession  of wealth, also eliminat e the capacity to fight 
+against the natural shortage of material goods and political tyranny” (See 366-367). 
+106 Even if he never in ideologically liberal positions, acknowledging the need for State 
+intervention when the situations request it. 
+
+37 ITALIAN JOURNAL OF PUBLIC LAW [Vol. 1 
+ 
+ 
+ 37
+by the multifarious requests to which th e legislator was subjected. As well as 
+the necessary separation of Church and St ate, the cornerstone of a laity that 
+allows for anyone to profess freely hi s own belief without undue mingling with 
+the State structures. And ag ain his defence for legality as a necessary condition 
+to strive for the common good, contrasting all those attempts to crush and 
+substitute it107.   
+All these principles along with other traditional formulations of liberal 
+thought that he makes his own are prac tical, in Mosca’s view, in order to 
+pursue the objective of defending individu al freedom in the scenario of a social 
+unity that preserves order and maintain s a balance between the powers at be, 
+whose interests are always potentially co nflictual and so harbingers of danger 
+for the stability of the institutions.  
+If this is Mosca’s cultural horizon, where does his position differ or, at 
+least, where do his theories lead in the long and composite train of liberal 
+thought to which he belongs? 
+It could be said that his works are born from a deep feeling of 
+dissatisfaction. In order to reach those objectives, to build that kind of society, 
+to preserve that kind of State from risks, the classical recipes of liberal 
+constitutionalism are not enough, which he claims are not sufficient because 
+they are so awash with excessive formalism and optimism. Locke and 
+Montsequieu, who place an excessive trust in the salvific virtues of the division 
+of powers, are not enough for him; Tocq ueville, who describes the virtues of a 
+democracy like that in American, which is  too conditioned by its own specific 
+history to be an exportable and valid mo del elsewhere, is not enough for him, 
+and in the same way Burke and Hume, whose institutional analyses are too tied 
+to the peculiarities of British history are not enough for him. 
+So, Mosca tries to impose an interpretation of the political phenomena 
+that goes beyond juridical-institutional formalism and the particularities tied to 
+the different traditions of different people s. In some ways he tries to change the 
+observation point searching for the constant factors that characterise the 
+formation of power, its conduction and it s real possession. That is why before 
+                                                 
+107 In this regard a lecture on the “mafia” given at a conference held at the beginning of 
+the twentieth century in Turin and Milan and published in Giornale degli economisti  can be 
+considered important even today Recently the te xt from the conference was published again in 
+G. Mosca, Che cosa è la mafia , Laterza, Rome-Bari, 2002, accompanied by an introductory essay 
+by G. C. Caselli and A. Ingroia, Mafia di ieri, mafia di oggi: ovvero cambia, ma si ripete… , V-XLII. On 
+the same subject see also V. Frosini, Mafia e politica nel pensiero di Gaetano Mosca , in E. A. 
+Albertoni (edited by), Governo e governabilità nel sistema politico e giuridico di Gaetano Mosca , cit., 
+333 ff. 
+
+38 ITALIAN JOURNAL OF PUBLIC LAW [Vol. 1 
+ 
+ 
+ 38
+reasoning around the mechanisms thanks to which the limitation of power is 
+possible, the great cornerstone of liberal constitutionalism, he reminds us of the 
+need to consider that power is always  managed by an organised minority, no 
+matter what political regime it may be, including those regimes like democracy 
+that propose to create a system of government in which this constant evidence 
+ceases to exist.  
+Mosca’s real characteristic does not lie in any way in his being a 
+champion of a narrow-minded,                conservative, if not reactionary, 
+thinking all aimed at supplying a theory  upon which to found the conservation 
+of the economic and political power in the hands of the political class which 
+held it at the time, as is claimed by some theoreticians of democracy of the 
+twentieth century 108. If his statements are kept at face value and are not 
+examined in more depth separating the vehemence of his contentious reasoning 
+from the incessant search for the real reasons which, to his mind, lie underneath 
+the workings of power, it is impossible to  capture that original contribution to 
+the analysis of political phenomena that he brings to the attention of scholars of 
+this subject. 
+It is possible to summarise this cont ribution with his continual reminder 
+of the need for the scholar to investig ate into the concrete  mechanisms that 
+characterise the relationships of power, to a constant search for the effective 
+balances and counterbalances above and beyond all formalism and all 
+appearances. 
+Moreover, the fact that Mosca’s thoughts cannot be classified simply as 
+an insignificant defence of a time which was irretrievably lost can be seen by 
+the great influence that he in turn has had on many political thinkers who, in 
+the twentieth century, had great influenc e themselves.  The tribute that authors 
+such as J. Schumpeter 109, J. Ortega y Gasset 110,  R. Aronand 111 R. Dahrendorf 112 
+owe  to the theoretical and methodologic al position of Mosca is obvious from 
+                                                 
+108 L i k e  R .  D a h l ,  La democrazia e i suoi critici , Editori Riuniti, Rome, 1990, or A. O. 
+Hirschman, Retoriche dell’intransigenza. Perversità, futilità, messa a repentaglio , Il Mulino, Bologna, 
+1991, according for whom Mosca is the champion of the tesi of the “futility” of democracy 
+because he claims, in this author’s opinion, that every attempt to change society would be in 
+vain. 
+109 See M. Stoppino, Democrazia e classe politica, in Studi in onore di Carlo Emilio Ferri , vol. 
+I, Giuffrè, Milan, 1973, 560; G. Sola, La teoria delle élites, cit.,. 142-147. 
+110 See M. Maldonado-Denis, Ortega y Gasset and the Theory of the Masses , in The Western 
+Political Quarterly, n. 3/1961, 676-690.   
+111 See G. Sola, La teoria delle élites, cit., 168-171.  
+112 See A. Lombardo, Sociologia e scienza politica in Gaetano Mosca, cit., 297-302; G. Sola, La 
+teoria delle élites, cit., 172-174.  
+
+39 ITALIAN JOURNAL OF PUBLIC LAW [Vol. 1 
+ 
+ 
+ 39
+the interpretation of their works. But to  limit ourselves to Italian culture, the 
+link between some purely and typically  Moschian ideas is very strong and 
+some certainly non-conservative currents th at are to play an important part in 
+the democratic rebirth of the country and the compilation of the Constitution113. 
+From this point of view it  is interesting to observe how an intellectual who 
+sided with progressive and optimistic  liberalism like Gobetti, despite his 
+different opinions, praises Mosca’s inclin ation towards realism in his political 
+analysis114, an indispensible tool to avoid fall ing into the trap of the irrelevancy 
+of pure abstraction and to enter effectiv ely into the quick of the socio-political 
+systems with the ai m to transform them 115. In the same way also other authors 
+traceable to the current of the liberal Left like Gaetano Salvemini, Ernesto 
+Rossi116, Guido Dorso or Filippo Burzio have often acknowledged the 
+possibility of interpreting the theory of the élites from the democratic 
+viewpoint, above all because it had the advantage of supplying the theoretical 
+structure thanks to which a new political class could be identified (compared, of 
+course, to the one that had imposed the authoritarian state, but also compared 
+to the one that had not known how to o ppose it effectively), that made its 
+“moral superiority” the guide with whic h to bring the nation to recover the 
+dignity that had been  lost with Fascism 117.Mosca’s positions have always made 
+a great impact on other exponents of  the multifarious galaxy of liberal 
+intellectuals in post-war Italy.  The ec ho of Mosca’s criticisms can be heard 
+clearly in the pages against the degene ration of the party system written by 
+Giuseppe Maranini and Panfilo Gentile 118. And a philosopher, in many ways in 
+                                                 
+113 As underlined by N. Bobbio, La teoria della classe politica negli scrittori democratici in 
+Italia, in AA.VV., Le élites politiche, cit., 54-58. 
+114 See G. Lombardi, Costituzione e diritto costituzionale nel pensiero di Piero Gobetti , in Dir. 
+soc., n. 2/1984, 198. 
+115 See P. Gobetti, La Rivoluzione Liberale. Saggi sulla lotta politica in Italia , Einaudi, Turin, 
+1995 (as is known the first edition dates back to 1924). 
+116 See A. Giordano, Elites, Mercato e democrazia: la teoria politica di Panfilo Gentile , in 
+Quaderni di Scienza Politica, Terza serie, I – n. 3, dicembre 2007, 424. 
+117 See E. Ripepe, Gli elitisti italiani. Gobetti, Burzio, Dorso , II vol., Pacini, Pisa, 1974; G. 
+Sola, Introduzione, cit., 58-59; F. Invernici, Mosca e il socialismo liberale , in E. A. Albertoni (edited 
+by), Governo e governabilità nel sistema politico e giuridico di Gaetano Mosca, cit., 249-268, even if this 
+search for moral superiority is to be the main re ason for the élitism of the Party of Action, his 
+main weak point, which is shortly to be the cause of it’s disappearance, despite the fundamental 
+role played by the Resistance and in the history of Nazi-Fascism. 
+118 See P. Gentile, L’idea liberale, Rubbettino, Soveri a Mannelli, 2002 (the first edition 
+dates back to 1955 and was published by Garzanti), not to mention Id., Democrazie mafiose, Ponte 
+alle Grazie, Milan, 2005 (first edition 1969), including a remarkable essay about this author by 
+Sergio Romano. Panfilo Gentile’s political thinking is pieced together by A. Giordano, Elites, 
+Mercato e democrazia: la teoria politica di Panfilo Gentile, cit., 419-451. 
+
+40 ITALIAN JOURNAL OF PUBLIC LAW [Vol. 1 
+ 
+ 
+ 40
+the antipodes ideologically speaking compared to Mosca, like Antonio Gramsci, 
+while criticising him harshly, cannot, however, avoid calculating the conceptual 
+and methodological tools of his adversary , recognising his importance more or 
+less explicitly119. 
+The most interesting comparison in th e Italian arena is certainly the one 
+with Luigi Einaudi. Einaudi agrees with Mosca on the importance of the role of 
+the political class and on the need to overcome the myth of the majority. He 
+provides, however, an interpretation in  the liberal-democratic meaning of the 
+theory of the élites, in the sense that  for this great Italian economist the 
+legitimation of a modern political class cannot come from any other channel of 
+legitimation if not through popular vo te. Popular sovereignty certainly is a 
+myth, but it is just as sure that it is  a necessary myth. What counts to prevent 
+this myth from being revealed as the harbinger of danger and culminating in 
+the destruction of liberty is that it is supported and balanced by counterweights 
+and social ties 120. So, it can be said that Einaudi’s opinions are the natural 
+adaptation of Mosca’s élitism to the conditions and epoch-making events of the 
+second half of the twentieth century, a development in the liberal-democratic 
+sense, better able to reconcile some basic elements of the elitist theory with the 
+evolution towards the participation of the masses in the life of democratic 
+states. 
+But Mosca’s same anti-democraticism takes on more defined contours if 
+it is compared with Carl Schmitt’s. We find ourselves faced with two 
+conceptions that seem to be based on th e same kind of criticism of democracy 
+but which, in fact, correspond to very  different if not opposing logic and 
+objectives. 
+Schmitt’s real contention is not democracy but liberalism, of which 
+liberal democracy is just the legitimate child. His real enemy is liberalism 
+because this doctrine, through the tools of  representative democracy, intends to 
+anaesthetize politics, directing the conf licts between the confines of dialectics 
+and not confrontation121. In order to regain the essenc e of politics it is necessary 
+to substitute liberal democracy with forms of identitarian democracy, in which 
+                                                 
+119 As observed by M. A. Finocchiaro, Gramsci, Mosca, e la Massoneria, in Teoria politica, n. 
+2/1993, 135-161, who also highlights the similar opinions that the two authors had on a perhaps 
+marginal, but no less important, question:  the aversion for the law on the massonic 
+associationism wanted by Fascism at the beginning of 1925. 
+120 See A. Giordano, Il mito della sovranità popolare. Luigi Einaudi, la democrazia e la teoria 
+della classe politica, in Materiali per una storia della cultura giuridica, n. 1/2004, 139-141. 
+121 See D. Fisichella, Carl Schmitt: Politica e liberalis mo tra amicizia e inimicizia , in Dilemmi 
+della modernità nel pensiero sociale, cit., 59-72. 
+
+41 ITALIAN JOURNAL OF PUBLIC LAW [Vol. 1 
+ 
+ 
+ 41
+there is a sort of identification of the pe ople in the figure of the decision-maker, 
+precisely because the function of the State is to preserve the political unity of 
+the people 122. As is obvious this perspective echoes some aspects of integral 
+democracy of the Rousseau kind and of other philosophical currents of various 
+natures, but all associated with a statist and organicist idea of power 123. It 
+clearly contrasts at bottom with Mosca’s po sition. Indeed, it could be said that 
+Schmitt attacks liberalism exactly on the terrain that induces Mosca to extol it, 
+that is, for the capacity to build rules and balances that are able to 
+institutionalise conflicts124.   
+ 
+ 
+X.  Final Remarks 
+ 
+On the basis of this assessment it  would seem that Gaetano Mosca’s 
+theory that the political class is intrin sically a conservative doctrine can be 
+excluded. The fact that it was formulated  by an intellectual whose ideals were 
+awash with strongly conservative notion s, in the meaning and limits outlined 
+here, need not hamper an evaluation of the results of his studies which are 
+certainly full of light and shade, in the most objective way possible. As a beacon 
+of Italian progressive culture in the se cond half of the twentieth century like 
+Norberto Bobbio has done,  indeed, even quite recently he wrote: “ It is an 
+illusion that the spreading of direct democracy, made possible by the improvement in the 
+various forms of long distan ce communication, reduces the po wer of the political class, 
+                                                 
+122 See G. Azzariti, Critica della democrazia identitaria, Laterza, Rome-Bari, 2005, 22-24 e L. 
+Albanese, Schmitt, Laterza, Rome-Bari, 1996, 5, According to whom “ The organic community, 
+according to Schmitt, is the nucleus of the <<real >> democracy, which should not be mistaken for that 
+hybrid represented by liberal democracy ,whose main ch aracteristic is parliamentarianism The democracy 
+of Gemeinschaft and the clear distinction between liberalism are the pieces de résistence in Schmitt’s 
+political thought, and explain his success not only on the Right but also on the Left”. 
+123 As claimed by L. Albanese, in Schmitt’s thought the concept of Gemeinschaft is 
+central and completely absorbs the individual. “ This notion originates from different sources: 
+Rousseau, the corporative tradition of the Stande [classes, states in the sense of  <<third state>>], 
+present both in Hegel and in the Ca tholic thinking of the Restoration,  and finally some not unimportant 
+tendencies of the <<conservative revolution>> that is of  the political culture and movements of the Right 
+which in post-war Germany elaborate an ideology which radically opposes Marxism, but which is, in 
+many ways, similar” (See L. Albanese, Schmitt,  cit., 4). 
+124 A l s o  b y  v i r t u e  o f  t h e s e  c o n s i d e r a t i o n s  t hose attempts that were made by a certain 
+pubblicist in the Fascist era to liken Mosca’s do ctrine with the ideological structure of the 
+authoritarian state, seem totally outdated no wadays, as did, for example, R. De Mattei, La 
+dottrina della classe politica e il fascismo, in Educazione fascista , n. 8/1931, 675-686. Just as the 
+opinions of those who defined the theory of the political class the reactionary concept par 
+excellence” appear irremediably outdated and isolated, in the light of the most recent research on 
+his work like P. Biondi, Potere e classe politica, in Studi politici, n. 1/1952, 13. 
+
+42 ITALIAN JOURNAL OF PUBLIC LAW [Vol. 1 
+ 
+ 
+ 42
+or even eliminates it. Direct democracy increases the power of the indi vidual citizens to 
+take decisions that concern him, but it wi ll always be a group of professionals from 
+politics who will have the prime task of articulating the proposals”125. 
+Of course, even in Mosca’s work, like that of any social science scholar, 
+there are some gaps, weak points and as pects which have been surpassed with 
+the passing of time.  
+Among the most obvious shortcomings that have emerged from our 
+analysis perhaps two stand out most conspicuously. 
+From the methodological point of vi ew he is inspired by an excessive 
+faith in the applicative power of politic al science. Basically, he claimed that 
+politology founded on analytical criteria which was scientifically valid would in 
+the future be the decisive tool available to statesmen and polit icians in general, 
+to guide their choices and prevent them from making the mistakes that History 
+has often highlighted. Indeed, this was a glaring mistake bo th because of the 
+overestimation of the possibility to foun d a humanistic science that held the 
+criteria of an “exact” science,  and as regards the educational point of view for 
+those who are called upon to exerci se politics in a concrete way as 
+unfortunately the whole history of the twen tieth century takes it upon itself to 
+prove. A contradictory optimism in the power of discipline, to the point of 
+transgressing into an inapt determinis m: a misinterpretation that would be 
+understandably unexpected from a realist of such pessimistic nature as Mosca. 
+From the point of view of content, there is no doubt that the biggest 
+shortcoming in his theoretical producti on lies in the sin Mosca commits in 
+underestimating the subject of political representation. That is, he does not 
+perceive the basic importance of the citi zen’s impression that he is represented 
+in a modern, advanced society, such as those that had been founded on more 
+dynamic socio-economic systems were already heading for at the end of the XIX 
+century.    
+Mosca puts a utopia into crisis at ex actly the right moment, the utopia of 
+parliamentary representation, often fo unded on misleading mechanisms, we 
+could even say on a sham, the one inna te in the electoral mandate. And, 
+nevertheless he does not realise that beyo nd the authenticity of the collection of 
+electoral consensus, the division into political parties, the exploitation with 
+which the political class tries to remain  i n  p o w e r  i n s t e a d  o f  t h i n k i n g  o f  t h e  
+common good, political representation offers the citizen the “feeling” that he is 
+part of a process that leads to political decision-making. There is the feeling of 
+                                                 
+125 See N. Bobbio, Saggi sulla scienza politica in Italia, cit., IX. 
+
+43 ITALIAN JOURNAL OF PUBLIC LAW [Vol. 1 
+ 
+ 
+ 43
+belonging, perhaps even mistaken or  overestimated, that disregards the 
+authenticity of the relationship of repr esentation. The inclusive value of this 
+feeling is far more relevant than the undoubted defects that democracy founded 
+on universal suffrage suffers from, and in deed, precisely when this perception 
+of being part pro quota of the political decision-mak ing dies, when the division 
+between governors and governed is too pronounced, far worse problems 
+emerge than those generated by typical de fects of democratic representation as 
+regards the internal balances in the po litical classes and the mechanisms of 
+conservation of the juridical defence. 
+And despite this, Gaetano Mosca still has something to say to us 126. His 
+disenchanted, realistic and relativist views of Democracy can be used as a 
+useful antidote against any populist re gression, a recurrent temptation for 
+many political classes. 
+Suffice to think of the changing of the political class. An impartial look at 
+the Italian reality leads necessarily to the idea that the Parliament is going 
+trough an evident decline. This situatio n is made worst by the recent electoral 
+law which was created with the purpose of  giving the leaders of the political 
+parties the power to decide about th e changing of the Members of the 
+Parliament. In this way the quality of th e Parliament is humiliated as well as its 
+authority weakened. This state of emergenc y seems so obvious that it is fair to 
+ask ourselves whether our Chambers are still representative Assemblies or have 
+they turned into easily manageable ratification centers of decisions taken 
+somewhere else. The doubt is legitimate si nce the only activities our Parliament 
+seems to be engaged in are the conver sions of decree-laws, in voting the 
+confidence to the Government and giving  proxy laws almost always demanded 
+by the government itself. Can a democrat ic system do without a representative 
+and weighty Parliament? A great democracy like France acknowledged a deficit 
+of its Parliament’s role and made an attempt, through a constitutional reform 
+(maybe incomplete) to find a countermeasure. This should persuade us to start 
+a reform path which could give back reliability to our Representative 
+Assemblies. It would worth it also in or der to avoid that governed people loose 
+what is left of the their feeling that they are part of a process through which 
+political decisions are taken.  
+                                                 
+126 According to P. Serra, Diritto costituzionale e scienza politica , in Dem. Dir., n. 1/1999, 
+252 “Indeed, only today does Gaetano Mosca’s work be come fully comprehensible to us, and enlightens 
+decisive features in our difficult and extremely complicated present”. 
+
+44 ITALIAN JOURNAL OF PUBLIC LAW [Vol. 1 
+ 
+ 
+ 44
+There is no doubt that our difficultie s in finding the right mechanism of 
+selection of the political classes are ev en more evident if we think about the 
+capability of other forms of government to  transfer from their managing classes 
+to the political class people able to suggest ideas, enthusiasm and 
+representativeness as just happened in the last U.S. election.  
+ 
+ 
+ 
