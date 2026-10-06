@@ -1,0 +1,85 @@
+Practical 5
+Static arrays and strings
+Introduction to Programming
+Yevhen Pozdniakov
+Task
+1. Download code to Practical #5.
+2. Investigate code samples from it - they will be useful for your home task.
+Write C program that creates and initializes an integer 
+array of size N with random numbers, where the size N is 
+provided by the user (or can be constant value )
+  // Ask the user for the size of the array 
+   printf("Enter the size of the array: "); 
+   scanf("%d", &N); 
+   // Declare an array of size N 
+   int arr[N]; 
+   // Initialize the array with some random values in range 0-4 
+   for (int i = 0; i < N; i++) { 
+       arr[i] = rand() % 5;  // Initializing the array 
+   } 
+   // Print the array 
+   printf("Array elements are:\n"); 
+   for (int i = 0; i < N; i++) { 
+       printf("%d ", arr[i]); 
+   } 
+   printf("\n");  // New line after printing the array 
+Write C program that creates and initializes an integer 2-D 
+array of size NxN, where the size N is provided by the user 
+(or can be constant value)
+
+   printf("Enter the size of the 2D array (NxN): "); 
+   scanf("%d", &N); 
+   // Declare a 2D array of size N x N 
+   int arr[N][N]; 
+   for (int i = 0; i < N; i++) { 
+       for (int j = 0; j < N; j++) { 
+           arr[i][j] = i + j;  // Initializing the array 
+       } 
+   } 
+   printf("2D Array elements are:\n"); 
+   for (int i = 0; i < N; i++) { 
+       for (int j = 0; j < N; j++) { 
+           printf("%d ", arr[i][j]); 
+       } 
+       printf("\n");  // Move to the next row after printing each row 
+   } 
+Practical task #1 - fix program that finds the most popular 
+symbol in the entered string
+
+   const int max_str_len = 1000; 
+   char str[max_str_len]; 
+   printf("Enter a string: "); 
+   scanf("%s", str); 
+   getchar(); 
+   const int  number_of_ascii_symbols = 128; 
+   // Array to store the frequency of each character 
+   int frequency[number_of_ascii_symbols]; 
+   // Calculate the frequency of each character 
+   for (int i = 0; str[i] != '\0'; i++) { 
+       frequency[(unsigned char)str[i]]++; 
+   } 
+   int max_freq = 0; 
+   char most_popular; 
+   for (int i = 0; i < number_of_ascii_symbols; i++) { 
+       if (frequency[i] > max_freq) { // Find the most popular character 
+           max_freq = frequency[i]; 
+           most_popular = i; 
+       } 
+   } 
+You need to find and fix 1 small 
+mistake in code!
+Practical task #2
+Generate an array of N=1000 random integer values (randon numbers should be in the range [1..10]). Count the number of 
+occurrences for each number, then print them in descending order. Estimate the time and space complexity (using Big-O notation) of 
+your algorithm.
+Approximate output:
+Number 7: 120 times 
+Number 3: 110 times 
+Number 1: 105 times 
+Number 10: 103 times 
+Number 5: 100 times 
+Number 2: 98 times 
+Number 8: 95 times 
+Number 6: 94 times 
+Number 4: 90 times 
+Number 9: 88 times
