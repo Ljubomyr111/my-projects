@@ -4,7 +4,7 @@
         {
             "label": "build practical (gcc)",
             "type": "shell",
-            "command": "gcc",
+            "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe",
             "args": [
                 "-g",
                 "-O0",
@@ -15,7 +15,9 @@
             "options": {
                 "cwd": "${workspaceFolder}",
                 "env": {
-                    "PATH": "C:\\msys64\\ucrt64\\bin;${env:PATH}"
+                    "PATH": "C:\\msys64\\ucrt64\\bin;${env:PATH}",
+                    "TMP": "${workspaceFolder}\\.tmp",
+                    "TEMP": "${workspaceFolder}\\.tmp"
                 }
             },
             "group": {
