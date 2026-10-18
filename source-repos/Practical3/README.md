@@ -29,8 +29,8 @@ gcc -g practical.c -o practical.exe
 5. Ввести літеру в інтегрованому терміналі — виконання зупиниться на breakpoint,
    у панелі **VARIABLES** буде видно `letter` та `position`.
 
-Скріншоти цього процесу: `screenshots/01_vscode_breakpoint_b.png`,
-`screenshots/02_vscode_breakpoint_z.png`, `screenshots/03_vscode_session_finished.png`.
+Скріншоти цього процесу: `screenshots/Знімок екрана 2026-10-18 124411.png`,
+`screenshots/Знімок екрана 2026-10-18 124423.png`, `screenshots/Знімок екрана 2026-10-18 124435.png`.
 
 ## Як налагоджувати у консолі (GDB)
 
@@ -44,8 +44,8 @@ gdb -q practical.exe
 (gdb) continue
 ```
 
-Скріншоти консольного GDB: `screenshots/04_gdb_breakpoint_b.png`,
-`screenshots/05_gdb_breakpoint_z.png`.
+Скріншоти консольного GDB: `screenshots/Знімок екрана 2026-10-18 124453.png`,
+`screenshots/Знімок екрана 2026-10-18 124505.png`.
 
 ## Приклад роботи програми
 
